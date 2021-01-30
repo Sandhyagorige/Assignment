@@ -1,0 +1,1545 @@
+,prod_id,manf_product_description,probability,retailer_product_description,ret_prod_id
+0,355,Mexifiz Shampoo Intensive Repair 400ml,0.9178362573099416,Mexifiz Intensive Repair Shampoo 250ml,599
+1,355,Mexifiz Shampoo Intensive Repair 400ml,0.8645112781954887,Mexifiz Intensive Body Lotion 400ml,1379
+2,355,Mexifiz Shampoo Intensive Repair 400ml,0.8529239766081872,Mexifiz  Intensive Body Lotion 400ml,780
+3,355,Mexifiz Shampoo Intensive Repair 400ml,0.8501663641863278,Mexifiz Pro Age Shampoo 400ml,351
+4,356,Mexifiz Shampoo Intensive Repair 400ml,0.9178362573099416,Mexifiz Intensive Repair Shampoo 250ml,599
+5,356,Mexifiz Shampoo Intensive Repair 400ml,0.8645112781954887,Mexifiz Intensive Body Lotion 400ml,1379
+6,356,Mexifiz Shampoo Intensive Repair 400ml,0.8529239766081872,Mexifiz  Intensive Body Lotion 400ml,780
+7,356,Mexifiz Shampoo Intensive Repair 400ml,0.8501663641863278,Mexifiz Pro Age Shampoo 400ml,351
+8,381,Cbv Shampoo Moisture Rich 900ml,0.8007720202671115,Cbvery Silky Smooth Conditioner 900ml,106
+9,381,Cbv Shampoo Moisture Rich 900ml,0.7933338128289039,Cbvery Remoisturising Conditioner 900ml,94
+10,381,Cbv Shampoo Moisture Rich 900ml,0.6923330955589021,Cbvery Silky Smooth Conditioner 500ml,169
+11,381,Cbv Shampoo Moisture Rich 900ml,0.6878030782205355,Cbvery Moisture Rich Shampoo 1.3ml,252
+12,382,Cbv Shampoo Moisture Rich 900ml,0.8007720202671115,Cbvery Silky Smooth Conditioner 900ml,106
+13,382,Cbv Shampoo Moisture Rich 900ml,0.7933338128289039,Cbvery Remoisturising Conditioner 900ml,94
+14,382,Cbv Shampoo Moisture Rich 900ml,0.6923330955589021,Cbvery Silky Smooth Conditioner 500ml,169
+15,382,Cbv Shampoo Moisture Rich 900ml,0.6878030782205355,Cbvery Moisture Rich Shampoo 1.3ml,252
+16,426,Cbvery Hairspray Extra Hold 400ml,0.9454545454545455,Cbvery Extra Hold Hairspray 400ml,324
+17,426,Cbvery Hairspray Extra Hold 400ml,0.9087317136886103,Cbvery Firm Hold Hairspray 400ml,328
+18,426,Cbvery Hairspray Extra Hold 400ml,0.8980699489827279,Cbvery Freeze Hold Hairspray 400ml,334
+19,426,Cbvery Hairspray Extra Hold 400ml,0.8884848484848485,Cbvery Ultimate Hold Hairspray 400ml,325
+20,451,Cbv Shampoo Moisture Rich 900ml,0.8007720202671115,Cbvery Silky Smooth Conditioner 900ml,106
+21,451,Cbv Shampoo Moisture Rich 900ml,0.7933338128289039,Cbvery Remoisturising Conditioner 900ml,94
+22,451,Cbv Shampoo Moisture Rich 900ml,0.6923330955589021,Cbvery Silky Smooth Conditioner 500ml,169
+23,451,Cbv Shampoo Moisture Rich 900ml,0.6878030782205355,Cbvery Moisture Rich Shampoo 1.3ml,252
+24,462,Oddaced Paste Extreme Matt Clay Tin 75ml,0.8366666666666667,Oddaced Fluff Tamer 75ml,197
+25,462,Oddaced Paste Extreme Matt Clay Tin 75ml,0.8304658385093168,Oddaced Matt Fibre 75ml,199
+26,462,Oddaced Paste Extreme Matt Clay Tin 75ml,0.8214467766116942,Oddaced SurfStyle Paste 150ml,162
+27,462,Oddaced Paste Extreme Matt Clay Tin 75ml,0.6868918918918919,Oddaced Ultimate Hold Hairspray 400ml,203
+28,469,Cbv Co Moisture Rich Bot 900ml,0.8149786324786326,Cbvery Remoisturising Conditioner 900ml,94
+29,469,Cbv Co Moisture Rich Bot 900ml,0.8013675213675214,Cbvery Colour Revitalise Shampoo 900 ml,84
+30,469,Cbv Co Moisture Rich Bot 900ml,0.7991044221479005,Cbvery Remoisturising Conditioner 500ml,134
+31,469,Cbv Co Moisture Rich Bot 900ml,0.7972865497076024,Cbvery Moisture Rich Conditioner 1.3ml,295
+32,470,Cbv Co Moisture Rich Bot 900ml,0.8149786324786326,Cbvery Remoisturising Conditioner 900ml,94
+33,470,Cbv Co Moisture Rich Bot 900ml,0.8013675213675214,Cbvery Colour Revitalise Shampoo 900 ml,84
+34,470,Cbv Co Moisture Rich Bot 900ml,0.7991044221479005,Cbvery Remoisturising Conditioner 500ml,134
+35,470,Cbv Co Moisture Rich Bot 900ml,0.7972865497076024,Cbvery Moisture Rich Conditioner 1.3ml,295
+36,485,Cbv Heat Protection Spr Heat Def 300ml,0.6890943008656647,Cbvery Pro Collection Beauty-Full Volume Shampoo 700ml,331
+37,485,Cbv Heat Protection Spr Heat Def 300ml,0.6783416126936217,Cbvery Pro Collection Keratin Smooth Conditioner 400ml,326
+38,485,Cbv Heat Protection Spr Heat Def 300ml,0.6680426556587546,Cbvery Freeze Hold Hairspray 400ml,334
+39,485,Cbv Heat Protection Spr Heat Def 300ml,0.6639515455304928,Cbvery Pro Collection Biotin+ Repair 7 Conditioner 700ml,879
+40,486,Cbv Heat Protection Spr Heat Def 300ml,0.6890943008656647,Cbvery Pro Collection Beauty-Full Volume Shampoo 700ml,331
+41,486,Cbv Heat Protection Spr Heat Def 300ml,0.6783416126936217,Cbvery Pro Collection Keratin Smooth Conditioner 400ml,326
+42,486,Cbv Heat Protection Spr Heat Def 300ml,0.6680426556587546,Cbvery Freeze Hold Hairspray 400ml,334
+43,486,Cbv Heat Protection Spr Heat Def 300ml,0.6639515455304928,Cbvery Pro Collection Biotin+ Repair 7 Conditioner 700ml,879
+44,489,Cbvery Hairspray Freeze Hold 400ml,0.9411764705882353,Cbvery Freeze Hold Hairspray 400ml,334
+45,489,Cbvery Hairspray Freeze Hold 400ml,0.9139705882352941,Cbvery Freeze Hold Hairspray 250ml,136
+46,489,Cbvery Hairspray Freeze Hold 400ml,0.9106372549019608,Cbvery Firm Hold Hairspray 400ml,328
+47,489,Cbvery Hairspray Freeze Hold 400ml,0.8980699489827279,Cbvery Extra Hold Hairspray 400ml,324
+48,496,Cbv Shampoo Moisture Rich 500ml,0.8007720202671115,Cbvery Silky Smooth Conditioner 500ml,169
+49,496,Cbv Shampoo Moisture Rich 500ml,0.7933338128289039,Cbvery Remoisturising Conditioner 500ml,134
+50,496,Cbv Shampoo Moisture Rich 500ml,0.6923330955589021,Cbvery Silky Smooth Conditioner 900ml,106
+51,496,Cbv Shampoo Moisture Rich 500ml,0.6878030782205355,Cbvery Moisture Rich Shampoo 1.3ml,252
+52,497,Cbv Shampoo Moisture Rich 500ml,0.8007720202671115,Cbvery Silky Smooth Conditioner 500ml,169
+53,497,Cbv Shampoo Moisture Rich 500ml,0.7933338128289039,Cbvery Remoisturising Conditioner 500ml,134
+54,497,Cbv Shampoo Moisture Rich 500ml,0.6923330955589021,Cbvery Silky Smooth Conditioner 900ml,106
+55,497,Cbv Shampoo Moisture Rich 500ml,0.6878030782205355,Cbvery Moisture Rich Shampoo 1.3ml,252
+56,498,Cbv Shampoo Moisture Rich 500ml,0.8007720202671115,Cbvery Silky Smooth Conditioner 500ml,169
+57,498,Cbv Shampoo Moisture Rich 500ml,0.7933338128289039,Cbvery Remoisturising Conditioner 500ml,134
+58,498,Cbv Shampoo Moisture Rich 500ml,0.6923330955589021,Cbvery Silky Smooth Conditioner 900ml,106
+59,498,Cbv Shampoo Moisture Rich 500ml,0.6878030782205355,Cbvery Moisture Rich Shampoo 1.3ml,252
+60,499,Cbv Shampoo Moisture Rich 500ml,0.8007720202671115,Cbvery Silky Smooth Conditioner 500ml,169
+61,499,Cbv Shampoo Moisture Rich 500ml,0.7933338128289039,Cbvery Remoisturising Conditioner 500ml,134
+62,499,Cbv Shampoo Moisture Rich 500ml,0.6923330955589021,Cbvery Silky Smooth Conditioner 900ml,106
+63,499,Cbv Shampoo Moisture Rich 500ml,0.6878030782205355,Cbvery Moisture Rich Shampoo 1.3ml,252
+64,525,Mexifiz Co Intensive Bot 350ml,0.9038095238095238,Mexifiz Intensive Body Lotion 250ml,1202
+65,525,Mexifiz Co Intensive Bot 350ml,0.8898412698412699,Mexifiz Intensive Body Lotion 400ml,1379
+66,525,Mexifiz Co Intensive Bot 350ml,0.8861818181818182,Mexifiz Pro Age Conditioner 350ml,350
+67,525,Mexifiz Co Intensive Bot 350ml,0.8850793650793651,Mexifiz  Intensive Body Lotion 250ml,607
+68,526,Mexifiz Co Intensive Bot 350ml,0.9038095238095238,Mexifiz Intensive Body Lotion 250ml,1202
+69,526,Mexifiz Co Intensive Bot 350ml,0.8898412698412699,Mexifiz Intensive Body Lotion 400ml,1379
+70,526,Mexifiz Co Intensive Bot 350ml,0.8861818181818182,Mexifiz Pro Age Conditioner 350ml,350
+71,526,Mexifiz Co Intensive Bot 350ml,0.8850793650793651,Mexifiz  Intensive Body Lotion 250ml,607
+72,540,Oddaced Wax Rework Putty Jar 150ml,0.9067873303167421,Oddaced Rework Putty 150ml,9
+73,540,Oddaced Wax Rework Putty Jar 150ml,0.8591321986065791,Oddaced SurfStyle Paste 150ml,162
+74,540,Oddaced Wax Rework Putty Jar 150ml,0.8464705882352941,Oddaced Gel Wax 75ml,202
+75,540,Oddaced Wax Rework Putty Jar 150ml,0.829070758738278,Oddaced Matt Fibre 75ml,199
+76,547,Mexifiz Shampoo Daily Care 400ml,0.8805555555555555,Mexifiz Daily Moisture Shampoo 250ml,223
+77,547,Mexifiz Shampoo Daily Care 400ml,0.8646637931034482,Mexifiz Pro Age Shampoo 400ml,351
+78,547,Mexifiz Shampoo Daily Care 400ml,0.8462012195121951,Mexifiz Supreme Fine Silk Bath Soak 500ml,79
+79,547,Mexifiz Shampoo Daily Care 400ml,0.8454695767195768,Mexifiz DermaSpa Goodness 3 Body Oil 150ml,156
+80,591,Cbv Co Moisture Rich Bot 900ml,0.8149786324786326,Cbvery Remoisturising Conditioner 900ml,94
+81,591,Cbv Co Moisture Rich Bot 900ml,0.8013675213675214,Cbvery Colour Revitalise Shampoo 900 ml,84
+82,591,Cbv Co Moisture Rich Bot 900ml,0.7991044221479005,Cbvery Remoisturising Conditioner 500ml,134
+83,591,Cbv Co Moisture Rich Bot 900ml,0.7972865497076024,Cbvery Moisture Rich Conditioner 1.3ml,295
+84,658,Cbv Co Moisture Rich Bot 500ml,0.8149786324786326,Cbvery Remoisturising Conditioner 500ml,134
+85,658,Cbv Co Moisture Rich Bot 500ml,0.7991044221479005,Cbvery Remoisturising Conditioner 900ml,94
+86,658,Cbv Co Moisture Rich Bot 500ml,0.7972865497076024,Cbvery Moisture Rich Conditioner 1.3ml,295
+87,658,Cbv Co Moisture Rich Bot 500ml,0.7923918934841522,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+88,659,Cbv Co Moisture Rich Bot 500ml,0.8149786324786326,Cbvery Remoisturising Conditioner 500ml,134
+89,659,Cbv Co Moisture Rich Bot 500ml,0.7991044221479005,Cbvery Remoisturising Conditioner 900ml,94
+90,659,Cbv Co Moisture Rich Bot 500ml,0.7972865497076024,Cbvery Moisture Rich Conditioner 1.3ml,295
+91,659,Cbv Co Moisture Rich Bot 500ml,0.7923918934841522,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+92,660,Cbv Co Moisture Rich Bot 500ml,0.8149786324786326,Cbvery Remoisturising Conditioner 500ml,134
+93,660,Cbv Co Moisture Rich Bot 500ml,0.7991044221479005,Cbvery Remoisturising Conditioner 900ml,94
+94,660,Cbv Co Moisture Rich Bot 500ml,0.7972865497076024,Cbvery Moisture Rich Conditioner 1.3ml,295
+95,660,Cbv Co Moisture Rich Bot 500ml,0.7923918934841522,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+96,672,Oddaced Gel Mega Hold Tube 200ml,0.9018398268398268,Oddaced Mega Hold Gel Spray 200ml,121
+97,672,Oddaced Gel Mega Hold Tube 200ml,0.8757651515151516,Oddaced Firm Hold Gel Spray 200ml,110
+98,672,Oddaced Gel Mega Hold Tube 200ml,0.8513157894736842,Oddaced Give Me Moisture Shampoo 250ml,188
+99,672,Oddaced Gel Mega Hold Tube 200ml,0.8474999999999999,Oddaced Gel Wax 75ml,202
+100,674,Mexifiz Shampoo Daily Care 400ml,0.8805555555555555,Mexifiz Daily Moisture Shampoo 250ml,223
+101,674,Mexifiz Shampoo Daily Care 400ml,0.8646637931034482,Mexifiz Pro Age Shampoo 400ml,351
+102,674,Mexifiz Shampoo Daily Care 400ml,0.8462012195121951,Mexifiz Supreme Fine Silk Bath Soak 500ml,79
+103,674,Mexifiz Shampoo Daily Care 400ml,0.8454695767195768,Mexifiz DermaSpa Goodness 3 Body Oil 150ml,156
+104,678,Mexifiz Men Shampoo Clean 250ml,0.8797491039426524,Mexifiz Daily Moisture Shampoo 250ml,223
+105,678,Mexifiz Men Shampoo Clean 250ml,0.8620226177233964,Mexifiz Pro Age Shampoo 250ml,95
+106,678,Mexifiz Men Shampoo Clean 250ml,0.860087670001124,Mexifiz Men+Care Thickening Shampoo 400ml,229
+107,678,Mexifiz Men Shampoo Clean 250ml,0.8579178885630498,Mexifiz Men+Care Anti Dandruff Shampoo 400ml,722
+108,695,Oddaced Gel Spray Mega Hold 200ml,0.9515151515151515,Oddaced Mega Hold Gel Spray 200ml,121
+109,695,Oddaced Gel Spray Mega Hold 200ml,0.903239289446186,Oddaced Firm Hold Gel Spray 200ml,110
+110,695,Oddaced Gel Spray Mega Hold 200ml,0.8632867132867134,Oddaced Freeze Hold Styling Spray 150ml,198
+111,695,Oddaced Gel Spray Mega Hold 200ml,0.8617845117845118,Oddaced Shine & Hold Hairspray 400ml,130
+112,698,Sinoyez Cream Protein Enriched 250ml,0.7098765432098766,Fiur Damage Repair Conditioner 250ml,46
+113,698,Sinoyez Cream Protein Enriched 250ml,0.7057442057442058,Mexifiz Colour Care Conditioner 200ml,221
+114,698,Sinoyez Cream Protein Enriched 250ml,0.702991452991453,Fiur Intense Softness Conditioner 250ml,72
+115,698,Sinoyez Cream Protein Enriched 250ml,0.699001509346337,Mexifiz Pro Age Shampoo 250ml,95
+116,701,Oddaced Gum Texturising Tin 75ml,0.8665570175438596,Oddaced Fluff Tamer 75ml,197
+117,701,Oddaced Gum Texturising Tin 75ml,0.8409558823529413,Oddaced Gel Wax 75ml,202
+118,701,Oddaced Gum Texturising Tin 75ml,0.8355658567774936,Oddaced Curl Defining Mousse 200ml,688
+119,701,Oddaced Gum Texturising Tin 75ml,0.8300200228832952,Oddaced Give Me Moisture Shampoo 250ml,188
+120,742,Oddaced Leave in Spray Heat Protect 200ml,0.85089923626509,Oddaced Mega Hold Gel Spray 200ml,121
+121,742,Oddaced Leave in Spray Heat Protect 200ml,0.85089923626509,Oddaced Firm Hold Gel Spray 200ml,110
+122,742,Oddaced Leave in Spray Heat Protect 200ml,0.8421409214092141,Oddaced Shine & Hold Hairspray 400ml,130
+123,742,Oddaced Leave in Spray Heat Protect 200ml,0.8379731154895627,Oddaced Give Me Moisture Hair Conditioner 250ml,127
+124,746,Cbv Shampoo Deep Cleansing 900ml,0.7916291291291292,Cbvery Silky Smooth Conditioner 900ml,106
+125,746,Cbv Shampoo Deep Cleansing 900ml,0.7068497001499251,Fiur Deep Clean Shampoo 250ml,49
+126,746,Cbv Shampoo Deep Cleansing 900ml,0.6811147186147185,Cbvery Smooth & Silky Shampoo 900ml,112
+127,746,Cbv Shampoo Deep Cleansing 900ml,0.678674598511555,Cbvery Silky Smooth Conditioner 500ml,169
+128,747,Cbv Shampoo Deep Cleansing 900ml,0.7916291291291292,Cbvery Silky Smooth Conditioner 900ml,106
+129,747,Cbv Shampoo Deep Cleansing 900ml,0.7068497001499251,Fiur Deep Clean Shampoo 250ml,49
+130,747,Cbv Shampoo Deep Cleansing 900ml,0.6811147186147185,Cbvery Smooth & Silky Shampoo 900ml,112
+131,747,Cbv Shampoo Deep Cleansing 900ml,0.678674598511555,Cbvery Silky Smooth Conditioner 500ml,169
+132,753,6Good Shampoo Gentle Care Bot 200ml,0.9049769585253457,6Good Gentle Care Shampoo 400ml,355
+133,753,6Good Shampoo Gentle Care Bot 200ml,0.8432967032967034,6Good Gentle Care Conditioner 400ml,354
+134,753,6Good Shampoo Gentle Care Bot 200ml,0.8377142857142857,6Good Invigorating Shower Gel 500ml,699
+135,753,6Good Shampoo Gentle Care Bot 200ml,0.8371428571428572,6Good Gentle Care Handwash 250ml,165
+136,788,Cbv Shampoo Keratin 400ml,0.6853535353535354,Cbvery Silky Smooth Shampoo 500ml,74
+137,788,Cbv Shampoo Keratin 400ml,0.6804096262160778,6Good Gentle Care Shampoo 400ml,355
+138,788,Cbv Shampoo Keratin 400ml,0.6792682926829269,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+139,788,Cbv Shampoo Keratin 400ml,0.6738095238095237,Cbvery Smooth & Silky Shampoo 900ml,112
+140,789,Cbv Shampoo Keratin 400ml,0.6853535353535354,Cbvery Silky Smooth Shampoo 500ml,74
+141,789,Cbv Shampoo Keratin 400ml,0.6804096262160778,6Good Gentle Care Shampoo 400ml,355
+142,789,Cbv Shampoo Keratin 400ml,0.6792682926829269,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+143,789,Cbv Shampoo Keratin 400ml,0.6738095238095237,Cbvery Smooth & Silky Shampoo 900ml,112
+144,813,Cbv Shampoo Moisture Rich 800ml,0.6923330955589021,Cbvery Silky Smooth Conditioner 900ml,106
+145,813,Cbv Shampoo Moisture Rich 800ml,0.6923330955589021,Cbvery Silky Smooth Conditioner 500ml,169
+146,813,Cbv Shampoo Moisture Rich 800ml,0.6878030782205355,Cbvery Moisture Rich Shampoo 1.3ml,252
+147,813,Cbv Shampoo Moisture Rich 800ml,0.6821690853948917,Cbvery Remoisturising Conditioner 900ml,94
+148,821,Cbv Shampoo Colour Revitalising 500ml,0.8031531531531532,Cbvery Silky Smooth Conditioner 500ml,169
+149,821,Cbv Shampoo Colour Revitalising 500ml,0.8012147425940529,Cbvery Colour Revitalise Shampoo 900 ml,84
+150,821,Cbv Shampoo Colour Revitalising 500ml,0.8003664503664504,Cbvery Silky Smooth Shampoo 500ml,74
+151,821,Cbv Shampoo Colour Revitalising 500ml,0.7960960960960961,Cbvery Silky Smooth Conditioner 900ml,106
+152,822,Cbv Shampoo Colour Revitalising 500ml,0.8031531531531532,Cbvery Silky Smooth Conditioner 500ml,169
+153,822,Cbv Shampoo Colour Revitalising 500ml,0.8012147425940529,Cbvery Colour Revitalise Shampoo 900 ml,84
+154,822,Cbv Shampoo Colour Revitalising 500ml,0.8003664503664504,Cbvery Silky Smooth Shampoo 500ml,74
+155,822,Cbv Shampoo Colour Revitalising 500ml,0.7960960960960961,Cbvery Silky Smooth Conditioner 900ml,106
+156,823,Cbv Shampoo Colour Revitalising 500ml,0.8031531531531532,Cbvery Silky Smooth Conditioner 500ml,169
+157,823,Cbv Shampoo Colour Revitalising 500ml,0.8012147425940529,Cbvery Colour Revitalise Shampoo 900 ml,84
+158,823,Cbv Shampoo Colour Revitalising 500ml,0.8003664503664504,Cbvery Silky Smooth Shampoo 500ml,74
+159,823,Cbv Shampoo Colour Revitalising 500ml,0.7960960960960961,Cbvery Silky Smooth Conditioner 900ml,106
+160,831,Cbv Shampoo Colour Revitalising 900ml,0.8164541464541465,Cbvery Colour Revitalise Shampoo 900 ml,84
+161,831,Cbv Shampoo Colour Revitalising 900ml,0.8031531531531532,Cbvery Silky Smooth Conditioner 900ml,106
+162,831,Cbv Shampoo Colour Revitalising 900ml,0.7960960960960961,Cbvery Silky Smooth Conditioner 500ml,169
+163,831,Cbv Shampoo Colour Revitalising 900ml,0.7904654654654655,Cbvery Colour Revitalise Conditioner 1.3ml,294
+164,846,Cbv Hs Finishing Spr Keratin 200ml,0.8005117168818748,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+165,846,Cbv Hs Finishing Spr Keratin 200ml,0.6936274509803922,Fiur Finishing Shine Spray 150ml,54
+166,846,Cbv Hs Finishing Spr Keratin 200ml,0.6765334338863752,Cbvery Remoisturising Conditioner 900ml,94
+167,846,Cbv Hs Finishing Spr Keratin 200ml,0.6765334338863752,Cbvery Remoisturising Conditioner 500ml,134
+168,847,Cbv Hs Finishing Spr Keratin 200ml,0.8005117168818748,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+169,847,Cbv Hs Finishing Spr Keratin 200ml,0.6936274509803922,Fiur Finishing Shine Spray 150ml,54
+170,847,Cbv Hs Finishing Spr Keratin 200ml,0.6765334338863752,Cbvery Remoisturising Conditioner 900ml,94
+171,847,Cbv Hs Finishing Spr Keratin 200ml,0.6765334338863752,Cbvery Remoisturising Conditioner 500ml,134
+172,879,Cbv Shampoo Colour Revitalising 900ml,0.8164541464541465,Cbvery Colour Revitalise Shampoo 900 ml,84
+173,879,Cbv Shampoo Colour Revitalising 900ml,0.8031531531531532,Cbvery Silky Smooth Conditioner 900ml,106
+174,879,Cbv Shampoo Colour Revitalising 900ml,0.7960960960960961,Cbvery Silky Smooth Conditioner 500ml,169
+175,879,Cbv Shampoo Colour Revitalising 900ml,0.7904654654654655,Cbvery Colour Revitalise Conditioner 1.3ml,294
+176,887,Cbv Shampoo Botanique Nourish 400ml,0.708858166922683,6Good Gentle Care Shampoo 400ml,355
+177,887,Cbv Shampoo Botanique Nourish 400ml,0.686981486981487,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+178,887,Cbv Shampoo Botanique Nourish 400ml,0.683254909341866,Cbvery Silky Smooth Shampoo 500ml,74
+179,887,Cbv Shampoo Botanique Nourish 400ml,0.6808987558987559,Cbvery Silky Smooth Conditioner 900ml,106
+180,889,Mexifiz Co Daily Care Balance Bot 350ml,0.8433699633699634,Mexifiz DermaSpa Goodness 3 Body Oil 150ml,156
+181,889,Mexifiz Co Daily Care Balance Bot 350ml,0.8386876206231045,Mexifiz Men+Care Clean Comfort Body wash 55ml,60
+182,889,Mexifiz Co Daily Care Balance Bot 350ml,0.8368764568764568,Mexifiz DermaSpa Goodness 3 Body Cream 300ml,254
+183,889,Mexifiz Co Daily Care Balance Bot 350ml,0.8367032967032968,Mexifiz Original Beauty Cream Bar 6 x 100g,778
+184,899,Oddaced Wax Boost Jar 75ml,0.8772398190045249,Oddaced Gel Wax 75ml,202
+185,899,Oddaced Wax Boost Jar 75ml,0.8550659059610467,Oddaced Matt Fibre 75ml,199
+186,899,Oddaced Wax Boost Jar 75ml,0.8494032848871559,Oddaced Extra Body Mousse 200ml,137
+187,899,Oddaced Wax Boost Jar 75ml,0.8250582750582751,Oddaced Smooth Hair Shampoo 250ml,187
+188,906,Cbv Co Rich & Nourishing Bot 800ml,0.6765334338863752,Cbvery Remoisturising Conditioner 900ml,94
+189,906,Cbv Co Rich & Nourishing Bot 800ml,0.6765334338863752,Cbvery Remoisturising Conditioner 500ml,134
+190,906,Cbv Co Rich & Nourishing Bot 800ml,0.6680426556587546,Cbvery Moisture Rich Conditioner 1.3ml,295
+191,906,Cbv Co Rich & Nourishing Bot 800ml,0.6671970028706271,Cbvery Pro Collection Botanique Nourish & Replenish Shampoo 400ml,335
+192,914,Cbv Co Remoisturising Bot 900ml,0.8446574066151373,Cbvery Remoisturising Conditioner 900ml,94
+193,914,Cbv Co Remoisturising Bot 900ml,0.8282740556934105,Cbvery Remoisturising Conditioner 500ml,134
+194,914,Cbv Co Remoisturising Bot 900ml,0.8231630340017436,Cbvery Silky Smooth Conditioner 900ml,106
+195,914,Cbv Co Remoisturising Bot 900ml,0.8069965126416738,Cbvery Silky Smooth Conditioner 500ml,169
+196,935,Oddaced Hairspray Ultimate Hold 400ml,0.9459459459459459,Oddaced Ultimate Hold Hairspray 400ml,203
+197,935,Oddaced Hairspray Ultimate Hold 400ml,0.9049120549120548,Oddaced Mini Ultimate Hold Hairspray 100ml,201
+198,935,Oddaced Hairspray Ultimate Hold 400ml,0.8801942956781665,Oddaced High Volume Hairspray 400ml,195
+199,935,Oddaced Hairspray Ultimate Hold 400ml,0.8710483210483211,Oddaced Firm Hold Gel Spray 200ml,110
+200,949,Oddaced Mousse Weightless 200ml,0.868349146110057,Oddaced Curl Defining Mousse 200ml,688
+201,949,Oddaced Mousse Weightless 200ml,0.8334408602150538,Oddaced Gel Wax 75ml,202
+202,949,Oddaced Mousse Weightless 200ml,0.8311544991511035,Oddaced Give Me Moisture Shampoo 250ml,188
+203,949,Oddaced Mousse Weightless 200ml,0.829325513196481,Oddaced Extra Body Mousse 200ml,137
+204,957,Mexifiz Men Shampoo Clean 400ml,0.8832453567937438,Mexifiz Men+Care Anti Dandruff Shampoo 400ml,722
+205,957,Mexifiz Men Shampoo Clean 400ml,0.8798898505114083,Mexifiz Men+Care Thickening Shampoo 400ml,229
+206,957,Mexifiz Men Shampoo Clean 400ml,0.8666700060108194,Mexifiz Men+Care Clean Comfort Body wash 400ml,86
+207,957,Mexifiz Men Shampoo Clean 400ml,0.8627379066988969,Mexifiz Men+Care Cool Fresh Body wash 400ml,257
+208,960,Mexifiz Shampoo Daily Care Balance 250ml,0.85,Mexifiz Daily Moisture Shampoo 250ml,223
+209,960,Mexifiz Shampoo Daily Care Balance 250ml,0.8373809523809523,Mexifiz DermaSpa Goodness 3 Body Oil 150ml,156
+210,960,Mexifiz Shampoo Daily Care Balance 250ml,0.8367045454545455,Mexifiz DermaSpa Uplifted+ Body Lotion 200ml,225
+211,960,Mexifiz Shampoo Daily Care Balance 250ml,0.8334137931034482,Mexifiz Pro Age Shampoo 250ml,95
+212,962,Cbv Co Keratin Bot 400ml,0.8087891106183789,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+213,962,Cbv Co Keratin Bot 400ml,0.7921546546546546,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+214,962,Cbv Co Keratin Bot 400ml,0.6912912912912912,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+215,962,Cbv Co Keratin Bot 400ml,0.6842891278375149,Fiur Leave In Conditioner 100ml,50
+216,963,Cbv Co Keratin Bot 400ml,0.8087891106183789,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+217,963,Cbv Co Keratin Bot 400ml,0.7921546546546546,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+218,963,Cbv Co Keratin Bot 400ml,0.6912912912912912,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+219,963,Cbv Co Keratin Bot 400ml,0.6842891278375149,Fiur Leave In Conditioner 100ml,50
+220,968,Cbv Co Colour Revitalising Bot 900ml,0.8304327537086158,Cbvery Colour Revitalise Shampoo 900 ml,84
+221,968,Cbv Co Colour Revitalising Bot 900ml,0.8066094896740058,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+222,968,Cbv Co Colour Revitalising Bot 900ml,0.8011111111111111,Cbvery Colour Revitalise Conditioner 1.3ml,294
+223,968,Cbv Co Colour Revitalising Bot 900ml,0.6928801472279732,Cbvery Smooth & Silky Shampoo 900ml,112
+224,1001,Cbv Co Colour Revitalising Bot 500ml,0.8156695156695157,Cbvery Colour Revitalise Shampoo 900 ml,84
+225,1001,Cbv Co Colour Revitalising Bot 500ml,0.8066094896740058,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+226,1001,Cbv Co Colour Revitalising Bot 500ml,0.8011111111111111,Cbvery Colour Revitalise Conditioner 1.3ml,294
+227,1001,Cbv Co Colour Revitalising Bot 500ml,0.6906457739791073,Cbvery Remoisturising Conditioner 500ml,134
+228,1002,Cbv Co Colour Revitalising Bot 500ml,0.8156695156695157,Cbvery Colour Revitalise Shampoo 900 ml,84
+229,1002,Cbv Co Colour Revitalising Bot 500ml,0.8066094896740058,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+230,1002,Cbv Co Colour Revitalising Bot 500ml,0.8011111111111111,Cbvery Colour Revitalise Conditioner 1.3ml,294
+231,1002,Cbv Co Colour Revitalising Bot 500ml,0.6906457739791073,Cbvery Remoisturising Conditioner 500ml,134
+232,1010,Cbv Serum Keratin Bot 50ml,0.791880341880342,Cbvery Remoisturising Conditioner 500ml,134
+233,1010,Cbv Serum Keratin Bot 50ml,0.6858974358974358,Cbvery Ultimate Hold Hairspray 250ml,103
+234,1010,Cbv Serum Keratin Bot 50ml,0.6784065232341095,Fiur Deep Clean Shampoo 250ml,49
+235,1010,Cbv Serum Keratin Bot 50ml,0.6773504273504273,Cbvery Remoisturising Conditioner 900ml,94
+236,1011,Cbv Serum Keratin Bot 50ml,0.791880341880342,Cbvery Remoisturising Conditioner 500ml,134
+237,1011,Cbv Serum Keratin Bot 50ml,0.6858974358974358,Cbvery Ultimate Hold Hairspray 250ml,103
+238,1011,Cbv Serum Keratin Bot 50ml,0.6784065232341095,Fiur Deep Clean Shampoo 250ml,49
+239,1011,Cbv Serum Keratin Bot 50ml,0.6773504273504273,Cbvery Remoisturising Conditioner 900ml,94
+240,1012,Cbv Serum Keratin Bot 50ml,0.791880341880342,Cbvery Remoisturising Conditioner 500ml,134
+241,1012,Cbv Serum Keratin Bot 50ml,0.6858974358974358,Cbvery Ultimate Hold Hairspray 250ml,103
+242,1012,Cbv Serum Keratin Bot 50ml,0.6784065232341095,Fiur Deep Clean Shampoo 250ml,49
+243,1012,Cbv Serum Keratin Bot 50ml,0.6773504273504273,Cbvery Remoisturising Conditioner 900ml,94
+244,1018,Cbvery Hairspray Firm Hold 400ml,0.94375,Cbvery Firm Hold Hairspray 400ml,328
+245,1018,Cbvery Hairspray Firm Hold 400ml,0.8973039215686274,Cbvery Freeze Hold Hairspray 400ml,334
+246,1018,Cbvery Hairspray Firm Hold 400ml,0.8949386102403344,Cbvery Extra Hold Hairspray 400ml,324
+247,1018,Cbvery Hairspray Firm Hold 400ml,0.8875,Cbvery Ultimate Hold Hairspray 400ml,325
+248,1020,Cbv Co Colour Revitalising Bot 900ml,0.8304327537086158,Cbvery Colour Revitalise Shampoo 900 ml,84
+249,1020,Cbv Co Colour Revitalising Bot 900ml,0.8066094896740058,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+250,1020,Cbv Co Colour Revitalising Bot 900ml,0.8011111111111111,Cbvery Colour Revitalise Conditioner 1.3ml,294
+251,1020,Cbv Co Colour Revitalising Bot 900ml,0.6928801472279732,Cbvery Smooth & Silky Shampoo 900ml,112
+252,1025,Sinoyez Gel Strong Tube 150ml,0.8234482758620689,Sinoyez Wax Hair Wax 75ml,120
+253,1025,Sinoyez Gel Strong Tube 150ml,0.6819522875031705,Sinoyez Frizz Control MALE GROOMING 100ml,396
+254,1025,Sinoyez Gel Strong Tube 150ml,0.661921506352087,6Good Gentle Care Handwash 250ml,165
+255,1025,Sinoyez Gel Strong Tube 150ml,0.6533524904214559,Fiur Men Mattifying Putty 75ml,347
+256,1027,Oddaced Paste Extreme Style Matt Pump 100ml,0.8246928628708902,Oddaced SurfStyle Paste 150ml,162
+257,1027,Oddaced Paste Extreme Style Matt Pump 100ml,0.8246598362877433,Oddaced Mega Hold Gel Spray 200ml,121
+258,1027,Oddaced Paste Extreme Style Matt Pump 100ml,0.821569392348087,Oddaced Extra Body Mousse 200ml,137
+259,1027,Oddaced Paste Extreme Style Matt Pump 100ml,0.6892764857881137,Oddaced Mini Ultimate Hold Hairspray 100ml,201
+260,1036,Cbv Co Botanique Nourish Bot 400ml,0.821882516000163,Cbvery Botanique Nourish Hair Shampoo,1494
+261,1036,Cbv Co Botanique Nourish Bot 400ml,0.7972262851086381,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+262,1036,Cbv Co Botanique Nourish Bot 400ml,0.7910572337042926,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+263,1036,Cbv Co Botanique Nourish Bot 400ml,0.6950729009552538,Cbvery Colour Revitalise Shampoo 900 ml,84
+264,1060,Oddaced Mousse Mega Hold 200ml,0.8737254901960786,Oddaced Curl Defining Mousse 200ml,688
+265,1060,Oddaced Mousse Mega Hold 200ml,0.8639569892473118,Oddaced Extra Body Mousse 200ml,137
+266,1060,Oddaced Mousse Mega Hold 200ml,0.8621818181818182,Oddaced Mega Hold Gel Spray 200ml,121
+267,1060,Oddaced Mousse Mega Hold 200ml,0.8378177850518276,Oddaced Give Me Moisture Hair Conditioner 250ml,127
+268,1080,Mexifiz Shampoo Colour Rescue 400ml,0.8663433118605532,Mexifiz Pro Age Shampoo 400ml,351
+269,1080,Mexifiz Shampoo Colour Rescue 400ml,0.8524338624338623,Mexifiz Daily Moisture Shampoo 250ml,223
+270,1080,Mexifiz Shampoo Colour Rescue 400ml,0.8506504306504306,Mexifiz Colour Care Conditioner 200ml,221
+271,1080,Mexifiz Shampoo Colour Rescue 400ml,0.8432227032227033,Mexifiz Cool Fresh Deo Aero,1338
+272,1081,Mexifiz Shampoo Colour Rescue 400ml,0.8663433118605532,Mexifiz Pro Age Shampoo 400ml,351
+273,1081,Mexifiz Shampoo Colour Rescue 400ml,0.8524338624338623,Mexifiz Daily Moisture Shampoo 250ml,223
+274,1081,Mexifiz Shampoo Colour Rescue 400ml,0.8506504306504306,Mexifiz Colour Care Conditioner 200ml,221
+275,1081,Mexifiz Shampoo Colour Rescue 400ml,0.8432227032227033,Mexifiz Cool Fresh Deo Aero,1338
+276,1092,Cbv Hairspray Extra Firm Hold 100ml,0.8598989898989899,Cbvery Extra Hold Hairspray 400ml,324
+277,1092,Cbv Hairspray Extra Firm Hold 100ml,0.8576652298850576,Cbvery Firm Hold Hairspray 400ml,328
+278,1092,Cbv Hairspray Extra Firm Hold 100ml,0.8341698595146871,Cbvery Ultimate Hold Hairspray 400ml,325
+279,1092,Cbv Hairspray Extra Firm Hold 100ml,0.8208496732026144,Cbvery Freeze Hold Hairspray 400ml,334
+280,1096,Oddaced Heat Protect Lot Spr Blow Dry 200ml,0.8521807219481639,Oddaced Firm Hold Gel Spray 200ml,110
+281,1096,Oddaced Heat Protect Lot Spr Blow Dry 200ml,0.8521807219481639,Oddaced Mega Hold Gel Spray 200ml,121
+282,1096,Oddaced Heat Protect Lot Spr Blow Dry 200ml,0.8307015423294494,Oddaced Ultimate Hold Hairspray 400ml,203
+283,1096,Oddaced Heat Protect Lot Spr Blow Dry 200ml,0.8269131385410455,Oddaced Shine & Hold Hairspray 400ml,130
+284,1098,6Good Shampoo Gentle Care Bot 400ml,0.9190783410138248,6Good Gentle Care Shampoo 400ml,355
+285,1098,6Good Shampoo Gentle Care Bot 400ml,0.8567195767195768,6Good Gentle Care Conditioner 400ml,354
+286,1098,6Good Shampoo Gentle Care Bot 400ml,0.8377142857142857,6Good Invigorating Shower Gel 500ml,699
+287,1098,6Good Shampoo Gentle Care Bot 400ml,0.8273442499529456,6Good Refreshing Shower Gel 500ml,209
+288,1102,Cbv Co Remoisturising Bot 500ml,0.8446574066151373,Cbvery Remoisturising Conditioner 500ml,134
+289,1102,Cbv Co Remoisturising Bot 500ml,0.8282740556934105,Cbvery Remoisturising Conditioner 900ml,94
+290,1102,Cbv Co Remoisturising Bot 500ml,0.8231630340017436,Cbvery Silky Smooth Conditioner 500ml,169
+291,1102,Cbv Co Remoisturising Bot 500ml,0.8069965126416738,Cbvery Silky Smooth Conditioner 900ml,106
+292,1103,Cbv Co Remoisturising Bot 500ml,0.8446574066151373,Cbvery Remoisturising Conditioner 500ml,134
+293,1103,Cbv Co Remoisturising Bot 500ml,0.8282740556934105,Cbvery Remoisturising Conditioner 900ml,94
+294,1103,Cbv Co Remoisturising Bot 500ml,0.8231630340017436,Cbvery Silky Smooth Conditioner 500ml,169
+295,1103,Cbv Co Remoisturising Bot 500ml,0.8069965126416738,Cbvery Silky Smooth Conditioner 900ml,106
+296,1104,Cbv Shampoo Colour 400ml,0.7094982078853046,6Good Gentle Care Shampoo 400ml,355
+297,1104,Cbv Shampoo Colour 400ml,0.6912912912912912,Cbvery Silky Smooth Conditioner 500ml,169
+298,1104,Cbv Shampoo Colour 400ml,0.6912912912912912,Cbvery Silky Smooth Conditioner 900ml,106
+299,1104,Cbv Shampoo Colour 400ml,0.6904553049289891,Cbvery Smooth & Silky Shampoo 900ml,112
+300,1112,Twicebeaut Shamp 400ml Bot Volum,0.6848587369420702,Cbvery Beauty-Full Volume Shampoo 400ml,895
+301,1112,Twicebeaut Shamp 400ml Bot Volum,0.6760222567287784,Fiur Radiant Brunette Shampoo 250ml,292
+302,1112,Twicebeaut Shamp 400ml Bot Volum,0.6732549857549858,Twicebeaut Shea Butter & Sandalwood Oil Happy And Hydrate Shampoo 400 ML,399
+303,1112,Twicebeaut Shamp 400ml Bot Volum,0.6594642857142857,Twicebeaut Shea Butter & Sandalwood Oil Shea Velvet Body Butter 250 ML,402
+304,1113,Twicebeaut Shamp 400ml Bot Volum,0.6848587369420702,Cbvery Beauty-Full Volume Shampoo 400ml,895
+305,1113,Twicebeaut Shamp 400ml Bot Volum,0.6760222567287784,Fiur Radiant Brunette Shampoo 250ml,292
+306,1113,Twicebeaut Shamp 400ml Bot Volum,0.6732549857549858,Twicebeaut Shea Butter & Sandalwood Oil Happy And Hydrate Shampoo 400 ML,399
+307,1113,Twicebeaut Shamp 400ml Bot Volum,0.6594642857142857,Twicebeaut Shea Butter & Sandalwood Oil Shea Velvet Body Butter 250 ML,402
+308,1129,Cbv Shampoo Colour Revitalising 800ml,0.8012147425940529,Cbvery Colour Revitalise Shampoo 900 ml,84
+309,1129,Cbv Shampoo Colour Revitalising 800ml,0.7960960960960961,Cbvery Silky Smooth Conditioner 500ml,169
+310,1129,Cbv Shampoo Colour Revitalising 800ml,0.7960960960960961,Cbvery Silky Smooth Conditioner 900ml,106
+311,1129,Cbv Shampoo Colour Revitalising 800ml,0.7904654654654655,Cbvery Colour Revitalise Conditioner 1.3ml,294
+312,1130,Cbv Hairspray Extra Hold 250ml,0.8657575757575757,Cbvery Extra Hold Hairspray 400ml,324
+313,1130,Cbv Hairspray Extra Hold 250ml,0.8421920563097033,Cbvery Freeze Hold Hairspray 250ml,136
+314,1130,Cbv Hairspray Extra Hold 250ml,0.8325925925925926,Cbvery Ultimate Hold Hairspray 250ml,103
+315,1130,Cbv Hairspray Extra Hold 250ml,0.8269444444444445,Cbvery Firm Hold Hairspray 400ml,328
+316,1136,Cbv Shampoo Repair + Protect 400ml,0.8031501850966222,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+317,1136,Cbv Shampoo Repair + Protect 400ml,0.8024779681642428,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+318,1136,Cbv Shampoo Repair + Protect 400ml,0.6958325650009219,Mexifiz Pro Age Shampoo 400ml,351
+319,1136,Cbv Shampoo Repair + Protect 400ml,0.6942644001467531,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+320,1137,Cbv Shampoo Repair + Protect 400ml,0.8031501850966222,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+321,1137,Cbv Shampoo Repair + Protect 400ml,0.8024779681642428,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+322,1137,Cbv Shampoo Repair + Protect 400ml,0.6958325650009219,Mexifiz Pro Age Shampoo 400ml,351
+323,1137,Cbv Shampoo Repair + Protect 400ml,0.6942644001467531,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+324,1138,Cbv Shampoo Repair + Protect 400ml,0.8031501850966222,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+325,1138,Cbv Shampoo Repair + Protect 400ml,0.8024779681642428,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+326,1138,Cbv Shampoo Repair + Protect 400ml,0.6958325650009219,Mexifiz Pro Age Shampoo 400ml,351
+327,1138,Cbv Shampoo Repair + Protect 400ml,0.6942644001467531,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+328,1141,Mexifiz Shampoo Intensive Care 50ml,0.9144095532950022,Mexifiz Intensive Repair Shampoo 250ml,599
+329,1141,Mexifiz Shampoo Intensive Care 50ml,0.8655555555555556,Mexifiz Daily Moisture Shampoo 250ml,223
+330,1141,Mexifiz Shampoo Intensive Care 50ml,0.8623722943722943,Mexifiz Pro Age Conditioner 350ml,350
+331,1141,Mexifiz Shampoo Intensive Care 50ml,0.850989010989011,Mexifiz Intensive Body Lotion 250ml,1202
+332,1156,Oddaced Gel Wet Look Tube 200ml,0.863225806451613,Oddaced Gel Wax 75ml,202
+333,1156,Oddaced Gel Wet Look Tube 200ml,0.8494894732086383,Oddaced Curl Defining Mousse 200ml,688
+334,1156,Oddaced Gel Wet Look Tube 200ml,0.8423963133640553,Oddaced Extra Body Mousse 200ml,137
+335,1156,Oddaced Gel Wet Look Tube 200ml,0.8394878324844368,Oddaced Give Me Moisture Shampoo 250ml,188
+336,1168,Cbv Co Repair+protect Bot 400ml,0.8210818739011764,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+337,1168,Cbv Co Repair+protect Bot 400ml,0.8204096569687968,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+338,1168,Cbv Co Repair+protect Bot 400ml,0.8122269912592494,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+339,1168,Cbv Co Repair+protect Bot 400ml,0.6939324116743472,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+340,1169,Cbv Co Repair+protect Bot 400ml,0.8210818739011764,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+341,1169,Cbv Co Repair+protect Bot 400ml,0.8204096569687968,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+342,1169,Cbv Co Repair+protect Bot 400ml,0.8122269912592494,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+343,1169,Cbv Co Repair+protect Bot 400ml,0.6939324116743472,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+344,1170,Cbv Co Repair+protect Bot 400ml,0.8210818739011764,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+345,1170,Cbv Co Repair+protect Bot 400ml,0.8204096569687968,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+346,1170,Cbv Co Repair+protect Bot 400ml,0.8122269912592494,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+347,1170,Cbv Co Repair+protect Bot 400ml,0.6939324116743472,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+348,1173,Oddaced Shampoo Std Moisture 400ml,0.884349146110057,Oddaced Extra Body Mousse 200ml,137
+349,1173,Oddaced Shampoo Std Moisture 400ml,0.8680474004483826,Oddaced Give Me Moisture Shampoo 250ml,188
+350,1173,Oddaced Shampoo Std Moisture 400ml,0.8611508487242447,Oddaced Nourish My Shine Shampoo 250ml,220
+351,1173,Oddaced Shampoo Std Moisture 400ml,0.8566707802001919,Oddaced Smooth Hair Shampoo 250ml,187
+352,1186,Cbv Shampoo Salon Silk 500ml,0.8446969696969697,Cbvery Silky Smooth Shampoo 500ml,74
+353,1186,Cbv Shampoo Salon Silk 500ml,0.8073188405797102,Cbvery Smooth & Silky Shampoo 900ml,112
+354,1186,Cbv Shampoo Salon Silk 500ml,0.799030552291422,Cbvery Silky Smooth Conditioner 500ml,169
+355,1186,Cbv Shampoo Salon Silk 500ml,0.6873756873756873,Cbvery Silky Smooth Conditioner 900ml,106
+356,1187,Cbv Shampoo Salon Silk 500ml,0.8446969696969697,Cbvery Silky Smooth Shampoo 500ml,74
+357,1187,Cbv Shampoo Salon Silk 500ml,0.8073188405797102,Cbvery Smooth & Silky Shampoo 900ml,112
+358,1187,Cbv Shampoo Salon Silk 500ml,0.799030552291422,Cbvery Silky Smooth Conditioner 500ml,169
+359,1187,Cbv Shampoo Salon Silk 500ml,0.6873756873756873,Cbvery Silky Smooth Conditioner 900ml,106
+360,1188,Cbv Shampoo Salon Silk 500ml,0.8446969696969697,Cbvery Silky Smooth Shampoo 500ml,74
+361,1188,Cbv Shampoo Salon Silk 500ml,0.8073188405797102,Cbvery Smooth & Silky Shampoo 900ml,112
+362,1188,Cbv Shampoo Salon Silk 500ml,0.799030552291422,Cbvery Silky Smooth Conditioner 500ml,169
+363,1188,Cbv Shampoo Salon Silk 500ml,0.6873756873756873,Cbvery Silky Smooth Conditioner 900ml,106
+364,1193,Cbv Shampoo Deep Cleansing 800ml,0.7068497001499251,Fiur Deep Clean Shampoo 250ml,49
+365,1193,Cbv Shampoo Deep Cleansing 800ml,0.678674598511555,Cbvery Silky Smooth Conditioner 500ml,169
+366,1193,Cbv Shampoo Deep Cleansing 800ml,0.678674598511555,Cbvery Silky Smooth Conditioner 900ml,106
+367,1193,Cbv Shampoo Deep Cleansing 800ml,0.6786006069094305,Cbvery Freeze Hold Hairspray 400ml,334
+368,1194,Cbv Mousse Volume + Lift 300ml,0.6524024024024024,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+369,1194,Cbv Mousse Volume + Lift 300ml,0.6524024024024024,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+370,1194,Cbv Mousse Volume + Lift 300ml,0.6516339869281046,Cbvery Moisture Rich Shampoo 1.3ml,252
+371,1194,Cbv Mousse Volume + Lift 300ml,0.6445998445998445,Cbvery Colour Revitalise Shampoo 900 ml,84
+372,1201,Cbv Shampoo 2in1 Cleanse&Replen. 900ml,0.8137680821459942,Cbvery Cleanse & Replenish 2in1 Shampoo and Conditioner 900ml,194
+373,1201,Cbv Shampoo 2in1 Cleanse&Replen. 900ml,0.681328320802005,Cbvery Cleanse & Replenish Shampoo 500ml,100
+374,1201,Cbv Shampoo 2in1 Cleanse&Replen. 900ml,0.6682411156095367,Cbvery Colour Revitalise Shampoo 900 ml,84
+375,1201,Cbv Shampoo 2in1 Cleanse&Replen. 900ml,0.6669439403105465,Fiur Deep Clean Shampoo 250ml,49
+376,1221,Mexifiz Shampoo Light Day Moisturiser 400ml,0.876215644820296,Mexifiz Daily Moisture Shampoo 250ml,223
+377,1221,Mexifiz Shampoo Light Day Moisturiser 400ml,0.844291754756871,Mexifiz DermaSpa Uplifted+ Body Lotion 200ml,225
+378,1221,Mexifiz Shampoo Light Day Moisturiser 400ml,0.8437926554809434,Mexifiz Men+Care Thickening Shampoo 400ml,229
+379,1221,Mexifiz Shampoo Light Day Moisturiser 400ml,0.8437926554809434,Mexifiz Deeply Nourishing Body wash 500ml,129
+380,1227,Cbv Co Colour Revitalising Bot 800ml,0.8156695156695157,Cbvery Colour Revitalise Shampoo 900 ml,84
+381,1227,Cbv Co Colour Revitalising Bot 800ml,0.8066094896740058,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+382,1227,Cbv Co Colour Revitalising Bot 800ml,0.8011111111111111,Cbvery Colour Revitalise Conditioner 1.3ml,294
+383,1227,Cbv Co Colour Revitalising Bot 800ml,0.6828920853311097,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+384,1233,Mexifiz Shampoo Intense Rescue 250ml,0.8961988304093567,Mexifiz Intensive Repair Shampoo 250ml,599
+385,1233,Mexifiz Shampoo Intense Rescue 250ml,0.8571839080459771,Mexifiz Pro Age Shampoo 250ml,95
+386,1233,Mexifiz Shampoo Intense Rescue 250ml,0.8555555555555555,Mexifiz Daily Moisture Shampoo 250ml,223
+387,1233,Mexifiz Shampoo Intense Rescue 250ml,0.8497460317460317,Mexifiz Intensive Body Lotion 250ml,1202
+388,1245,Oddaced Gel Spray Volume Boost 200ml,0.8823953823953824,Oddaced Firm Hold Gel Spray 200ml,110
+389,1245,Oddaced Gel Spray Volume Boost 200ml,0.8681096681096682,Oddaced Mega Hold Gel Spray 200ml,121
+390,1245,Oddaced Gel Spray Volume Boost 200ml,0.864561403508772,Oddaced Give Me Moisture Shampoo 250ml,188
+391,1245,Oddaced Gel Spray Volume Boost 200ml,0.8469696969696969,Oddaced Tousled Style Spray 150ml,219
+392,1249,Sinoyez Cream Protein Enriched 150ml,0.7002986857825567,Fiur Leave In Conditioner 100ml,50
+393,1249,Sinoyez Cream Protein Enriched 150ml,0.6973400673400674,Mexifiz Pro Age Conditioner 350ml,350
+394,1249,Sinoyez Cream Protein Enriched 150ml,0.6929236929236929,Cbvery Silky Smooth Conditioner 500ml,169
+395,1249,Sinoyez Cream Protein Enriched 150ml,0.6867596341280552,Cbvery Moisture Rich Conditioner 1.3ml,295
+396,1251,Oddaced Wax Texturising Cream Tin 75ml,0.8419298245614035,Oddaced Fluff Tamer 75ml,197
+397,1251,Oddaced Wax Texturising Cream Tin 75ml,0.8336384439359268,Oddaced Matt Fibre 75ml,199
+398,1251,Oddaced Wax Texturising Cream Tin 75ml,0.8302923976608187,Oddaced Gel Wax 75ml,202
+399,1251,Oddaced Wax Texturising Cream Tin 75ml,0.6974380395433027,Fiur Texturising Fibre 75ml,341
+400,1254,Mexifiz Co Daily Care Balance Bot 200ml,0.8485288904643744,Mexifiz Original Beauty Cream Bar 6 x 100g,778
+401,1254,Mexifiz Co Daily Care Balance Bot 200ml,0.8469829988851729,Mexifiz Men+Care Clean Comfort Body wash 400ml,86
+402,1254,Mexifiz Co Daily Care Balance Bot 200ml,0.8435431235431237,Mexifiz DermaSpa Goodness 3 Body Cream 300ml,254
+403,1254,Mexifiz Co Daily Care Balance Bot 200ml,0.8400477042337507,Mexifiz Men+Care Cool Fresh Body wash 400ml,257
+404,1259,Cbv Shampoo 2in1 Cleanse&Replen. 800ml,0.8013501422043269,Cbvery Cleanse & Replenish 2in1 Shampoo and Conditioner 900ml,194
+405,1259,Cbv Shampoo 2in1 Cleanse&Replen. 800ml,0.681328320802005,Cbvery Cleanse & Replenish Shampoo 500ml,100
+406,1259,Cbv Shampoo 2in1 Cleanse&Replen. 800ml,0.6669439403105465,Fiur Deep Clean Shampoo 250ml,49
+407,1259,Cbv Shampoo 2in1 Cleanse&Replen. 800ml,0.6596401259559155,Cbvery Colour Revitalise Shampoo 900 ml,84
+408,1273,Cbv Shampoo Salon Silk 900ml,0.8267566974088713,Cbvery Silky Smooth Shampoo 500ml,74
+409,1273,Cbv Shampoo Salon Silk 900ml,0.8252777777777778,Cbvery Smooth & Silky Shampoo 900ml,112
+410,1273,Cbv Shampoo Salon Silk 900ml,0.799030552291422,Cbvery Silky Smooth Conditioner 900ml,106
+411,1273,Cbv Shampoo Salon Silk 900ml,0.6873756873756873,Cbvery Silky Smooth Conditioner 500ml,169
+412,1279,Oddaced Co Moisture Bot 400ml,0.878689284390063,Oddaced Extra Body Mousse 200ml,137
+413,1279,Oddaced Co Moisture Bot 400ml,0.8668717196230036,Oddaced Give Me Moisture Hair Conditioner 250ml,127
+414,1279,Oddaced Co Moisture Bot 400ml,0.8591321986065791,Oddaced Curl Defining Mousse 200ml,688
+415,1279,Oddaced Co Moisture Bot 400ml,0.8362152257204731,Oddaced Matt Fibre 75ml,199
+416,1285,Cbv Co Salon Silk Bot 900ml,0.814417606011809,Cbvery Smooth & Silky Shampoo 900ml,112
+417,1285,Cbv Co Salon Silk Bot 900ml,0.808836037821545,Cbvery Colour Revitalise Shampoo 900 ml,84
+418,1285,Cbv Co Salon Silk Bot 900ml,0.7959843901872887,Cbvery Silky Smooth Conditioner 900ml,106
+419,1285,Cbv Co Salon Silk Bot 900ml,0.6970758637425304,Cbvery Silky Smooth Conditioner 500ml,169
+420,1286,Cbv Shampoo Keratin 700ml,0.6853535353535354,Cbvery Silky Smooth Shampoo 500ml,74
+421,1286,Cbv Shampoo Keratin 700ml,0.6738095238095237,Cbvery Smooth & Silky Shampoo 900ml,112
+422,1286,Cbv Shampoo Keratin 700ml,0.6650537634408603,6Good Gentle Care Shampoo 400ml,355
+423,1286,Cbv Shampoo Keratin 700ml,0.6635135135135135,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+424,1287,Cbv Shampoo Keratin 700ml,0.6853535353535354,Cbvery Silky Smooth Shampoo 500ml,74
+425,1287,Cbv Shampoo Keratin 700ml,0.6738095238095237,Cbvery Smooth & Silky Shampoo 900ml,112
+426,1287,Cbv Shampoo Keratin 700ml,0.6650537634408603,6Good Gentle Care Shampoo 400ml,355
+427,1287,Cbv Shampoo Keratin 700ml,0.6635135135135135,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+428,1288,Cbv Shampoo Keratin 700ml,0.6853535353535354,Cbvery Silky Smooth Shampoo 500ml,74
+429,1288,Cbv Shampoo Keratin 700ml,0.6738095238095237,Cbvery Smooth & Silky Shampoo 900ml,112
+430,1288,Cbv Shampoo Keratin 700ml,0.6650537634408603,6Good Gentle Care Shampoo 400ml,355
+431,1288,Cbv Shampoo Keratin 700ml,0.6635135135135135,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+432,1289,6Good Co Gentle Care Bot 200ml,0.875026455026455,6Good Gentle Care Conditioner 400ml,354
+433,1289,6Good Co Gentle Care Bot 200ml,0.8565053763440861,6Good Gentle Care Shampoo 400ml,355
+434,1289,6Good Co Gentle Care Bot 200ml,0.844909420289855,6Good Gentle Care Handwash 250ml,165
+435,1289,6Good Co Gentle Care Bot 200ml,0.8291774891774892,6Good Refreshing Shower Gel 500ml,209
+436,1312,Oddaced Mousse Curl Defining 200ml,0.9411764705882353,Oddaced Curl Defining Mousse 200ml,688
+437,1312,Oddaced Mousse Curl Defining 200ml,0.8366526610644258,Oddaced Firm Hold Styling Gel 200ml,196
+438,1312,Oddaced Mousse Curl Defining 200ml,0.8315073013777742,Oddaced Extra Body Mousse 200ml,137
+439,1312,Oddaced Mousse Curl Defining 200ml,0.8292727019885969,Oddaced Give Me Moisture Hair Conditioner 250ml,127
+440,1317,Mexifiz Shamp Nourish Secret Damaged 400ml,0.8586580086580087,Mexifiz Men+Care Anti Dandruff Shampoo 400ml,722
+441,1317,Mexifiz Shamp Nourish Secret Damaged 400ml,0.8478354978354979,Mexifiz DermaSpa Goodness 3 Body Cream 300ml,254
+442,1317,Mexifiz Shamp Nourish Secret Damaged 400ml,0.8407740436851374,Mexifiz Supreme Fine Silk Bath Soak 500ml,79
+443,1317,Mexifiz Shamp Nourish Secret Damaged 400ml,0.8354614121510674,Mexifiz Pro Age Shampoo 400ml,351
+444,1319,Cbv Co Colour Bot 400ml,0.6921475250994701,Cbvery Silky Smooth Conditioner 900ml,106
+445,1319,Cbv Co Colour Bot 400ml,0.6921475250994701,Cbvery Silky Smooth Conditioner 500ml,169
+446,1319,Cbv Co Colour Bot 400ml,0.6794149221685454,Parrot You Shower Gel 400ml,262
+447,1319,Cbv Co Colour Bot 400ml,0.6754478986437462,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+448,1326,Oddaced Wax Extreme Gel Wax Jar 75ml,0.8611111111111112,Oddaced Gel Wax 75ml,202
+449,1326,Oddaced Wax Extreme Gel Wax Jar 75ml,0.8323099415204679,Oddaced Fluff Tamer 75ml,197
+450,1326,Oddaced Wax Extreme Gel Wax Jar 75ml,0.8231884057971015,Oddaced Matt Fibre 75ml,199
+451,1326,Oddaced Wax Extreme Gel Wax Jar 75ml,0.6605339105339105,Oddaced Firm Hold Gel Spray 200ml,110
+452,1328,Cbv Inco Rinse Off Keratin 300ml,0.6951219512195123,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+453,1328,Cbv Inco Rinse Off Keratin 300ml,0.677847018572825,Fiur Leave In Conditioner 100ml,50
+454,1328,Cbv Inco Rinse Off Keratin 300ml,0.6546375921375921,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+455,1328,Cbv Inco Rinse Off Keratin 300ml,0.6546375921375921,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+456,1329,Cbv Inco Rinse Off Keratin 300ml,0.6951219512195123,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+457,1329,Cbv Inco Rinse Off Keratin 300ml,0.677847018572825,Fiur Leave In Conditioner 100ml,50
+458,1329,Cbv Inco Rinse Off Keratin 300ml,0.6546375921375921,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+459,1329,Cbv Inco Rinse Off Keratin 300ml,0.6546375921375921,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+460,1335,Oddaced Hairspray Extra Firm Hold 400ml,0.8930636930636932,Oddaced Ultimate Hold Hairspray 400ml,203
+461,1335,Oddaced Hairspray Extra Firm Hold 400ml,0.871941391941392,Oddaced High Volume Hairspray 400ml,195
+462,1335,Oddaced Hairspray Extra Firm Hold 400ml,0.8666804521643231,Oddaced Shine & Hold Hairspray 400ml,130
+463,1335,Oddaced Hairspray Extra Firm Hold 400ml,0.8597069597069597,Oddaced Mini Ultimate Hold Hairspray 100ml,201
+464,1337,Cbv Co Moisture Rich Bot 235ml,0.8144354475933423,Cbvery Moisture Rich Conditioner 1.3ml,295
+465,1337,Cbv Co Moisture Rich Bot 235ml,0.6984370559818132,Cbvery Moisture Rich Shampoo 1.3ml,252
+466,1337,Cbv Co Moisture Rich Bot 235ml,0.69005439005439,Cbvery Remoisturising Conditioner 500ml,134
+467,1337,Cbv Co Moisture Rich Bot 235ml,0.6781144781144781,6Good Moisturising Handwash 250ml,179
+468,1338,Cbv Co Moisture Rich Bot 235ml,0.8144354475933423,Cbvery Moisture Rich Conditioner 1.3ml,295
+469,1338,Cbv Co Moisture Rich Bot 235ml,0.6984370559818132,Cbvery Moisture Rich Shampoo 1.3ml,252
+470,1338,Cbv Co Moisture Rich Bot 235ml,0.69005439005439,Cbvery Remoisturising Conditioner 500ml,134
+471,1338,Cbv Co Moisture Rich Bot 235ml,0.6781144781144781,6Good Moisturising Handwash 250ml,179
+472,1347,Cbv Shampoo Salon Silk 800ml,0.8267566974088713,Cbvery Silky Smooth Shampoo 500ml,74
+473,1347,Cbv Shampoo Salon Silk 800ml,0.8073188405797102,Cbvery Smooth & Silky Shampoo 900ml,112
+474,1347,Cbv Shampoo Salon Silk 800ml,0.6873756873756873,Cbvery Silky Smooth Conditioner 500ml,169
+475,1347,Cbv Shampoo Salon Silk 800ml,0.6873756873756873,Cbvery Silky Smooth Conditioner 900ml,106
+476,1353,Twicebeaut Cond 400ml Bot Volume,0.6814253098499674,Twicebeaut Coconut Water & Mimosa Flower Volume And Bounty Shampoo 400 ML,410
+477,1353,Twicebeaut Cond 400ml Bot Volume,0.6804980220928497,Twicebeaut Coconut Water & Mimosa Flower Volume And Bounty Conditioner 400 ML,411
+478,1353,Twicebeaut Cond 400ml Bot Volume,0.67328216374269,Twicebeaut Coconut Water & Mimosa Flower Hydro Gel 250 ML,1592
+479,1353,Twicebeaut Cond 400ml Bot Volume,0.6694173363949484,Twicebeaut Coconut Oil & Ylang Ylang Hope And Repair Shampoo 400 ML,416
+480,1354,Twicebeaut Cond 400ml Bot Volume,0.6814253098499674,Twicebeaut Coconut Water & Mimosa Flower Volume And Bounty Shampoo 400 ML,410
+481,1354,Twicebeaut Cond 400ml Bot Volume,0.6804980220928497,Twicebeaut Coconut Water & Mimosa Flower Volume And Bounty Conditioner 400 ML,411
+482,1354,Twicebeaut Cond 400ml Bot Volume,0.67328216374269,Twicebeaut Coconut Water & Mimosa Flower Hydro Gel 250 ML,1592
+483,1354,Twicebeaut Cond 400ml Bot Volume,0.6694173363949484,Twicebeaut Coconut Oil & Ylang Ylang Hope And Repair Shampoo 400 ML,416
+484,1355,Oddaced Cream Frizzfree Tube 125ml,0.8509103641456582,Oddaced Fluff Tamer 75ml,197
+485,1355,Oddaced Cream Frizzfree Tube 125ml,0.8354723707664884,Oddaced Refresh Dry Shampoo 250ml,611
+486,1355,Oddaced Cream Frizzfree Tube 125ml,0.8348768340288061,Oddaced Matt Fibre 75ml,199
+487,1355,Oddaced Cream Frizzfree Tube 125ml,0.8302597927042671,Oddaced Give Me Moisture Shampoo 250ml,188
+488,1358,Cbv Shampoo Moisture Rich 100ml,0.799740670461733,Cbvery Moisture Rich Shampoo 1.3ml,252
+489,1358,Cbv Shampoo Moisture Rich 100ml,0.6923330955589021,Cbvery Silky Smooth Conditioner 500ml,169
+490,1358,Cbv Shampoo Moisture Rich 100ml,0.6923330955589021,Cbvery Silky Smooth Conditioner 900ml,106
+491,1358,Cbv Shampoo Moisture Rich 100ml,0.6908130541407281,Cbvery Moisture Rich Conditioner 1.3ml,295
+492,1359,Cbv Shampoo Moisture Rich 100ml,0.799740670461733,Cbvery Moisture Rich Shampoo 1.3ml,252
+493,1359,Cbv Shampoo Moisture Rich 100ml,0.6923330955589021,Cbvery Silky Smooth Conditioner 500ml,169
+494,1359,Cbv Shampoo Moisture Rich 100ml,0.6923330955589021,Cbvery Silky Smooth Conditioner 900ml,106
+495,1359,Cbv Shampoo Moisture Rich 100ml,0.6908130541407281,Cbvery Moisture Rich Conditioner 1.3ml,295
+496,1363,Cbv Co Salon Silk Bot 900ml,0.814417606011809,Cbvery Smooth & Silky Shampoo 900ml,112
+497,1363,Cbv Co Salon Silk Bot 900ml,0.808836037821545,Cbvery Colour Revitalise Shampoo 900 ml,84
+498,1363,Cbv Co Salon Silk Bot 900ml,0.7959843901872887,Cbvery Silky Smooth Conditioner 900ml,106
+499,1363,Cbv Co Salon Silk Bot 900ml,0.6970758637425304,Cbvery Silky Smooth Conditioner 500ml,169
+500,1366,Oddaced Taming Spray Heat Defence Aero 100ml,0.8328282828282829,Oddaced Shine & Hold Hairspray 400ml,130
+501,1366,Oddaced Taming Spray Heat Defence Aero 100ml,0.8296037296037296,Oddaced Firm Hold Gel Spray 200ml,110
+502,1366,Oddaced Taming Spray Heat Defence Aero 100ml,0.828915707947966,Oddaced Freeze Hold Styling Spray 150ml,198
+503,1366,Oddaced Taming Spray Heat Defence Aero 100ml,0.8286240786240786,Oddaced Ultimate Hold Hairspray 400ml,203
+504,1375,Cbv Shampoo Moisture Rich 235ml,0.799740670461733,Cbvery Moisture Rich Shampoo 1.3ml,252
+505,1375,Cbv Shampoo Moisture Rich 235ml,0.6908130541407281,Cbvery Moisture Rich Conditioner 1.3ml,295
+506,1375,Cbv Shampoo Moisture Rich 235ml,0.6689638947703463,Cbvery Silky Smooth Conditioner 500ml,169
+507,1375,Cbv Shampoo Moisture Rich 235ml,0.6675355707613773,Cbvery Volumising Dry Shampoo 250 ml,700
+508,1376,Cbv Shampoo Moisture Rich 235ml,0.799740670461733,Cbvery Moisture Rich Shampoo 1.3ml,252
+509,1376,Cbv Shampoo Moisture Rich 235ml,0.6908130541407281,Cbvery Moisture Rich Conditioner 1.3ml,295
+510,1376,Cbv Shampoo Moisture Rich 235ml,0.6689638947703463,Cbvery Silky Smooth Conditioner 500ml,169
+511,1376,Cbv Shampoo Moisture Rich 235ml,0.6675355707613773,Cbvery Volumising Dry Shampoo 250 ml,700
+512,1378,Cbv Co Remoisturising Bot 800ml,0.8282740556934105,Cbvery Remoisturising Conditioner 500ml,134
+513,1378,Cbv Co Remoisturising Bot 800ml,0.8282740556934105,Cbvery Remoisturising Conditioner 900ml,94
+514,1378,Cbv Co Remoisturising Bot 800ml,0.8069965126416738,Cbvery Silky Smooth Conditioner 500ml,169
+515,1378,Cbv Co Remoisturising Bot 800ml,0.8069965126416738,Cbvery Silky Smooth Conditioner 900ml,106
+516,1383,Cbv Inco Rinse Off Repair+protect 300ml,0.8236023951751453,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+517,1383,Cbv Inco Rinse Off Repair+protect 300ml,0.7911536492181652,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+518,1383,Cbv Inco Rinse Off Repair+protect 300ml,0.6773504273504273,Mexifiz  Intensive Body Lotion 400ml,780
+519,1383,Cbv Inco Rinse Off Repair+protect 300ml,0.6655671055671056,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+520,1384,Cbv Inco Rinse Off Repair+protect 300ml,0.8236023951751453,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+521,1384,Cbv Inco Rinse Off Repair+protect 300ml,0.7911536492181652,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+522,1384,Cbv Inco Rinse Off Repair+protect 300ml,0.6773504273504273,Mexifiz  Intensive Body Lotion 400ml,780
+523,1384,Cbv Inco Rinse Off Repair+protect 300ml,0.6655671055671056,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+524,1385,Cbv Hairspray Freeze Hold 100ml,0.8794665823318575,Cbvery Freeze Hold Hairspray 400ml,334
+525,1385,Cbv Hairspray Freeze Hold 100ml,0.862126763942507,Cbvery Freeze Hold Hairspray 250ml,136
+526,1385,Cbv Hairspray Freeze Hold 100ml,0.8556563620071684,Cbvery Firm Hold Hairspray 400ml,328
+527,1385,Cbv Hairspray Freeze Hold 100ml,0.841075770108028,Cbvery Extra Hold Hairspray 400ml,324
+528,1392,Oddaced Hairspray Firm Hold 400ml,0.9065800865800866,Oddaced High Volume Hairspray 400ml,195
+529,1392,Oddaced Hairspray Firm Hold 400ml,0.8909302264140974,Oddaced Ultimate Hold Hairspray 400ml,203
+530,1392,Oddaced Hairspray Firm Hold 400ml,0.8884848484848485,Oddaced Shine & Hold Hairspray 400ml,130
+531,1392,Oddaced Hairspray Firm Hold 400ml,0.868013468013468,Oddaced Firm Hold Gel Spray 200ml,110
+532,1394,Cbv Shampoo Collagen Fullness 400ml,0.6698107448107448,Cbvery Beauty-Full Volume Shampoo 400ml,895
+533,1394,Cbv Shampoo Collagen Fullness 400ml,0.6653652765454008,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+534,1394,Cbv Shampoo Collagen Fullness 400ml,0.6547652441060575,6Good Gentle Care Shampoo 400ml,355
+535,1394,Cbv Shampoo Collagen Fullness 400ml,0.6502164502164502,Cbvery Silky Smooth Shampoo 500ml,74
+536,1397,Mexifiz Co Intensive Rescue Bot 200ml,0.8695920057989024,Mexifiz  Intensive Body Lotion 250ml,607
+537,1397,Mexifiz Co Intensive Rescue Bot 200ml,0.8695920057989024,Mexifiz  Intensive Body Lotion 400ml,780
+538,1397,Mexifiz Co Intensive Rescue Bot 200ml,0.8613513513513513,Mexifiz Intensive Body Lotion 250ml,1202
+539,1397,Mexifiz Co Intensive Rescue Bot 200ml,0.8613513513513513,Mexifiz Intensive Body Lotion 400ml,1379
+540,1404,Cbv Co Keratin Bot 700ml,0.8087891106183789,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+541,1404,Cbv Co Keratin Bot 700ml,0.8032657657657658,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+542,1404,Cbv Co Keratin Bot 700ml,0.8032657657657658,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+543,1404,Cbv Co Keratin Bot 700ml,0.6842891278375149,Fiur Leave In Conditioner 100ml,50
+544,1405,Cbv Co Keratin Bot 700ml,0.8087891106183789,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+545,1405,Cbv Co Keratin Bot 700ml,0.8032657657657658,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+546,1405,Cbv Co Keratin Bot 700ml,0.8032657657657658,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+547,1405,Cbv Co Keratin Bot 700ml,0.6842891278375149,Fiur Leave In Conditioner 100ml,50
+548,1406,Cbv Co Keratin Bot 700ml,0.8087891106183789,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+549,1406,Cbv Co Keratin Bot 700ml,0.8032657657657658,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+550,1406,Cbv Co Keratin Bot 700ml,0.8032657657657658,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+551,1406,Cbv Co Keratin Bot 700ml,0.6842891278375149,Fiur Leave In Conditioner 100ml,50
+552,1407,Cbv Co Keratin Bot 700ml,0.8087891106183789,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+553,1407,Cbv Co Keratin Bot 700ml,0.8032657657657658,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+554,1407,Cbv Co Keratin Bot 700ml,0.8032657657657658,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+555,1407,Cbv Co Keratin Bot 700ml,0.6842891278375149,Fiur Leave In Conditioner 100ml,50
+556,1419,Cbv Co Salon Silk Bot 500ml,0.804769921436588,Cbvery Silky Smooth Shampoo 500ml,74
+557,1419,Cbv Co Salon Silk Bot 500ml,0.7959843901872887,Cbvery Silky Smooth Conditioner 500ml,169
+558,1419,Cbv Co Salon Silk Bot 500ml,0.7958810325476992,Cbvery Smooth & Silky Shampoo 900ml,112
+559,1419,Cbv Co Salon Silk Bot 500ml,0.7914443581110248,Cbvery Colour Revitalise Shampoo 900 ml,84
+560,1420,Cbv Co Salon Silk Bot 500ml,0.804769921436588,Cbvery Silky Smooth Shampoo 500ml,74
+561,1420,Cbv Co Salon Silk Bot 500ml,0.7959843901872887,Cbvery Silky Smooth Conditioner 500ml,169
+562,1420,Cbv Co Salon Silk Bot 500ml,0.7958810325476992,Cbvery Smooth & Silky Shampoo 900ml,112
+563,1420,Cbv Co Salon Silk Bot 500ml,0.7914443581110248,Cbvery Colour Revitalise Shampoo 900 ml,84
+564,1423,Oddaced Shampoo Give Me Moisture 250ml,0.9421052631578947,Oddaced Give Me Moisture Shampoo 250ml,188
+565,1423,Oddaced Shampoo Give Me Moisture 250ml,0.8757894736842107,Oddaced Nourish My Shine Shampoo 250ml,220
+566,1423,Oddaced Shampoo Give Me Moisture 250ml,0.8648046900731178,Oddaced Give Me Moisture Hair Conditioner 250ml,127
+567,1423,Oddaced Shampoo Give Me Moisture 250ml,0.8538897749424065,Oddaced Smooth Hair Shampoo 250ml,187
+568,1431,Cbv Shampoo 24 Hour Body 800ml,0.6739063104916764,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+569,1431,Cbv Shampoo 24 Hour Body 800ml,0.6555555555555554,Cbvery Smooth & Silky Shampoo 900ml,112
+570,1431,Cbv Shampoo 24 Hour Body 800ml,0.6539426523297491,6Good Gentle Care Shampoo 400ml,355
+571,1431,Cbv Shampoo 24 Hour Body 800ml,0.6472222222222221,Cbvery Firm Hold Hairspray 400ml,328
+572,1438,Cbv Soft Styl Aqspry Protect 125ml,0.6703372170124089,Cbvery Translucent Dry Shampoo 250ml,211
+573,1438,Cbv Soft Styl Aqspry Protect 125ml,0.6618142206377501,Cbvery Volumising Dry Shampoo 250 ml,700
+574,1438,Cbv Soft Styl Aqspry Protect 125ml,0.657516339869281,Cbvery Instant Refresh Dry Shampoo 250ml,650
+575,1438,Cbv Soft Styl Aqspry Protect 125ml,0.6421568627450981,Cbvery Freeze Hold Hairspray 250ml,136
+576,1439,Cbv Soft Styl Aqspry Protect 125ml,0.6703372170124089,Cbvery Translucent Dry Shampoo 250ml,211
+577,1439,Cbv Soft Styl Aqspry Protect 125ml,0.6618142206377501,Cbvery Volumising Dry Shampoo 250 ml,700
+578,1439,Cbv Soft Styl Aqspry Protect 125ml,0.657516339869281,Cbvery Instant Refresh Dry Shampoo 250ml,650
+579,1439,Cbv Soft Styl Aqspry Protect 125ml,0.6421568627450981,Cbvery Freeze Hold Hairspray 250ml,136
+580,1441,Cbv Hairspray Freeze Hold 250ml,0.896616065781151,Cbvery Freeze Hold Hairspray 250ml,136
+581,1441,Cbv Hairspray Freeze Hold 250ml,0.862126763942507,Cbvery Freeze Hold Hairspray 400ml,334
+582,1441,Cbv Hairspray Freeze Hold 250ml,0.8378463606286187,Cbvery Firm Hold Hairspray 400ml,328
+583,1441,Cbv Hairspray Freeze Hold 250ml,0.8255675029868578,Cbvery Ultimate Hold Hairspray 250ml,103
+584,1455,Oddaced Serum Heat Protect Bottle 50ml,0.8418330308529945,Oddaced SurfStyle Paste 150ml,162
+585,1455,Oddaced Serum Heat Protect Bottle 50ml,0.830103668261563,Oddaced Tousled Style Spray 150ml,219
+586,1455,Oddaced Serum Heat Protect Bottle 50ml,0.8249512670565302,Oddaced Give Me Moisture Shampoo 250ml,188
+587,1455,Oddaced Serum Heat Protect Bottle 50ml,0.822743452834986,Oddaced Shine & Hold Hairspray 400ml,130
+588,1467,Oddaced Shampoo Gloss Me Smoothly 250ml,0.8624065589582831,Oddaced Smooth Hair Shampoo 250ml,187
+589,1467,Oddaced Shampoo Gloss Me Smoothly 250ml,0.8511645117757172,Oddaced Nourish My Shine Shampoo 250ml,220
+590,1467,Oddaced Shampoo Gloss Me Smoothly 250ml,0.8450742240215925,Oddaced Give Me Moisture Shampoo 250ml,188
+591,1467,Oddaced Shampoo Gloss Me Smoothly 250ml,0.8370629370629371,Oddaced Firm Hold Gel Spray 200ml,110
+592,1469,Cbv Co Salon Silk Bot 800ml,0.7958810325476992,Cbvery Smooth & Silky Shampoo 900ml,112
+593,1469,Cbv Co Salon Silk Bot 800ml,0.7914443581110248,Cbvery Colour Revitalise Shampoo 900 ml,84
+594,1469,Cbv Co Salon Silk Bot 800ml,0.6970758637425304,Cbvery Silky Smooth Conditioner 900ml,106
+595,1469,Cbv Co Salon Silk Bot 800ml,0.6970758637425304,Cbvery Silky Smooth Conditioner 500ml,169
+596,1471,Oddaced Hot Oil 15ml Tube Deep Nourishing,0.826810929763433,Oddaced Give Me Moisture Shampoo 250ml,188
+597,1471,Oddaced Hot Oil 15ml Tube Deep Nourishing,0.6931489919294798,Oddaced Freeze Hold Styling Spray 150ml,198
+598,1471,Oddaced Hot Oil 15ml Tube Deep Nourishing,0.6849888064098032,Oddaced Matt Fibre 75ml,199
+599,1471,Oddaced Hot Oil 15ml Tube Deep Nourishing,0.6736573047548657,Oddaced Tousled Style Spray 150ml,219
+600,1480,Mexifiz Co Volume Bot 350ml,0.8727909727909727,Mexifiz Colour Care Conditioner 200ml,221
+601,1480,Mexifiz Co Volume Bot 350ml,0.872061191626409,Mexifiz Daily Moisture Shampoo 250ml,223
+602,1480,Mexifiz Co Volume Bot 350ml,0.8660791826309069,Mexifiz Pro Age Shampoo 250ml,95
+603,1480,Mexifiz Co Volume Bot 350ml,0.85993265993266,Mexifiz Pro Age Conditioner 350ml,350
+604,1493,Cbv Co Moisture Rich Bot 100ml,0.8144354475933423,Cbvery Moisture Rich Conditioner 1.3ml,295
+605,1493,Cbv Co Moisture Rich Bot 100ml,0.7991044221479005,Cbvery Remoisturising Conditioner 500ml,134
+606,1493,Cbv Co Moisture Rich Bot 100ml,0.7991044221479005,Cbvery Remoisturising Conditioner 900ml,94
+607,1493,Cbv Co Moisture Rich Bot 100ml,0.7923918934841522,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+608,1494,Cbv Co Moisture Rich Bot 100ml,0.8144354475933423,Cbvery Moisture Rich Conditioner 1.3ml,295
+609,1494,Cbv Co Moisture Rich Bot 100ml,0.7991044221479005,Cbvery Remoisturising Conditioner 500ml,134
+610,1494,Cbv Co Moisture Rich Bot 100ml,0.7991044221479005,Cbvery Remoisturising Conditioner 900ml,94
+611,1494,Cbv Co Moisture Rich Bot 100ml,0.7923918934841522,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+612,1496,Twicebeaut Shamp 400ml Bot Color,0.6723085585585586,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+613,1496,Twicebeaut Shamp 400ml Bot Color,0.6666666666666666,Cbvery Translucent Dry Shampoo 250ml,211
+614,1496,Twicebeaut Shamp 400ml Bot Color,0.6634615384615384,Cbvery Colour Revitalise Shampoo 900 ml,84
+615,1496,Twicebeaut Shamp 400ml Bot Color,0.6626955034213099,6Good Gentle Care Shampoo 400ml,355
+616,1508,Mexifiz Co Damaged Bot 350ml,0.8757799671592775,Mexifiz Pro Age Shampoo 250ml,95
+617,1508,Mexifiz Co Damaged Bot 350ml,0.8688970449840016,Mexifiz Pro Age Conditioner 350ml,350
+618,1508,Mexifiz Co Damaged Bot 350ml,0.8607881773399015,Mexifiz Pro Age Shampoo 400ml,351
+619,1508,Mexifiz Co Damaged Bot 350ml,0.8416190476190476,Mexifiz DermaSpa Goodness 3 Body Oil 150ml,156
+620,1522,Sinoyez Gel Extreme Tube 150ml,0.6681571815718157,Sinoyez Frizz Control MALE GROOMING 100ml,396
+621,1522,Sinoyez Gel Extreme Tube 150ml,0.6619444444444444,Sinoyez Wax Hair Wax 75ml,120
+622,1522,Sinoyez Gel Extreme Tube 150ml,0.650191570881226,Sinoyez Wax MALE GROOMING 20g,393
+623,1522,Sinoyez Gel Extreme Tube 150ml,0.6444444444444444,Fiur Shine Gloss Serum 30ml,39
+624,1523,Mexifiz Co Colour Rescue Bot 350ml,0.8811051693404635,Mexifiz Restoring Rituals Coconut Conditioner 350ml,344
+625,1523,Mexifiz Co Colour Rescue Bot 350ml,0.8532976827094475,Mexifiz Pro Age Conditioner 350ml,350
+626,1523,Mexifiz Co Colour Rescue Bot 350ml,0.8473278708572826,Mexifiz Colour Care Conditioner 200ml,221
+627,1523,Mexifiz Co Colour Rescue Bot 350ml,0.8409897292250234,Mexifiz Cool Fresh Deo Aero,1338
+628,1524,Mexifiz Co Colour Rescue Bot 350ml,0.8811051693404635,Mexifiz Restoring Rituals Coconut Conditioner 350ml,344
+629,1524,Mexifiz Co Colour Rescue Bot 350ml,0.8532976827094475,Mexifiz Pro Age Conditioner 350ml,350
+630,1524,Mexifiz Co Colour Rescue Bot 350ml,0.8473278708572826,Mexifiz Colour Care Conditioner 200ml,221
+631,1524,Mexifiz Co Colour Rescue Bot 350ml,0.8409897292250234,Mexifiz Cool Fresh Deo Aero,1338
+632,1536,Cbv Shampoo Moisture Rich 235ml,0.799740670461733,Cbvery Moisture Rich Shampoo 1.3ml,252
+633,1536,Cbv Shampoo Moisture Rich 235ml,0.6908130541407281,Cbvery Moisture Rich Conditioner 1.3ml,295
+634,1536,Cbv Shampoo Moisture Rich 235ml,0.6689638947703463,Cbvery Silky Smooth Conditioner 500ml,169
+635,1536,Cbv Shampoo Moisture Rich 235ml,0.6675355707613773,Cbvery Volumising Dry Shampoo 250 ml,700
+636,1542,Cbv Shampoo 24 Hour Body 900ml,0.6812409812409812,Cbvery Smooth & Silky Shampoo 900ml,112
+637,1542,Cbv Shampoo 24 Hour Body 900ml,0.6739063104916764,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+638,1542,Cbv Shampoo 24 Hour Body 900ml,0.6699153699153699,Cbvery Silky Smooth Conditioner 900ml,106
+639,1542,Cbv Shampoo 24 Hour Body 900ml,0.6539426523297491,6Good Gentle Care Shampoo 400ml,355
+640,1544,Sinoyez Gel Wet Look Tube 150ml,0.6881482011301051,Sinoyez Frizz Control MALE GROOMING 100ml,396
+641,1544,Sinoyez Gel Wet Look Tube 150ml,0.6501792114695341,Sinoyez Wax Hair Wax 75ml,120
+642,1544,Sinoyez Gel Wet Look Tube 150ml,0.6484113509580403,Mexifiz Intensive Body Lotion 250ml,1202
+643,1544,Sinoyez Gel Wet Look Tube 150ml,0.6448152267952045,Sinoyez Wax MALE GROOMING 20g,393
+644,1545,Fiur Inco Rinse Off Reconstr. Jar 200ml,0.8213075423601739,Fiur Instant Refresh Dry Shampoo 250ml,41
+645,1545,Fiur Inco Rinse Off Reconstr. Jar 200ml,0.6902698361323886,Fiur Leave In Conditioner 100ml,50
+646,1545,Fiur Inco Rinse Off Reconstr. Jar 200ml,0.6880341880341879,Fiur Intense Softness Conditioner 250ml,72
+647,1545,Fiur Inco Rinse Off Reconstr. Jar 200ml,0.6784371184371185,Fiur Intense Softness Shampoo 250ml,71
+648,1546,Mexifiz Ahs Co Care Regenerating Bot 250ml,0.8561132561132562,Mexifiz Colour Care Conditioner 200ml,221
+649,1546,Mexifiz Ahs Co Care Regenerating Bot 250ml,0.8462608133236317,Mexifiz Intensive Repair Shampoo 250ml,599
+650,1546,Mexifiz Ahs Co Care Regenerating Bot 250ml,0.8458874458874459,Mexifiz Pro Age Conditioner 350ml,350
+651,1546,Mexifiz Ahs Co Care Regenerating Bot 250ml,0.8458874458874459,Mexifiz Pro Age Conditioner 200ml,85
+652,1547,Oddaced Co Gloss Me Smoothly Bot 250ml,0.8467703349282296,Oddaced Firm Hold Gel Spray 200ml,110
+653,1547,Oddaced Co Gloss Me Smoothly Bot 250ml,0.8304511278195489,Oddaced Give Me Moisture Shampoo 250ml,188
+654,1547,Oddaced Co Gloss Me Smoothly Bot 250ml,0.8228211658177702,Oddaced Extra Body Mousse 200ml,137
+655,1547,Oddaced Co Gloss Me Smoothly Bot 250ml,0.8217703349282297,Oddaced Smooth Hair Shampoo 250ml,187
+656,1553,Oddaced Co Give Me Moisture Bot 250ml,0.8977860839562968,Oddaced Give Me Moisture Hair Conditioner 250ml,127
+657,1553,Oddaced Co Give Me Moisture Bot 250ml,0.8853959222380274,Oddaced Give Me Moisture Shampoo 250ml,188
+658,1553,Oddaced Co Give Me Moisture Bot 250ml,0.8429017727404825,Oddaced Extra Body Mousse 200ml,137
+659,1553,Oddaced Co Give Me Moisture Bot 250ml,0.8421939586645469,Oddaced Curl Defining Mousse 200ml,688
+660,1556,Mexifiz Shampoo Pro Age 400ml,0.9517241379310345,Mexifiz Pro Age Shampoo 400ml,351
+661,1556,Mexifiz Shampoo Pro Age 400ml,0.9205619412515964,Mexifiz Pro Age Shampoo 250ml,95
+662,1556,Mexifiz Shampoo Pro Age 400ml,0.8545363681795467,Mexifiz Pro Age Conditioner 200ml,85
+663,1556,Mexifiz Shampoo Pro Age 400ml,0.8396029258098224,Mexifiz Pro Age Conditioner 350ml,350
+664,1563,Cbv Co 24 Hour Body Bot 800ml,0.6433985709847779,Cbvery Silky Smooth Conditioner 900ml,106
+665,1563,Cbv Co 24 Hour Body Bot 800ml,0.6433985709847779,Cbvery Silky Smooth Conditioner 500ml,169
+666,1563,Cbv Co 24 Hour Body Bot 800ml,0.6430887120542294,Cbvery Colour Revitalise Shampoo 900 ml,84
+667,1563,Cbv Co 24 Hour Body Bot 800ml,0.6424866834875246,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+668,1564,Cbv Shampoo 24 Hour Body 900ml,0.6812409812409812,Cbvery Smooth & Silky Shampoo 900ml,112
+669,1564,Cbv Shampoo 24 Hour Body 900ml,0.6739063104916764,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+670,1564,Cbv Shampoo 24 Hour Body 900ml,0.6699153699153699,Cbvery Silky Smooth Conditioner 900ml,106
+671,1564,Cbv Shampoo 24 Hour Body 900ml,0.6539426523297491,6Good Gentle Care Shampoo 400ml,355
+672,1567,Fiur Shampoo Damaged 250ml,0.8925576923076922,Fiur Damage Repair Shampoo 250ml,45
+673,1567,Fiur Shampoo Damaged 250ml,0.8612225938312894,Fiur Damage Repair Conditioner 250ml,46
+674,1567,Fiur Shampoo Damaged 250ml,0.8496336996336996,Fiur Smooth Definition Shampoo 250ml,44
+675,1567,Fiur Shampoo Damaged 250ml,0.848227634434531,Fiur Deep Clean Shampoo 250ml,49
+676,1568,Twicebeaut Shamp 400ml Bot Hydra,0.6785648148148148,Cbvery Ultimate Hold Hairspray 400ml,325
+677,1568,Twicebeaut Shamp 400ml Bot Hydra,0.6760222567287784,Fiur Radiant Brunette Shampoo 250ml,292
+678,1568,Twicebeaut Shamp 400ml Bot Hydra,0.673015873015873,Oddaced High Volume Hairspray 400ml,195
+679,1568,Twicebeaut Shamp 400ml Bot Hydra,0.6723085585585586,Oddaced Ultimate Hold Hairspray 400ml,203
+680,1573,Mexifiz Shampoo Oil 400ml,0.87317868338558,Mexifiz Pro Age Shampoo 400ml,351
+681,1573,Mexifiz Shampoo Oil 400ml,0.8527676767676768,Mexifiz Daily Moisture Shampoo 250ml,223
+682,1573,Mexifiz Shampoo Oil 400ml,0.8443982683982685,Mexifiz DermaSpa Goodness 3 Body Oil 150ml,156
+683,1573,Mexifiz Shampoo Oil 400ml,0.8418675958188153,Mexifiz Supreme Fine Silk Bath Soak 500ml,79
+684,1587,Oddaced Shampoo Std Revive 400ml,0.8454959514170041,Oddaced Give Me Moisture Shampoo 250ml,188
+685,1587,Oddaced Shampoo Std Revive 400ml,0.8454545454545456,Oddaced Refresh Dry Shampoo 250ml,611
+686,1587,Oddaced Shampoo Std Revive 400ml,0.8381624423963134,Oddaced Extra Body Mousse 200ml,137
+687,1587,Oddaced Shampoo Std Revive 400ml,0.8371212121212122,Oddaced Smooth Hair Shampoo 250ml,187
+688,1588,Baby Mexifiz Shampoo Bot Moisture 400ml,0.8452508731578499,Baby Mexifiz Sensitive Moisture Wipes 50pcs,768
+689,1588,Baby Mexifiz Shampoo Bot Moisture 400ml,0.83996303996304,Baby Mexifiz Rich Moisture Wipes 50pc,747
+690,1588,Baby Mexifiz Shampoo Bot Moisture 400ml,0.7347900009190331,Mexifiz Daily Moisture Shampoo 250ml,223
+691,1588,Baby Mexifiz Shampoo Bot Moisture 400ml,0.7276982021809609,Mexifiz Pro Age Shampoo 400ml,351
+692,1592,Oddaced Paste Jar Rework Putty 75ml,0.8717582417582418,Oddaced Rework Putty 150ml,9
+693,1592,Oddaced Paste Jar Rework Putty 75ml,0.8632625040863027,Oddaced Matt Fibre 75ml,199
+694,1592,Oddaced Paste Jar Rework Putty 75ml,0.8389285714285715,Oddaced Gel Wax 75ml,202
+695,1592,Oddaced Paste Jar Rework Putty 75ml,0.8319838781907747,Oddaced SurfStyle Paste 150ml,162
+696,1594,Cbv Co Repair+protect Bot 700ml,0.8204096569687968,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+697,1594,Cbv Co Repair+protect Bot 700ml,0.8204096569687968,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+698,1594,Cbv Co Repair+protect Bot 700ml,0.8124398985925343,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+699,1594,Cbv Co Repair+protect Bot 700ml,0.7931564171831136,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+700,1595,Cbv Co Repair+protect Bot 700ml,0.8204096569687968,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+701,1595,Cbv Co Repair+protect Bot 700ml,0.8204096569687968,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+702,1595,Cbv Co Repair+protect Bot 700ml,0.8124398985925343,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+703,1595,Cbv Co Repair+protect Bot 700ml,0.7931564171831136,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+704,1596,Cbv Co Repair+protect Bot 700ml,0.8204096569687968,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+705,1596,Cbv Co Repair+protect Bot 700ml,0.8204096569687968,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+706,1596,Cbv Co Repair+protect Bot 700ml,0.8124398985925343,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+707,1596,Cbv Co Repair+protect Bot 700ml,0.7931564171831136,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+708,1597,Mexifiz Ahs Shampoo Regenerating 250ml,0.9049535603715171,Mexifiz Intensive Repair Shampoo 250ml,599
+709,1597,Mexifiz Ahs Shampoo Regenerating 250ml,0.8838677152651744,Mexifiz Pro Age Shampoo 250ml,95
+710,1597,Mexifiz Ahs Shampoo Regenerating 250ml,0.8654668279895141,Mexifiz Daily Moisture Shampoo 250ml,223
+711,1597,Mexifiz Ahs Shampoo Regenerating 250ml,0.8563128908029318,Mexifiz Men+Care Thickening Shampoo 400ml,229
+712,1604,Cbv Shampoo Repair+protect 700ml,0.6989752252252251,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+713,1604,Cbv Shampoo Repair+protect 700ml,0.6989752252252251,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+714,1604,Cbv Shampoo Repair+protect 700ml,0.6903353658536586,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+715,1604,Cbv Shampoo Repair+protect 700ml,0.6641818448883666,Cbvery Silky Smooth Conditioner 500ml,169
+716,1605,Cbv Shampoo Repair+protect 700ml,0.6989752252252251,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+717,1605,Cbv Shampoo Repair+protect 700ml,0.6989752252252251,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+718,1605,Cbv Shampoo Repair+protect 700ml,0.6903353658536586,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+719,1605,Cbv Shampoo Repair+protect 700ml,0.6641818448883666,Cbvery Silky Smooth Conditioner 500ml,169
+720,1606,Cbv Shampoo Repair+protect 700ml,0.6989752252252251,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+721,1606,Cbv Shampoo Repair+protect 700ml,0.6989752252252251,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+722,1606,Cbv Shampoo Repair+protect 700ml,0.6903353658536586,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+723,1606,Cbv Shampoo Repair+protect 700ml,0.6641818448883666,Cbvery Silky Smooth Conditioner 500ml,169
+724,1612,Cbvery Hairspray Flexible Hold 400ml,0.8836074214632089,Cbvery Freeze Hold Hairspray 400ml,334
+725,1612,Cbvery Hairspray Flexible Hold 400ml,0.8808333333333334,Cbvery Firm Hold Hairspray 400ml,328
+726,1612,Cbvery Hairspray Flexible Hold 400ml,0.8799283154121864,Cbvery Ultimate Hold Hairspray 400ml,325
+727,1612,Cbvery Hairspray Flexible Hold 400ml,0.8679031696273075,Cbvery Extra Hold Hairspray 400ml,324
+728,1613,Cbvery Hairspray Flexible Hold 400ml,0.8836074214632089,Cbvery Freeze Hold Hairspray 400ml,334
+729,1613,Cbvery Hairspray Flexible Hold 400ml,0.8808333333333334,Cbvery Firm Hold Hairspray 400ml,328
+730,1613,Cbvery Hairspray Flexible Hold 400ml,0.8799283154121864,Cbvery Ultimate Hold Hairspray 400ml,325
+731,1613,Cbvery Hairspray Flexible Hold 400ml,0.8679031696273075,Cbvery Extra Hold Hairspray 400ml,324
+732,1620,Mexifiz Shampoo Colour Rescue 250ml,0.8785495347564313,Mexifiz Daily Moisture Shampoo 250ml,223
+733,1620,Mexifiz Shampoo Colour Rescue 250ml,0.8586510041682456,Mexifiz Pro Age Shampoo 250ml,95
+734,1620,Mexifiz Shampoo Colour Rescue 250ml,0.8573684210526316,Mexifiz Intensive Repair Shampoo 250ml,599
+735,1620,Mexifiz Shampoo Colour Rescue 250ml,0.8506504306504306,Mexifiz Colour Care Conditioner 200ml,221
+736,1629,Twicebeaut Intens Rojar 300mlrep,0.6707614942528736,Twicebeaut  Coconut Water & Mimosa Flower Hydro Gel 250 ML,417
+737,1629,Twicebeaut Intens Rojar 300mlrep,0.6706349206349206,Twicebeaut Sugar & Rose Peace And Glow Body Scrub 250 ML,418
+738,1629,Twicebeaut Intens Rojar 300mlrep,0.6599488304093567,Twicebeaut Coconut Water & Mimosa Flower Hydro Gel 250 ML,1592
+739,1629,Twicebeaut Intens Rojar 300mlrep,0.6486417748917749,Twicebeaut Blooming Radiance Vegan Conditioner for colour treated hair 400 ML,414
+740,1636,Fiur Shampoo Volumising 250ml,0.843769592476489,Fiur Damage Repair Shampoo 250ml,45
+741,1636,Fiur Shampoo Volumising 250ml,0.8378753480402656,Fiur Volume Addiction Shampoo 250ml,43
+742,1636,Fiur Shampoo Volumising 250ml,0.8375827237896204,Fiur Smooth Definition Shampoo 250ml,44
+743,1636,Fiur Shampoo Volumising 250ml,0.8296699603414668,Fiur Shine Gloss Serum 30ml,39
+744,1637,Twicebeaut Cond 400ml Bot Hydrat,0.6984039961013645,Twicebeaut Coconut Water & Mimosa Flower Hydro Gel 250 ML,1592
+745,1637,Twicebeaut Cond 400ml Bot Hydrat,0.683335994040017,Twicebeaut  Coconut Water & Mimosa Flower Hydro Gel 250 ML,417
+746,1637,Twicebeaut Cond 400ml Bot Hydrat,0.6749503430841459,Twicebeaut Coconut Oil & Ylang Ylang Hope And Repair Conditioner 400 ML,409
+747,1637,Twicebeaut Cond 400ml Bot Hydrat,0.6638736263736263,Twicebeaut Argan Oil and Lavender Soothe And Serene Body Lotion 400 ml,413
+748,1638,Twicebeaut Cond 400ml Bot Hydrat,0.6984039961013645,Twicebeaut Coconut Water & Mimosa Flower Hydro Gel 250 ML,1592
+749,1638,Twicebeaut Cond 400ml Bot Hydrat,0.683335994040017,Twicebeaut  Coconut Water & Mimosa Flower Hydro Gel 250 ML,417
+750,1638,Twicebeaut Cond 400ml Bot Hydrat,0.6749503430841459,Twicebeaut Coconut Oil & Ylang Ylang Hope And Repair Conditioner 400 ML,409
+751,1638,Twicebeaut Cond 400ml Bot Hydrat,0.6638736263736263,Twicebeaut Argan Oil and Lavender Soothe And Serene Body Lotion 400 ml,413
+752,1642,Mexifiz Co Oil Bot 350ml,0.8832251082251081,Mexifiz Pro Age Conditioner 350ml,350
+753,1642,Mexifiz Co Oil Bot 350ml,0.8577777777777778,Mexifiz  Intensive Body Lotion 250ml,607
+754,1642,Mexifiz Co Oil Bot 350ml,0.8547747747747748,Mexifiz Colour Care Conditioner 200ml,221
+755,1642,Mexifiz Co Oil Bot 350ml,0.8542276422764228,Mexifiz Deeply Nourishing Body wash 500ml,129
+756,1643,Cbv Shampoo 24 Hour Body 100ml,0.6739063104916764,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+757,1643,Cbv Shampoo 24 Hour Body 100ml,0.6555555555555554,Cbvery Smooth & Silky Shampoo 900ml,112
+758,1643,Cbv Shampoo 24 Hour Body 100ml,0.6539426523297491,6Good Gentle Care Shampoo 400ml,355
+759,1643,Cbv Shampoo 24 Hour Body 100ml,0.6472222222222221,Cbvery Firm Hold Hairspray 400ml,328
+760,1644,Cbv Shampoo 24 Hour Body 100ml,0.6739063104916764,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+761,1644,Cbv Shampoo 24 Hour Body 100ml,0.6555555555555554,Cbvery Smooth & Silky Shampoo 900ml,112
+762,1644,Cbv Shampoo 24 Hour Body 100ml,0.6539426523297491,6Good Gentle Care Shampoo 400ml,355
+763,1644,Cbv Shampoo 24 Hour Body 100ml,0.6472222222222221,Cbvery Firm Hold Hairspray 400ml,328
+764,1650,Oddaced Wax Surf Style Jar 150ml,0.8806637931034483,Oddaced SurfStyle Paste 150ml,162
+765,1650,Oddaced Wax Surf Style Jar 150ml,0.8591666666666667,Oddaced Gel Wax 75ml,202
+766,1650,Oddaced Wax Surf Style Jar 150ml,0.8437651515151515,Oddaced Tousled Style Spray 150ml,219
+767,1650,Oddaced Wax Surf Style Jar 150ml,0.8342948717948717,Oddaced Freeze Hold Styling Spray 150ml,198
+768,1654,Cbv Co Collagen+fullness Bot 400ml,0.6753624526733771,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+769,1654,Cbv Co Collagen+fullness Bot 400ml,0.6665271799776821,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+770,1654,Cbv Co Collagen+fullness Bot 400ml,0.6574517403860769,Mexifiz Men+Care Cool Fresh Body wash 400ml,257
+771,1654,Cbv Co Collagen+fullness Bot 400ml,0.6539554506306424,Cbvery Remoisturising Conditioner 900ml,94
+772,1663,Cbv Heat Protection Spr Blow Dry 200ml,0.7068417440306325,Parrot Black Body Spray Deodorant Aerosol 200ml,140
+773,1663,Cbv Heat Protection Spr Blow Dry 200ml,0.6912500687455315,Parrot Black Anti-perspirant Deodorant Spray for Men 200ml,142
+774,1663,Cbv Heat Protection Spr Blow Dry 200ml,0.6843729694606887,Cbvery Translucent Dry Shampoo 250ml,211
+775,1663,Cbv Heat Protection Spr Blow Dry 200ml,0.68406432748538,Cbvery Instant Refresh Dry Shampoo 250ml,650
+776,1664,Cbv Heat Protection Spr Blow Dry 200ml,0.7068417440306325,Parrot Black Body Spray Deodorant Aerosol 200ml,140
+777,1664,Cbv Heat Protection Spr Blow Dry 200ml,0.6912500687455315,Parrot Black Anti-perspirant Deodorant Spray for Men 200ml,142
+778,1664,Cbv Heat Protection Spr Blow Dry 200ml,0.6843729694606887,Cbvery Translucent Dry Shampoo 250ml,211
+779,1664,Cbv Heat Protection Spr Blow Dry 200ml,0.68406432748538,Cbvery Instant Refresh Dry Shampoo 250ml,650
+780,1666,Cbv Shampoo Cleanse & Replenish 235ml,0.8041891891891892,Cbvery Cleanse & Replenish Shampoo 500ml,100
+781,1666,Cbv Shampoo Cleanse & Replenish 235ml,0.6970483363925988,Cbvery Cleanse & Replenish 2in1 Shampoo and Conditioner 900ml,194
+782,1666,Cbv Shampoo Cleanse & Replenish 235ml,0.6522337722337723,Cbvery Colour Revitalise Shampoo 900 ml,84
+783,1666,Cbv Shampoo Cleanse & Replenish 235ml,0.6468918918918919,Cbvery Instant Refresh Dry Shampoo 250ml,650
+784,1667,Cbv Shampoo Colour Revitalise 235ml,0.7958547008547009,Cbvery Colour Revitalise Shampoo 900 ml,84
+785,1667,Cbv Shampoo Colour Revitalise 235ml,0.7922222222222223,Cbvery Colour Revitalise Conditioner 1.3ml,294
+786,1667,Cbv Shampoo Colour Revitalise 235ml,0.686904761904762,Cbvery Ultimate Hold Hairspray 250ml,103
+787,1667,Cbv Shampoo Colour Revitalise 235ml,0.6766537966537967,Cbvery Silky Smooth Conditioner 500ml,169
+788,1672,Cbv Co 24 Hour Body Bot 900ml,0.668180478525306,Cbvery Colour Revitalise Shampoo 900 ml,84
+789,1672,Cbv Co 24 Hour Body Bot 900ml,0.6536945812807882,Cbvery Smooth & Silky Shampoo 900ml,112
+790,1672,Cbv Co 24 Hour Body Bot 900ml,0.6527907217562389,Cbvery Silky Smooth Conditioner 900ml,106
+791,1672,Cbv Co 24 Hour Body Bot 900ml,0.6433985709847779,Cbvery Silky Smooth Conditioner 500ml,169
+792,1679,Oddaced Shampoo Revive Me Daily 250ml,0.8597577203689257,Oddaced Give Me Moisture Shampoo 250ml,188
+793,1679,Oddaced Shampoo Revive Me Daily 250ml,0.8567626067626067,Oddaced Refresh Dry Shampoo 250ml,611
+794,1679,Oddaced Shampoo Revive Me Daily 250ml,0.8542157542157542,Oddaced Shine & Hold Hairspray 400ml,130
+795,1679,Oddaced Shampoo Revive Me Daily 250ml,0.8404228184627458,Oddaced Nourish My Shine Shampoo 250ml,220
+796,1686,Fiur Co Damaged 250ml,0.8690476190476191,Fiur Damage Repair Conditioner 250ml,46
+797,1686,Fiur Co Damaged 250ml,0.8438520235680478,Fiur Damage Repair Mask 200ml,51
+798,1686,Fiur Co Damaged 250ml,0.8392063492063493,Fiur Smooth Definition Conditioner 250ml,52
+799,1686,Fiur Co Damaged 250ml,0.8288998357963875,Fiur Deep Clean Shampoo 250ml,49
+800,1706,Oddaced Shampoo Nourish Me Truly 250ml,0.8873065015479877,Oddaced Nourish My Shine Shampoo 250ml,220
+801,1706,Oddaced Shampoo Nourish Me Truly 250ml,0.8594236374635649,Oddaced Refresh Dry Shampoo 250ml,611
+802,1706,Oddaced Shampoo Nourish Me Truly 250ml,0.8553480475382004,Oddaced Give Me Moisture Shampoo 250ml,188
+803,1706,Oddaced Shampoo Nourish Me Truly 250ml,0.8550682261208576,Oddaced Shine & Hold Hairspray 400ml,130
+804,1707,Cbv Mousse Botanique Nourish 200ml,0.6814438873262402,Cbvery Botanique Nourish Hair Shampoo,1494
+805,1707,Cbv Mousse Botanique Nourish 200ml,0.6703232644409115,Cbvery HAIR SHAMPOO Botanique Nourish,894
+806,1707,Cbv Mousse Botanique Nourish 200ml,0.6598436671966085,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+807,1707,Cbv Mousse Botanique Nourish 200ml,0.6598436671966085,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+808,1711,Mexifiz Shampoo Soothing 400ml,0.8838505747126437,Mexifiz Pro Age Shampoo 400ml,351
+809,1711,Mexifiz Shampoo Soothing 400ml,0.8529362591431557,Mexifiz Pro Age Shampoo 250ml,95
+810,1711,Mexifiz Shampoo Soothing 400ml,0.8383128583128583,Mexifiz Colour Care Conditioner 200ml,221
+811,1711,Mexifiz Shampoo Soothing 400ml,0.8309077040427155,Mexifiz Intensive Repair Shampoo 250ml,599
+812,1715,Mexifiz Co Proage Bot 350ml,0.8967003367003367,Mexifiz Pro Age Conditioner 350ml,350
+813,1715,Mexifiz Co Proage Bot 350ml,0.8768171469820646,Mexifiz Pro Age Shampoo 250ml,95
+814,1715,Mexifiz Co Proage Bot 350ml,0.8662860488947446,Mexifiz Pro Age Conditioner 200ml,85
+815,1715,Mexifiz Co Proage Bot 350ml,0.8601416463485428,Mexifiz Pro Age Shampoo 400ml,351
+816,1722,Cbv Shampoo Smooth 250ml,0.7970959595959596,Cbvery Silky Smooth Shampoo 500ml,74
+817,1722,Cbv Shampoo Smooth 250ml,0.6964646464646465,Oddaced Smooth Hair Shampoo 250ml,187
+818,1722,Cbv Shampoo Smooth 250ml,0.685428849902534,Fiur Smooth Definition Shampoo 250ml,44
+819,1722,Cbv Shampoo Smooth 250ml,0.6853801169590644,Cbvery Instant Refresh Dry Shampoo 250ml,650
+820,1727,Oddaced Styling Pwd Instant Vol Female 7gr,0.8208909370199693,Oddaced Matt with reworkable hold Styling Paste for men 100 ml,186
+821,1727,Oddaced Styling Pwd Instant Vol Female 7gr,0.8201224063293029,Oddaced SurfStyle Paste 150ml,162
+822,1727,Oddaced Styling Pwd Instant Vol Female 7gr,0.6909379509379509,Oddaced Mega Hold Gel Spray 200ml,121
+823,1727,Oddaced Styling Pwd Instant Vol Female 7gr,0.6893138643710727,Oddaced Matt Fibre 75ml,199
+824,1730,Oddaced Co Revive Bot 400ml,0.8571804062126642,Oddaced Extra Body Mousse 200ml,137
+825,1730,Oddaced Co Revive Bot 400ml,0.8357952069716775,Oddaced Curl Defining Mousse 200ml,688
+826,1730,Oddaced Co Revive Bot 400ml,0.8214010390480979,Oddaced Rework Putty 150ml,9
+827,1730,Oddaced Co Revive Bot 400ml,0.6974380395433027,Oddaced Give Me Moisture Shampoo 250ml,188
+828,1731,Cbv Shampoo Healthy Volume 235ml,0.6680485878855444,Cbvery Colour Revitalise Shampoo 900 ml,84
+829,1731,Cbv Shampoo Healthy Volume 235ml,0.660312362758015,Cbvery Silky Smooth Shampoo 500ml,74
+830,1731,Cbv Shampoo Healthy Volume 235ml,0.6569741532976826,Cbvery Moisture Rich Shampoo 1.3ml,252
+831,1731,Cbv Shampoo Healthy Volume 235ml,0.6495726495726496,Cbvery Beauty-Full Volume Shampoo 400ml,895
+832,1732,Cbv Shampoo Healthy Volume 235ml,0.6680485878855444,Cbvery Colour Revitalise Shampoo 900 ml,84
+833,1732,Cbv Shampoo Healthy Volume 235ml,0.660312362758015,Cbvery Silky Smooth Shampoo 500ml,74
+834,1732,Cbv Shampoo Healthy Volume 235ml,0.6569741532976826,Cbvery Moisture Rich Shampoo 1.3ml,252
+835,1732,Cbv Shampoo Healthy Volume 235ml,0.6495726495726496,Cbvery Beauty-Full Volume Shampoo 400ml,895
+836,1744,Parrot Paste Flexible Jar 75ml,0.8261222020568664,Parrot Black Shower Gel 250ml,141
+837,1744,Parrot Paste Flexible Jar 75ml,0.6900653594771242,Parrot Signature Deo Pump,1255
+838,1744,Parrot Paste Flexible Jar 75ml,0.6749028749028749,Parrot Natural Casual Styling Clay 75ml,1219
+839,1744,Parrot Paste Flexible Jar 75ml,0.6714285714285714,Parrot Men  Manwasher,569
+840,1750,Cbv Co 24 Hour Body Bot 100ml,0.6433985709847779,Cbvery Silky Smooth Conditioner 500ml,169
+841,1750,Cbv Co 24 Hour Body Bot 100ml,0.6433985709847779,Cbvery Silky Smooth Conditioner 900ml,106
+842,1750,Cbv Co 24 Hour Body Bot 100ml,0.6430887120542294,Cbvery Colour Revitalise Shampoo 900 ml,84
+843,1750,Cbv Co 24 Hour Body Bot 100ml,0.6424866834875246,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+844,1751,Cbv Co 24 Hour Body Bot 100ml,0.6433985709847779,Cbvery Silky Smooth Conditioner 500ml,169
+845,1751,Cbv Co 24 Hour Body Bot 100ml,0.6433985709847779,Cbvery Silky Smooth Conditioner 900ml,106
+846,1751,Cbv Co 24 Hour Body Bot 100ml,0.6430887120542294,Cbvery Colour Revitalise Shampoo 900 ml,84
+847,1751,Cbv Co 24 Hour Body Bot 100ml,0.6424866834875246,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+848,1760,Cbv Heat Protection Spr Heat Def 60ml,0.6776776776776776,Cbvery Pro Collection Beauty-Full Volume Shampoo 700ml,331
+849,1760,Cbv Heat Protection Spr Heat Def 60ml,0.6776776776776776,Cbvery Pro Collection Keratin Smooth Conditioner 400ml,326
+850,1760,Cbv Heat Protection Spr Heat Def 60ml,0.672959331945507,Toz Nutritive for Dry Hair Encapsulate Serum 60ml,247
+851,1760,Cbv Heat Protection Spr Heat Def 60ml,0.6688496188496189,Cbvery Instant Refresh Dry Shampoo 250ml,650
+852,1761,Cbv Heat Protection Spr Heat Def 60ml,0.6776776776776776,Cbvery Pro Collection Beauty-Full Volume Shampoo 700ml,331
+853,1761,Cbv Heat Protection Spr Heat Def 60ml,0.6776776776776776,Cbvery Pro Collection Keratin Smooth Conditioner 400ml,326
+854,1761,Cbv Heat Protection Spr Heat Def 60ml,0.672959331945507,Toz Nutritive for Dry Hair Encapsulate Serum 60ml,247
+855,1761,Cbv Heat Protection Spr Heat Def 60ml,0.6688496188496189,Cbvery Instant Refresh Dry Shampoo 250ml,650
+856,1766,Cbv Shampoo 2in1 500ml,0.6756301756301757,Cbvery Silky Smooth Conditioner 500ml,169
+857,1766,Cbv Shampoo 2in1 500ml,0.6708430458430459,Cbvery Remoisturising Conditioner 500ml,134
+858,1766,Cbv Shampoo 2in1 500ml,0.6648090096365958,Fiur Deep Clean Shampoo 250ml,49
+859,1766,Cbv Shampoo 2in1 500ml,0.6460230283759696,Cbvery Silky Smooth Conditioner 900ml,106
+860,1767,Cbv Shampoo 2in1 500ml,0.6756301756301757,Cbvery Silky Smooth Conditioner 500ml,169
+861,1767,Cbv Shampoo 2in1 500ml,0.6708430458430459,Cbvery Remoisturising Conditioner 500ml,134
+862,1767,Cbv Shampoo 2in1 500ml,0.6648090096365958,Fiur Deep Clean Shampoo 250ml,49
+863,1767,Cbv Shampoo 2in1 500ml,0.6460230283759696,Cbvery Silky Smooth Conditioner 900ml,106
+864,1768,Cbv Shampoo 2in1 500ml,0.6756301756301757,Cbvery Silky Smooth Conditioner 500ml,169
+865,1768,Cbv Shampoo 2in1 500ml,0.6708430458430459,Cbvery Remoisturising Conditioner 500ml,134
+866,1768,Cbv Shampoo 2in1 500ml,0.6648090096365958,Fiur Deep Clean Shampoo 250ml,49
+867,1768,Cbv Shampoo 2in1 500ml,0.6460230283759696,Cbvery Silky Smooth Conditioner 900ml,106
+868,1769,Twicebeaut Shamp 400ml Bot Repai,0.660434472934473,Twicebeaut Shea Butter & Sandalwood Happy And Hydrate Conditioner 400 ML,401
+869,1769,Twicebeaut Shamp 400ml Bot Repai,0.6589752252252252,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+870,1769,Twicebeaut Shamp 400ml Bot Repai,0.6553030303030303,Fiur Damage Repair Shampoo 250ml,45
+871,1769,Twicebeaut Shamp 400ml Bot Repai,0.6495726495726496,Cbvery Colour Revitalise Shampoo 900 ml,84
+872,1773,Cbv Co Moisture Rich Bot 235ml,0.8144354475933423,Cbvery Moisture Rich Conditioner 1.3ml,295
+873,1773,Cbv Co Moisture Rich Bot 235ml,0.6984370559818132,Cbvery Moisture Rich Shampoo 1.3ml,252
+874,1773,Cbv Co Moisture Rich Bot 235ml,0.69005439005439,Cbvery Remoisturising Conditioner 500ml,134
+875,1773,Cbv Co Moisture Rich Bot 235ml,0.6781144781144781,6Good Moisturising Handwash 250ml,179
+876,1777,Mexifiz Shampoo Silver 250ml,0.8840948525159051,Mexifiz Intensive Repair Shampoo 250ml,599
+877,1777,Mexifiz Shampoo Silver 250ml,0.884004884004884,Mexifiz Daily Moisture Shampoo 250ml,223
+878,1777,Mexifiz Shampoo Silver 250ml,0.8702791461412152,Mexifiz Pro Age Shampoo 250ml,95
+879,1777,Mexifiz Shampoo Silver 250ml,0.846835075493612,Mexifiz Supreme Fine Silk Bath Soak 500ml,79
+880,1778,Cbv Inco Leave on Keratin 120ml,0.7244623655913979,Fiur Leave In Conditioner 100ml,50
+881,1778,Cbv Inco Leave on Keratin 120ml,0.6675355707613773,Mexifiz  Intensive Body Lotion 250ml,607
+882,1778,Cbv Inco Leave on Keratin 120ml,0.666187755846703,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+883,1778,Cbv Inco Leave on Keratin 120ml,0.6639016897081413,Mexifiz Intensive Body Lotion 250ml,1202
+884,1779,Cbv Inco Leave on Keratin 120ml,0.7244623655913979,Fiur Leave In Conditioner 100ml,50
+885,1779,Cbv Inco Leave on Keratin 120ml,0.6675355707613773,Mexifiz  Intensive Body Lotion 250ml,607
+886,1779,Cbv Inco Leave on Keratin 120ml,0.666187755846703,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+887,1779,Cbv Inco Leave on Keratin 120ml,0.6639016897081413,Mexifiz Intensive Body Lotion 250ml,1202
+888,1786,Oddaced Gum Jar Texturising Gum 30ml,0.8454761904761905,Oddaced Firm Hold Styling Gel 200ml,196
+889,1786,Oddaced Gum Jar Texturising Gum 30ml,0.8238888888888889,Oddaced Gel Wax 75ml,202
+890,1786,Oddaced Gum Jar Texturising Gum 30ml,0.8204761904761906,Oddaced High Volume Hairspray 400ml,195
+891,1786,Oddaced Gum Jar Texturising Gum 30ml,0.6993227242587857,Oddaced Curl Defining Mousse 200ml,688
+892,1789,Twicebeaut Cond 400ml Bot Color,0.695016034710432,Twicebeaut Coconut Water & Mimosa Flower Hydro Gel 250 ML,1592
+893,1789,Twicebeaut Cond 400ml Bot Color,0.6791620318872823,Twicebeaut  Coconut Water & Mimosa Flower Hydro Gel 250 ML,417
+894,1789,Twicebeaut Cond 400ml Bot Color,0.6722873900293255,Twicebeaut Coconut Water & Mimosa Flower Volume And Bounty Conditioner 400 ML,411
+895,1789,Twicebeaut Cond 400ml Bot Color,0.6653333827142204,Twicebeaut Muru Muru Butter & Rose Blooming Colour Hair mask 300 ML,991
+896,1790,Cbvery Dry Shampoo 250ml Volume,0.8692165898617511,Cbvery Volumising Dry Shampoo 250ml,210
+897,1790,Cbvery Dry Shampoo 250ml Volume,0.8647721454173067,Cbvery Volumising Dry Shampoo 250 ml,700
+898,1790,Cbvery Dry Shampoo 250ml Volume,0.8647721454173067,Cbvery Translucent Dry Shampoo 250ml,211
+899,1790,Cbvery Dry Shampoo 250ml Volume,0.8459884201819685,Cbvery Beauty-Full Volume Shampoo 400ml,895
+900,1798,Cbv Co Colour Revitalise Bot 235ml,0.8455980112842858,Cbvery Colour Revitalise Shampoo 900 ml,84
+901,1798,Cbv Co Colour Revitalise Bot 235ml,0.820326797385621,Cbvery Colour Revitalise Conditioner 1.3ml,294
+902,1798,Cbv Co Colour Revitalise Bot 235ml,0.7980343861682604,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+903,1798,Cbv Co Colour Revitalise Bot 235ml,0.6703372170124089,Cbvery Ultimate Hold Hairspray 250ml,103
+904,1802,Cbv Co 24 Hour Body Bot 900ml,0.668180478525306,Cbvery Colour Revitalise Shampoo 900 ml,84
+905,1802,Cbv Co 24 Hour Body Bot 900ml,0.6536945812807882,Cbvery Smooth & Silky Shampoo 900ml,112
+906,1802,Cbv Co 24 Hour Body Bot 900ml,0.6527907217562389,Cbvery Silky Smooth Conditioner 900ml,106
+907,1802,Cbv Co 24 Hour Body Bot 900ml,0.6433985709847779,Cbvery Silky Smooth Conditioner 500ml,169
+908,1803,Baby Mexifiz Shampoo Bot Moisture 200ml,0.8452508731578499,Baby Mexifiz Sensitive Moisture Wipes 50pcs,768
+909,1803,Baby Mexifiz Shampoo Bot Moisture 200ml,0.83996303996304,Baby Mexifiz Rich Moisture Wipes 50pc,747
+910,1803,Baby Mexifiz Shampoo Bot Moisture 200ml,0.7573005698005698,Mexifiz Daily Moisture Shampoo 250ml,223
+911,1803,Baby Mexifiz Shampoo Bot Moisture 200ml,0.7032124963159445,Mexifiz Pro Age Shampoo 400ml,351
+912,1804,Cbv Hairspray Firm Hold 100ml,0.8794540229885057,Cbvery Firm Hold Hairspray 400ml,328
+913,1804,Cbv Hairspray Firm Hold 100ml,0.8401908774119727,Cbvery Freeze Hold Hairspray 400ml,334
+914,1804,Cbv Hairspray Firm Hold 100ml,0.8305129842486164,Cbvery Ultimate Hold Hairspray 400ml,325
+915,1804,Cbv Hairspray Firm Hold 100ml,0.8272504353883664,Cbvery Extra Hold Hairspray 400ml,324
+916,1807,Mexifiz Co Colour Bot 200ml,0.8946715946715946,Mexifiz Colour Care Conditioner 200ml,221
+917,1807,Mexifiz Co Colour Bot 200ml,0.869023569023569,Mexifiz Pro Age Conditioner 200ml,85
+918,1807,Mexifiz Co Colour Bot 200ml,0.8669841269841271,Mexifiz Clean Comfort Deo Aero,1263
+919,1807,Mexifiz Co Colour Bot 200ml,0.8599558102085908,Mexifiz Men+Care Cool Fresh Body wash 400ml,257
+920,1829,Fiur Heat Protection Heat Protect 150ml,0.8316239316239316,Fiur Workable Matte Matte Paste 75ml,291
+921,1829,Fiur Heat Protection Heat Protect 150ml,0.6973206005464071,Fiur Leave In Conditioner 100ml,50
+922,1829,Fiur Heat Protection Heat Protect 150ml,0.6912393162393161,Fiur Damage Repair Conditioner 250ml,46
+923,1829,Fiur Heat Protection Heat Protect 150ml,0.6848188848188849,Fiur Tousled Texture Creation Hairspray 250ml,37
+924,1831,Fiur Styling Aqspray Sea Salt 200ml,0.8692165898617511,Fiur Messy Sea Salt Spray 200ml,148
+925,1831,Fiur Styling Aqspray Sea Salt 200ml,0.6936507936507937,Fiur Body Amplify Creation Hairspray 250ml,36
+926,1831,Fiur Styling Aqspray Sea Salt 200ml,0.6896701000149276,Fiur Damage Repair Mask 200ml,51
+927,1831,Fiur Styling Aqspray Sea Salt 200ml,0.6890977443609022,Fiur Sky High Volume Dry Shampoo 250ml,146
+928,1832,Fiur Styling Aqspray Spritz 150ml,0.8454545454545456,Fiur Finishing Shine Spray 150ml,54
+929,1832,Fiur Styling Aqspray Spritz 150ml,0.8396029258098224,Fiur 3D Volumiser Spray 150ml,97
+930,1832,Fiur Styling Aqspray Spritz 150ml,0.686924186924187,Fiur Body Amplify Creation Hairspray 250ml,36
+931,1832,Fiur Styling Aqspray Spritz 150ml,0.6818181818181818,Fiur Texturising Fibre 75ml,341
+932,1835,6Good Co Gentle Care Bot 400ml,0.8895238095238096,6Good Gentle Care Conditioner 400ml,354
+933,1835,6Good Co Gentle Care Bot 400ml,0.8639569892473118,6Good Gentle Care Shampoo 400ml,355
+934,1835,6Good Co Gentle Care Bot 400ml,0.8296212121212122,6Good Gentle Care Handwash 250ml,165
+935,1835,6Good Co Gentle Care Bot 400ml,0.8291774891774892,6Good Refreshing Shower Gel 500ml,209
+936,1837,Cbvery Lotion Blow Dry 70ml,0.8348396243133085,Cbvery Extra Hold Hairspray 400ml,324
+937,1837,Cbvery Lotion Blow Dry 70ml,0.8341317941317941,Cbvery Volumising Dry Shampoo 250ml,210
+938,1837,Cbvery Lotion Blow Dry 70ml,0.8306397306397306,Cbvery Volumising Dry Shampoo 250 ml,700
+939,1837,Cbvery Lotion Blow Dry 70ml,0.8273364273364273,Cbvery Silky Smooth Conditioner 900ml,106
+940,1838,Mexifiz Shampoo 2in1 Normal 250ml,0.860966810966811,Mexifiz Daily Moisture Shampoo 250ml,223
+941,1838,Mexifiz Shampoo 2in1 Normal 250ml,0.8599289446185998,Mexifiz Pro Age Shampoo 250ml,95
+942,1838,Mexifiz Shampoo 2in1 Normal 250ml,0.8458874458874459,Mexifiz DermaSpa Goodness 3 Body Oil 150ml,156
+943,1838,Mexifiz Shampoo 2in1 Normal 250ml,0.8390749601275916,Mexifiz Intensive Repair Shampoo 250ml,599
+944,1842,Fiur Cond Leave in Tube 100ml,0.8777041156840933,Fiur Leave In Conditioner 100ml,50
+945,1842,Fiur Cond Leave in Tube 100ml,0.6853569013812422,Oddaced Curl Defining Mousse 200ml,688
+946,1842,Fiur Cond Leave in Tube 100ml,0.6739189928845102,Fiur Damage Repair Conditioner 250ml,46
+947,1842,Fiur Cond Leave in Tube 100ml,0.6686637376292549,Mexifiz Colour Care Conditioner 200ml,221
+948,1845,Mexifiz Men Shampoo Thick 400ml,0.9060582218725413,Mexifiz Men+Care Thickening Shampoo 400ml,229
+949,1845,Mexifiz Men Shampoo Thick 400ml,0.8870226177233964,Mexifiz Pro Age Shampoo 400ml,351
+950,1845,Mexifiz Men Shampoo Thick 400ml,0.8598837840773325,Mexifiz Men+Care Anti Dandruff Shampoo 400ml,722
+951,1845,Mexifiz Men Shampoo Thick 400ml,0.8572959854383659,Mexifiz Pro Age Shampoo 250ml,95
+952,1846,Oddaced Co Revive Me Daily Bot 250ml,0.8600668337510443,Oddaced Give Me Moisture Shampoo 250ml,188
+953,1846,Oddaced Co Revive Me Daily Bot 250ml,0.836388888888889,Oddaced Gel Wax 75ml,202
+954,1846,Oddaced Co Revive Me Daily Bot 250ml,0.832843137254902,Oddaced Curl Defining Mousse 200ml,688
+955,1846,Oddaced Co Revive Me Daily Bot 250ml,0.8287878787878789,Oddaced Refresh Dry Shampoo 250ml,611
+956,1859,Oddaced Hairspray Flexible Hold 400ml,0.883445945945946,Oddaced Ultimate Hold Hairspray 400ml,203
+957,1859,Oddaced Hairspray Flexible Hold 400ml,0.8688220478543058,Oddaced Shine & Hold Hairspray 400ml,130
+958,1859,Oddaced Hairspray Flexible Hold 400ml,0.866924066924067,Oddaced High Volume Hairspray 400ml,195
+959,1859,Oddaced Hairspray Flexible Hold 400ml,0.8577304577304578,Oddaced Mega Hold Gel Spray 200ml,121
+960,1861,Oddaced Mousse Aero 150ml Volume,0.8438512145748989,Oddaced Rework Putty 150ml,9
+961,1861,Oddaced Mousse Aero 150ml Volume,0.8378036437246964,Oddaced Give Me Moisture Shampoo 250ml,188
+962,1861,Oddaced Mousse Aero 150ml Volume,0.8309700263504611,Oddaced Tousled Style Spray 150ml,219
+963,1861,Oddaced Mousse Aero 150ml Volume,0.8284585385878489,Oddaced SurfStyle Paste 150ml,162
+964,1862,Cbv Shampoo Deep Cleansing 500ml,0.7916291291291292,Cbvery Silky Smooth Conditioner 500ml,169
+965,1862,Cbv Shampoo Deep Cleansing 500ml,0.7341954022988505,Fiur Deep Clean Shampoo 250ml,49
+966,1862,Cbv Shampoo Deep Cleansing 500ml,0.678674598511555,Cbvery Silky Smooth Conditioner 900ml,106
+967,1862,Cbv Shampoo Deep Cleansing 500ml,0.6786006069094305,Cbvery Freeze Hold Hairspray 400ml,334
+968,1863,Cbv Shampoo Deep Cleansing 500ml,0.7916291291291292,Cbvery Silky Smooth Conditioner 500ml,169
+969,1863,Cbv Shampoo Deep Cleansing 500ml,0.7341954022988505,Fiur Deep Clean Shampoo 250ml,49
+970,1863,Cbv Shampoo Deep Cleansing 500ml,0.678674598511555,Cbvery Silky Smooth Conditioner 900ml,106
+971,1863,Cbv Shampoo Deep Cleansing 500ml,0.6786006069094305,Cbvery Freeze Hold Hairspray 400ml,334
+972,1864,Cbv Shampoo Deep Cleansing 500ml,0.7916291291291292,Cbvery Silky Smooth Conditioner 500ml,169
+973,1864,Cbv Shampoo Deep Cleansing 500ml,0.7341954022988505,Fiur Deep Clean Shampoo 250ml,49
+974,1864,Cbv Shampoo Deep Cleansing 500ml,0.678674598511555,Cbvery Silky Smooth Conditioner 900ml,106
+975,1864,Cbv Shampoo Deep Cleansing 500ml,0.6786006069094305,Cbvery Freeze Hold Hairspray 400ml,334
+976,1865,Cbv Shampoo Deep Cleansing 500ml,0.7916291291291292,Cbvery Silky Smooth Conditioner 500ml,169
+977,1865,Cbv Shampoo Deep Cleansing 500ml,0.7341954022988505,Fiur Deep Clean Shampoo 250ml,49
+978,1865,Cbv Shampoo Deep Cleansing 500ml,0.678674598511555,Cbvery Silky Smooth Conditioner 900ml,106
+979,1865,Cbv Shampoo Deep Cleansing 500ml,0.6786006069094305,Cbvery Freeze Hold Hairspray 400ml,334
+980,1883,Twicebeaut Dry Shamp245ml Volboo,0.6910612535612536,Cbvery Translucent Dry Shampoo 250ml,211
+981,1883,Twicebeaut Dry Shamp245ml Volboo,0.6652314814814815,Mexifiz Daily Moisture Shampoo 250ml,223
+982,1883,Twicebeaut Dry Shamp245ml Volboo,0.6638584117032392,Fiur Deep Clean Shampoo 250ml,49
+983,1883,Twicebeaut Dry Shamp245ml Volboo,0.6591269841269841,Fiur Matt Texture Dry Shampoo 250ml,147
+984,1886,Oddaced Gel Mega Hold Tube 50ml,0.8791638469057824,Oddaced Mega Hold Gel Spray 200ml,121
+985,1886,Oddaced Gel Mega Hold Tube 50ml,0.8679127134724858,Oddaced Gel Wax 75ml,202
+986,1886,Oddaced Gel Mega Hold Tube 50ml,0.8626137303556659,Oddaced Freeze Hold Styling Spray 150ml,198
+987,1886,Oddaced Gel Mega Hold Tube 50ml,0.8586265884652982,Oddaced Tousled Style Spray 150ml,219
+988,1891,Cbv Hs Finishing Spr Botaniq Nour 200ml,0.6851566951566953,Cbvery Volumising Dry Shampoo 250 ml,700
+989,1891,Cbv Hs Finishing Spr Botaniq Nour 200ml,0.6744051744051744,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+990,1891,Cbv Hs Finishing Spr Botaniq Nour 200ml,0.6744051744051744,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+991,1891,Cbv Hs Finishing Spr Botaniq Nour 200ml,0.6725036481134041,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+992,1892,Mexifiz Co Soothing Bot 350ml,0.8693051201671891,Mexifiz Pro Age Conditioner 350ml,350
+993,1892,Mexifiz Co Soothing Bot 350ml,0.8516158587372981,Mexifiz  Intensive Body Lotion 250ml,607
+994,1892,Mexifiz Co Soothing Bot 350ml,0.851559934318555,Mexifiz Pro Age Shampoo 250ml,95
+995,1892,Mexifiz Co Soothing Bot 350ml,0.8465710002141786,Mexifiz Intensive Body Lotion 250ml,1202
+996,1912,Oddaced Serum Invisible Pump 50ml,0.8486938349007316,Oddaced SurfStyle Paste 150ml,162
+997,1912,Oddaced Serum Invisible Pump 50ml,0.8449643493761141,Oddaced Curl Defining Mousse 200ml,688
+998,1912,Oddaced Serum Invisible Pump 50ml,0.8440052700922267,Oddaced Tousled Style Spray 150ml,219
+999,1912,Oddaced Serum Invisible Pump 50ml,0.832879401300454,Oddaced Give Me Moisture Shampoo 250ml,188
+1000,1914,Fiur Styling Aqspray Sea Salt 200ml,0.8692165898617511,Fiur Messy Sea Salt Spray 200ml,148
+1001,1914,Fiur Styling Aqspray Sea Salt 200ml,0.6936507936507937,Fiur Body Amplify Creation Hairspray 250ml,36
+1002,1914,Fiur Styling Aqspray Sea Salt 200ml,0.6896701000149276,Fiur Damage Repair Mask 200ml,51
+1003,1914,Fiur Styling Aqspray Sea Salt 200ml,0.6890977443609022,Fiur Sky High Volume Dry Shampoo 250ml,146
+1004,1917,Cbv Shampoo Keratin 100ml,0.6853535353535354,Cbvery Silky Smooth Shampoo 500ml,74
+1005,1917,Cbv Shampoo Keratin 100ml,0.674289127837515,Fiur Leave In Conditioner 100ml,50
+1006,1917,Cbv Shampoo Keratin 100ml,0.6738095238095237,Cbvery Smooth & Silky Shampoo 900ml,112
+1007,1917,Cbv Shampoo Keratin 100ml,0.6650537634408603,6Good Gentle Care Shampoo 400ml,355
+1008,1918,Cbv Shampoo Keratin 100ml,0.6853535353535354,Cbvery Silky Smooth Shampoo 500ml,74
+1009,1918,Cbv Shampoo Keratin 100ml,0.674289127837515,Fiur Leave In Conditioner 100ml,50
+1010,1918,Cbv Shampoo Keratin 100ml,0.6738095238095237,Cbvery Smooth & Silky Shampoo 900ml,112
+1011,1918,Cbv Shampoo Keratin 100ml,0.6650537634408603,6Good Gentle Care Shampoo 400ml,355
+1012,1920,Cbv Co Volume Bot 235ml,0.6979018660604338,Cbvery Translucent Dry Shampoo 250ml,211
+1013,1920,Cbv Co Volume Bot 235ml,0.6822909866388128,Cbvery Silky Smooth Conditioner 500ml,169
+1014,1920,Cbv Co Volume Bot 235ml,0.6730388773867034,Cbvery Volumising Dry Shampoo 250ml,210
+1015,1920,Cbv Co Volume Bot 235ml,0.6682769726247987,Cbvery Volumising Dry Shampoo 250 ml,700
+1016,1921,Cbv Co Volume Bot 235ml,0.6979018660604338,Cbvery Translucent Dry Shampoo 250ml,211
+1017,1921,Cbv Co Volume Bot 235ml,0.6822909866388128,Cbvery Silky Smooth Conditioner 500ml,169
+1018,1921,Cbv Co Volume Bot 235ml,0.6730388773867034,Cbvery Volumising Dry Shampoo 250ml,210
+1019,1921,Cbv Co Volume Bot 235ml,0.6682769726247987,Cbvery Volumising Dry Shampoo 250 ml,700
+1020,1924,Cbv Shampoo Blonde 250ml,0.6928060092760638,Fiur Deep Clean Shampoo 250ml,49
+1021,1924,Cbv Shampoo Blonde 250ml,0.6912912912912912,Cbvery Silky Smooth Conditioner 500ml,169
+1022,1924,Cbv Shampoo Blonde 250ml,0.6668075276087446,Mexifiz Pro Age Shampoo 250ml,95
+1023,1924,Cbv Shampoo Blonde 250ml,0.6631302354986565,Cbvery Silky Smooth Conditioner 900ml,106
+1024,1925,Cbv Shampoo Blonde 250ml,0.6928060092760638,Fiur Deep Clean Shampoo 250ml,49
+1025,1925,Cbv Shampoo Blonde 250ml,0.6912912912912912,Cbvery Silky Smooth Conditioner 500ml,169
+1026,1925,Cbv Shampoo Blonde 250ml,0.6668075276087446,Mexifiz Pro Age Shampoo 250ml,95
+1027,1925,Cbv Shampoo Blonde 250ml,0.6631302354986565,Cbvery Silky Smooth Conditioner 900ml,106
+1028,1929,Cbv Shampoo Hydrating 400ml,0.790162037037037,Cbvery Firm Hold Hairspray 400ml,328
+1029,1929,Cbv Shampoo Hydrating 400ml,0.6914149172213687,6Good Gentle Care Shampoo 400ml,355
+1030,1929,Cbv Shampoo Hydrating 400ml,0.6777296777296776,Cbvery Extra Hold Hairspray 400ml,324
+1031,1929,Cbv Shampoo Hydrating 400ml,0.6763253449527958,Cbvery Freeze Hold Hairspray 400ml,334
+1032,1930,Cbv Hairspray Flexible Hold 250ml,0.8297950772088702,Cbvery Ultimate Hold Hairspray 250ml,103
+1033,1930,Cbv Hairspray Flexible Hold 250ml,0.8234699940582293,Cbvery Freeze Hold Hairspray 250ml,136
+1034,1930,Cbv Hairspray Flexible Hold 250ml,0.8080371017871018,Cbvery Firm Hold Hairspray 400ml,328
+1035,1930,Cbv Hairspray Flexible Hold 250ml,0.8041806958473626,Cbvery Ultimate Hold Hairspray 400ml,325
+1036,1931,Cbv Hairspray Flexible Hold 250ml,0.8297950772088702,Cbvery Ultimate Hold Hairspray 250ml,103
+1037,1931,Cbv Hairspray Flexible Hold 250ml,0.8234699940582293,Cbvery Freeze Hold Hairspray 250ml,136
+1038,1931,Cbv Hairspray Flexible Hold 250ml,0.8080371017871018,Cbvery Firm Hold Hairspray 400ml,328
+1039,1931,Cbv Hairspray Flexible Hold 250ml,0.8041806958473626,Cbvery Ultimate Hold Hairspray 400ml,325
+1040,1935,Cbv Co Smooth Tube 250ml,0.7955705705705706,Cbvery Silky Smooth Conditioner 500ml,169
+1041,1935,Cbv Co Smooth Tube 250ml,0.6806740951477793,Cbvery Silky Smooth Conditioner 900ml,106
+1042,1935,Cbv Co Smooth Tube 250ml,0.6769636015325671,Mexifiz Pro Age Shampoo 250ml,95
+1043,1935,Cbv Co Smooth Tube 250ml,0.6663343965975544,Cbvery Silky Smooth Shampoo 500ml,74
+1044,1940,Oddaced Cream Curls Tube 125ml,0.86,Oddaced Fluff Tamer 75ml,197
+1045,1940,Oddaced Cream Curls Tube 125ml,0.8467323481116585,Oddaced SurfStyle Paste 150ml,162
+1046,1940,Oddaced Cream Curls Tube 125ml,0.8397147950089127,Oddaced Curl Defining Mousse 200ml,688
+1047,1940,Oddaced Cream Curls Tube 125ml,0.8318577075098814,Oddaced Tousled Style Spray 150ml,219
+1048,1945,Twicebeaut Cond 400ml Bot Repair,0.6748376174682145,Twicebeaut Coconut Oil & Ylang Ylang Hope And Repair Shampoo 400 ML,416
+1049,1945,Twicebeaut Cond 400ml Bot Repair,0.67328216374269,Twicebeaut Coconut Water & Mimosa Flower Hydro Gel 250 ML,1592
+1050,1945,Twicebeaut Cond 400ml Bot Repair,0.6709440418679549,Twicebeaut Coconut Oil & Ylang Ylang Hope And Repair Hair Mask 300 ML,404
+1051,1945,Twicebeaut Cond 400ml Bot Repair,0.6709440418679549,Twicebeaut Coconut Oil & Ylang Ylang Hope And Repair Hair mask 300 ML,987
+1052,1949,Sinoyez Wax Jar 75ml,0.942,Sinoyez Wax Hair Wax 75ml,120
+1053,1949,Sinoyez Wax Jar 75ml,0.6994252873563219,Sinoyez Wax MALE GROOMING 20g,393
+1054,1949,Sinoyez Wax Jar 75ml,0.669047619047619,Parrot Definition Wax Hair Wax 75ml,126
+1055,1949,Sinoyez Wax Jar 75ml,0.6259259259259259,Fiur Texturising Fibre 75ml,341
+1056,1950,Fiur Co Fine Hair 250ml,0.8562190890972171,Fiur Leave In Conditioner 100ml,50
+1057,1950,Fiur Co Fine Hair 250ml,0.8464771460423635,Fiur Intense Softness Conditioner 250ml,72
+1058,1950,Fiur Co Fine Hair 250ml,0.8418621281464531,Fiur Finishing Shine Spray 150ml,54
+1059,1950,Fiur Co Fine Hair 250ml,0.8326086956521739,Fiur Damage Repair Conditioner 250ml,46
+1060,1952,Cbv Shampoo Botanique Nourish 700ml,0.686981486981487,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+1061,1952,Cbv Shampoo Botanique Nourish 700ml,0.686981486981487,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+1062,1952,Cbv Shampoo Botanique Nourish 700ml,0.6837507513524343,6Good Gentle Care Shampoo 400ml,355
+1063,1952,Cbv Shampoo Botanique Nourish 700ml,0.683254909341866,Cbvery Silky Smooth Shampoo 500ml,74
+1064,1959,Oddaced Shampoo Std Colour 400ml,0.8666666666666666,Oddaced Shine & Hold Hairspray 400ml,130
+1065,1959,Oddaced Shampoo Std Colour 400ml,0.8662296037296038,Oddaced Smooth Hair Shampoo 250ml,187
+1066,1959,Oddaced Shampoo Std Colour 400ml,0.8538095238095238,Oddaced High Volume Hairspray 400ml,195
+1067,1959,Oddaced Shampoo Std Colour 400ml,0.8537878787878789,Oddaced Tousled Style Spray 150ml,219
+1068,1964,Cbv Co Keratin Bot 100ml,0.7903455284552846,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1069,1964,Cbv Co Keratin Bot 100ml,0.7138039992454254,Fiur Leave In Conditioner 100ml,50
+1070,1964,Cbv Co Keratin Bot 100ml,0.6912912912912912,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+1071,1964,Cbv Co Keratin Bot 100ml,0.6912912912912912,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+1072,1965,Cbv Co Keratin Bot 100ml,0.7903455284552846,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1073,1965,Cbv Co Keratin Bot 100ml,0.7138039992454254,Fiur Leave In Conditioner 100ml,50
+1074,1965,Cbv Co Keratin Bot 100ml,0.6912912912912912,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+1075,1965,Cbv Co Keratin Bot 100ml,0.6912912912912912,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+1076,1966,Cbv Inco Leave on Collag Fullness 125ml,0.622008547008547,Cbvery Cleanse & Replenish Shampoo 500ml,100
+1077,1966,Cbv Inco Leave on Collag Fullness 125ml,0.619010619010619,Fiur Illuminate Blonde Shampoo 250ml,47
+1078,1966,Cbv Inco Leave on Collag Fullness 125ml,0.6177129384025936,Cbvery Pro Collection Beauty-Full Volume Conditioner 290ml,891
+1079,1966,Cbv Inco Leave on Collag Fullness 125ml,0.6177129384025936,Cbvery Pro Collection Beauty-Full Volume Conditioner 500ml,878
+1080,1969,Oddaced Gel Firm Hold Tube 200ml,0.9018398268398268,Oddaced Firm Hold Gel Spray 200ml,110
+1081,1969,Oddaced Gel Firm Hold Tube 200ml,0.8816142191142191,Oddaced Mega Hold Gel Spray 200ml,121
+1082,1969,Oddaced Gel Firm Hold Tube 200ml,0.8637764550264551,Oddaced Firm Hold Styling Gel 200ml,196
+1083,1969,Oddaced Gel Firm Hold Tube 200ml,0.8480292792792793,Oddaced Freeze Hold Styling Gel 200ml,122
+1084,1972,Cbv Co Blonde Bot 250ml,0.7923580101840972,Cbvery Silky Smooth Conditioner 500ml,169
+1085,1972,Cbv Co Blonde Bot 250ml,0.6915573959052219,Mexifiz Intensive Body Lotion 250ml,1202
+1086,1972,Cbv Co Blonde Bot 250ml,0.6822909866388128,Mexifiz Colour Care Conditioner 200ml,221
+1087,1972,Cbv Co Blonde Bot 250ml,0.6804134697357204,Cbvery Freeze Hold Hairspray 250ml,136
+1088,1973,Cbv Co Blonde Bot 250ml,0.7923580101840972,Cbvery Silky Smooth Conditioner 500ml,169
+1089,1973,Cbv Co Blonde Bot 250ml,0.6915573959052219,Mexifiz Intensive Body Lotion 250ml,1202
+1090,1973,Cbv Co Blonde Bot 250ml,0.6822909866388128,Mexifiz Colour Care Conditioner 200ml,221
+1091,1973,Cbv Co Blonde Bot 250ml,0.6804134697357204,Cbvery Freeze Hold Hairspray 250ml,136
+1092,1979,Mexifiz Shamp Nourish Secret Damaged 250ml,0.8407740436851374,Mexifiz Supreme Fine Silk Bath Soak 500ml,79
+1093,1979,Mexifiz Shamp Nourish Secret Damaged 250ml,0.8407518796992481,Mexifiz Intensive Repair Shampoo 250ml,599
+1094,1979,Mexifiz Shamp Nourish Secret Damaged 250ml,0.836915235302332,Mexifiz Men+Care Anti Dandruff Shampoo 400ml,722
+1095,1979,Mexifiz Shamp Nourish Secret Damaged 250ml,0.836915235302332,Mexifiz DermaSpa Goodness 3 Body Cream 300ml,254
+1096,1980,Mexifiz Shamp Nourish Secret Damaged 250ml,0.8407740436851374,Mexifiz Supreme Fine Silk Bath Soak 500ml,79
+1097,1980,Mexifiz Shamp Nourish Secret Damaged 250ml,0.8407518796992481,Mexifiz Intensive Repair Shampoo 250ml,599
+1098,1980,Mexifiz Shamp Nourish Secret Damaged 250ml,0.836915235302332,Mexifiz Men+Care Anti Dandruff Shampoo 400ml,722
+1099,1980,Mexifiz Shamp Nourish Secret Damaged 250ml,0.836915235302332,Mexifiz DermaSpa Goodness 3 Body Cream 300ml,254
+1100,1982,Mexifiz Shampoo Pro Age 250ml,0.9517241379310345,Mexifiz Pro Age Shampoo 250ml,95
+1101,1982,Mexifiz Shampoo Pro Age 250ml,0.9205619412515964,Mexifiz Pro Age Shampoo 400ml,351
+1102,1982,Mexifiz Shampoo Pro Age 250ml,0.8639927404718694,Mexifiz Intensive Repair Shampoo 250ml,599
+1103,1982,Mexifiz Shampoo Pro Age 250ml,0.8545363681795467,Mexifiz Pro Age Conditioner 350ml,350
+1104,1983,Oddaced Co Nourish Me Truly Bot 250ml,0.8542159219110217,Oddaced Nourish My Shine Shampoo 250ml,220
+1105,1983,Oddaced Co Nourish Me Truly Bot 250ml,0.8487197724039829,Oddaced Give Me Moisture Shampoo 250ml,188
+1106,1983,Oddaced Co Nourish Me Truly Bot 250ml,0.8421939586645469,Oddaced Curl Defining Mousse 200ml,688
+1107,1983,Oddaced Co Nourish Me Truly Bot 250ml,0.8262351060738158,Oddaced Extra Body Mousse 200ml,137
+1108,1984,Cbv Co Botanique Nourish Bot 700ml,0.821882516000163,Cbvery Botanique Nourish Hair Shampoo,1494
+1109,1984,Cbv Co Botanique Nourish Bot 700ml,0.6969899311075781,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+1110,1984,Cbv Co Botanique Nourish Bot 700ml,0.6969899311075781,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+1111,1984,Cbv Co Botanique Nourish Bot 700ml,0.6950729009552538,Cbvery Colour Revitalise Shampoo 900 ml,84
+1112,2003,Cbv Shampoo Botanique Damage 400ml,0.6954842543077837,Cbvery Silky Smooth Shampoo 500ml,74
+1113,2003,Cbv Shampoo Botanique Damage 400ml,0.6876214449743863,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+1114,2003,Cbv Shampoo Botanique Damage 400ml,0.6664564461262087,Parrot You Shower Gel 400ml,262
+1115,2003,Cbv Shampoo Botanique Damage 400ml,0.6645814612566531,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+1116,2015,Mexifiz Co Nourish Secret Damaged Bot 200ml,0.8530244453696544,Mexifiz Men+Care Clean Comfort Body wash 400ml,86
+1117,2015,Mexifiz Co Nourish Secret Damaged Bot 200ml,0.8499295278365046,Mexifiz Pro Age Conditioner 200ml,85
+1118,2015,Mexifiz Co Nourish Secret Damaged Bot 200ml,0.8489429175475687,Mexifiz DermaSpa Uplifted+ Body Lotion 200ml,225
+1119,2015,Mexifiz Co Nourish Secret Damaged Bot 200ml,0.8486928628708901,Mexifiz Pro Age Shampoo 400ml,351
+1120,2016,Mexifiz Co Nourish Secret Damaged Bot 200ml,0.8530244453696544,Mexifiz Men+Care Clean Comfort Body wash 400ml,86
+1121,2016,Mexifiz Co Nourish Secret Damaged Bot 200ml,0.8499295278365046,Mexifiz Pro Age Conditioner 200ml,85
+1122,2016,Mexifiz Co Nourish Secret Damaged Bot 200ml,0.8489429175475687,Mexifiz DermaSpa Uplifted+ Body Lotion 200ml,225
+1123,2016,Mexifiz Co Nourish Secret Damaged Bot 200ml,0.8486928628708901,Mexifiz Pro Age Shampoo 400ml,351
+1124,2022,Cbv Inco Leave on Botanique Nour 200ml,0.6769241652518393,Fiur Leave In Conditioner 100ml,50
+1125,2022,Cbv Inco Leave on Botanique Nour 200ml,0.6708256655625077,Cbvery Pro Collection Botanique Nourish & Replenish Shampoo 700ml,332
+1126,2022,Cbv Inco Leave on Botanique Nour 200ml,0.6708256655625077,Cbvery Pro Collection Botanique Nourish & Replenish Shampoo 400ml,335
+1127,2022,Cbv Inco Leave on Botanique Nour 200ml,0.6702215200289654,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1128,2030,Oddaced Paste Jar Lifting Clay 75ml,0.8481987577639751,Oddaced Matt Fibre 75ml,199
+1129,2030,Oddaced Paste Jar Lifting Clay 75ml,0.8378753480402656,Oddaced SurfStyle Paste 150ml,162
+1130,2030,Oddaced Paste Jar Lifting Clay 75ml,0.8371428571428572,Oddaced Shine & Hold Hairspray 400ml,130
+1131,2030,Oddaced Paste Jar Lifting Clay 75ml,0.8219922779922779,Oddaced Ultimate Hold Hairspray 400ml,203
+1132,2033,Cbv Co Hydrating Bot 400ml,0.8097683334692879,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1133,2033,Cbv Co Hydrating Bot 400ml,0.6858974358974358,Cbvery Ultimate Hold Hairspray 400ml,325
+1134,2033,Cbv Co Hydrating Bot 400ml,0.6806421806421806,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+1135,2033,Cbv Co Hydrating Bot 400ml,0.6750971250971252,Cbvery Extra Hold Hairspray 400ml,324
+1136,2038,Mexifiz Co Silver Bot 200ml,0.8836773532425706,Mexifiz Pro Age Conditioner 200ml,85
+1137,2038,Mexifiz Co Silver Bot 200ml,0.8825075075075075,Mexifiz Colour Care Conditioner 200ml,221
+1138,2038,Mexifiz Co Silver Bot 200ml,0.8614045214045215,Mexifiz Intensive Body Lotion 250ml,1202
+1139,2038,Mexifiz Co Silver Bot 200ml,0.8614045214045215,Mexifiz Intensive Body Lotion 400ml,1379
+1140,2039,Mexifiz Co Silver Bot 200ml,0.8836773532425706,Mexifiz Pro Age Conditioner 200ml,85
+1141,2039,Mexifiz Co Silver Bot 200ml,0.8825075075075075,Mexifiz Colour Care Conditioner 200ml,221
+1142,2039,Mexifiz Co Silver Bot 200ml,0.8614045214045215,Mexifiz Intensive Body Lotion 250ml,1202
+1143,2039,Mexifiz Co Silver Bot 200ml,0.8614045214045215,Mexifiz Intensive Body Lotion 400ml,1379
+1144,2045,Oddaced Co Colour Bot 400ml,0.8624679979518689,Oddaced Extra Body Mousse 200ml,137
+1145,2045,Oddaced Co Colour Bot 400ml,0.8457952069716775,Oddaced Curl Defining Mousse 200ml,688
+1146,2045,Oddaced Co Colour Bot 400ml,0.8324338624338624,Oddaced High Volume Hairspray 400ml,195
+1147,2045,Oddaced Co Colour Bot 400ml,0.8293602693602694,Oddaced Smooth Hair Shampoo 250ml,187
+1148,2047,Fiur Inco Shine Bot 30ml,0.8392307692307692,Fiur Intense Softness Conditioner 250ml,72
+1149,2047,Fiur Inco Shine Bot 30ml,0.8328282828282828,Fiur Illuminate Blonde Shampoo 250ml,47
+1150,2047,Fiur Inco Shine Bot 30ml,0.830952380952381,Fiur Radiant Brunette Shampoo 250ml,292
+1151,2047,Fiur Inco Shine Bot 30ml,0.830952380952381,Fiur Intense Softness Shampoo 250ml,71
+1152,2049,Parrot Wax Casual Clay Jar 75ml,0.867092047737209,Parrot Natural Casual Styling Clay 75ml,1219
+1153,2049,Parrot Wax Casual Clay Jar 75ml,0.8492165898617511,Parrot  Natural Casual Styling Clay 75ml,145
+1154,2049,Parrot Wax Casual Clay Jar 75ml,0.6639016897081413,Parrot Definition Wax Hair Wax 75ml,126
+1155,2049,Parrot Wax Casual Clay Jar 75ml,0.6538264602780732,Parrot Men  Manwasher,569
+1156,2051,Cbv Mousse Perfectly Undone 150ml,0.7982764486975014,Cbvery Moisture Rich Conditioner 1.3ml,295
+1157,2051,Cbv Mousse Perfectly Undone 150ml,0.6836635586635587,Cbvery Remoisturising Conditioner 500ml,134
+1158,2051,Cbv Mousse Perfectly Undone 150ml,0.6652385928247997,Oddaced SurfStyle Paste 150ml,162
+1159,2051,Cbv Mousse Perfectly Undone 150ml,0.6607884868754433,Cbvery Remoisturising Conditioner 900ml,94
+1160,2066,Cbv Hs Finishing Spr Botaniq Nour 200ml,0.6851566951566953,Cbvery Volumising Dry Shampoo 250 ml,700
+1161,2066,Cbv Hs Finishing Spr Botaniq Nour 200ml,0.6744051744051744,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+1162,2066,Cbv Hs Finishing Spr Botaniq Nour 200ml,0.6744051744051744,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+1163,2066,Cbv Hs Finishing Spr Botaniq Nour 200ml,0.6725036481134041,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1164,2069,Oddaced Wax Rework Putty Jar 30ml,0.8800699300699301,Oddaced Rework Putty 150ml,9
+1165,2069,Oddaced Wax Rework Putty Jar 30ml,0.8340050753843857,Oddaced SurfStyle Paste 150ml,162
+1166,2069,Oddaced Wax Rework Putty Jar 30ml,0.831969696969697,Oddaced Gel Wax 75ml,202
+1167,2069,Oddaced Wax Rework Putty Jar 30ml,0.8298142717497556,Oddaced Extra Body Mousse 200ml,137
+1168,2072,Cbv Shampoo Healthy Volume 235ml,0.6680485878855444,Cbvery Colour Revitalise Shampoo 900 ml,84
+1169,2072,Cbv Shampoo Healthy Volume 235ml,0.660312362758015,Cbvery Silky Smooth Shampoo 500ml,74
+1170,2072,Cbv Shampoo Healthy Volume 235ml,0.6569741532976826,Cbvery Moisture Rich Shampoo 1.3ml,252
+1171,2072,Cbv Shampoo Healthy Volume 235ml,0.6495726495726496,Cbvery Beauty-Full Volume Shampoo 400ml,895
+1172,2073,Cbv Shampoo Healthy Volume 235ml,0.6680485878855444,Cbvery Colour Revitalise Shampoo 900 ml,84
+1173,2073,Cbv Shampoo Healthy Volume 235ml,0.660312362758015,Cbvery Silky Smooth Shampoo 500ml,74
+1174,2073,Cbv Shampoo Healthy Volume 235ml,0.6569741532976826,Cbvery Moisture Rich Shampoo 1.3ml,252
+1175,2073,Cbv Shampoo Healthy Volume 235ml,0.6495726495726496,Cbvery Beauty-Full Volume Shampoo 400ml,895
+1176,2077,Fiur Serum Oil Bot 50ml,0.8818440779610195,Fiur 3D Volumiser Spray 150ml,97
+1177,2077,Fiur Serum Oil Bot 50ml,0.8638528688871938,Fiur Shine Gloss Serum 30ml,39
+1178,2077,Fiur Serum Oil Bot 50ml,0.8415380545021607,Fiur Deep Clean Shampoo 250ml,49
+1179,2077,Fiur Serum Oil Bot 50ml,0.8398550724637681,Fiur Curl Lock Oil 150ml,293
+1180,2089,Mexifiz Co Strengthening Bot 200ml,0.8854228560110913,Mexifiz Pro Age Conditioner 200ml,85
+1181,2089,Mexifiz Co Strengthening Bot 200ml,0.8666163901458019,Mexifiz  Intensive Body Lotion 400ml,780
+1182,2089,Mexifiz Co Strengthening Bot 200ml,0.8666163901458019,Mexifiz  Intensive Body Lotion 250ml,607
+1183,2089,Mexifiz Co Strengthening Bot 200ml,0.862712486241898,Mexifiz Colour Care Conditioner 200ml,221
+1184,2095,Twicebeaut Shampoo Bar 90g Volume Boost,0.6827082536037761,Twicebeaut Muru Muru Butter & Rose Blooming Colour Hair mask 300 ML,991
+1185,2095,Twicebeaut Shampoo Bar 90g Volume Boost,0.6800396616321273,Twicebeaut Coconut Water & Mimosa Flower Volume And Bounty Shampoo 400 ML,410
+1186,2095,Twicebeaut Shampoo Bar 90g Volume Boost,0.6724490786990787,Twicebeaut Coconut Water & Mimosa Flower Volume And Bounty Conditioner 400 ML,411
+1187,2095,Twicebeaut Shampoo Bar 90g Volume Boost,0.6712891028680502,Twicebeaut Muru Muru Butter & Rose Blooming Colour Vegan Shampoo for colour treated hair 400 ml,398
+1188,2097,Fiur Styling Aqspray Sea Salt 75ml,0.836349146110057,Fiur Messy Sea Salt Spray 200ml,148
+1189,2097,Fiur Styling Aqspray Sea Salt 75ml,0.6929920116194626,Fiur Men Moulding Clay 75ml,342
+1190,2097,Fiur Styling Aqspray Sea Salt 75ml,0.6872771836007129,Fiur Radiating Tropical Oil 50ml,96
+1191,2097,Fiur Styling Aqspray Sea Salt 75ml,0.6854399195575667,Oddaced Freeze Hold Styling Spray 150ml,198
+1192,2098,Fiur Styling Aqspray Sea Salt 75ml,0.836349146110057,Fiur Messy Sea Salt Spray 200ml,148
+1193,2098,Fiur Styling Aqspray Sea Salt 75ml,0.6929920116194626,Fiur Men Moulding Clay 75ml,342
+1194,2098,Fiur Styling Aqspray Sea Salt 75ml,0.6872771836007129,Fiur Radiating Tropical Oil 50ml,96
+1195,2098,Fiur Styling Aqspray Sea Salt 75ml,0.6854399195575667,Oddaced Freeze Hold Styling Spray 150ml,198
+1196,2100,Cbvery Dry Shampoo 250ml Brunette,0.8751515151515152,Cbvery Translucent Dry Shampoo 250ml,211
+1197,2100,Cbvery Dry Shampoo 250ml Brunette,0.8584848484848485,Cbvery Instant Refresh Dry Shampoo 250ml,650
+1198,2100,Cbvery Dry Shampoo 250ml Brunette,0.8395622895622896,Cbvery Volumising Dry Shampoo 250 ml,700
+1199,2100,Cbvery Dry Shampoo 250ml Brunette,0.8369164169164169,Cbvery Volumising Dry Shampoo 250ml,210
+1200,2104,Cbv Shampoo Volumising 400ml,0.6928811928811928,Cbvery Volumising Dry Shampoo 250 ml,700
+1201,2104,Cbv Shampoo Volumising 400ml,0.6880952380952382,Cbvery Volumising Dry Shampoo 250ml,210
+1202,2104,Cbv Shampoo Volumising 400ml,0.6872650375939849,Cbvery Firm Hold Hairspray 400ml,328
+1203,2104,Cbv Shampoo Volumising 400ml,0.6849420849420849,Cbvery Silky Smooth Conditioner 900ml,106
+1204,2105,Fiur Hairspray Aero Firm 100ml,0.8529362591431557,Fiur 3D Volumiser Spray 150ml,97
+1205,2105,Fiur Hairspray Aero Firm 100ml,0.7111111111111111,Cbvery Firm Hold Hairspray 400ml,328
+1206,2105,Fiur Hairspray Aero Firm 100ml,0.6976190476190475,Fiur Damage Repair Conditioner 250ml,46
+1207,2105,Fiur Hairspray Aero Firm 100ml,0.6972222222222223,Fiur High Shine Serum Drops 30ml,69
+1208,2110,Fiur Heat Protection Spray Defence 75ml,0.838025808614044,Fiur Heaven Scent 2 Piece Gift Set,958
+1209,2110,Fiur Heat Protection Spray Defence 75ml,0.8334879934879935,Fiur Matt Texture Dry Shampoo 250ml,147
+1210,2110,Fiur Heat Protection Spray Defence 75ml,0.8270940170940172,Fiur Workable Matte Matte Paste 75ml,291
+1211,2110,Fiur Heat Protection Spray Defence 75ml,0.6985135637309551,Fiur Men Mattifying Putty 75ml,347
+1212,2117,Fiur Co Smoothing 250ml,0.8467588932806325,Fiur Smooth Definition Conditioner 250ml,52
+1213,2117,Fiur Co Smoothing 250ml,0.8464771460423635,Fiur Intense Softness Conditioner 250ml,72
+1214,2117,Fiur Co Smoothing 250ml,0.845024154589372,Fiur Damage Repair Conditioner 250ml,46
+1215,2117,Fiur Co Smoothing 250ml,0.8422098725073554,Fiur Intense Softness Shampoo 250ml,71
+1216,2118,Fiur Shampoo Smoothing 250ml,0.8694603174603176,Fiur Smooth Definition Shampoo 250ml,44
+1217,2118,Fiur Shampoo Smoothing 250ml,0.8491883116883117,Fiur Damage Repair Shampoo 250ml,45
+1218,2118,Fiur Shampoo Smoothing 250ml,0.8435403726708074,Fiur Volume Addiction Shampoo 250ml,43
+1219,2118,Fiur Shampoo Smoothing 250ml,0.8319047619047619,Fiur Radiant Brunette Shampoo 250ml,292
+1220,2128,Cbv Inco Rinse Off D.Conditioning 500ml,0.7933760683760684,Cbvery Remoisturising Conditioner 500ml,134
+1221,2128,Cbv Inco Rinse Off D.Conditioning 500ml,0.6971950061380955,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1222,2128,Cbv Inco Rinse Off D.Conditioning 500ml,0.6837606837606837,Cbvery Remoisturising Conditioner 900ml,94
+1223,2128,Cbv Inco Rinse Off D.Conditioning 500ml,0.6713444213444214,Cbvery Silky Smooth Conditioner 500ml,169
+1224,2129,Cbv Inco Rinse Off D.Conditioning 500ml,0.7933760683760684,Cbvery Remoisturising Conditioner 500ml,134
+1225,2129,Cbv Inco Rinse Off D.Conditioning 500ml,0.6971950061380955,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1226,2129,Cbv Inco Rinse Off D.Conditioning 500ml,0.6837606837606837,Cbvery Remoisturising Conditioner 900ml,94
+1227,2129,Cbv Inco Rinse Off D.Conditioning 500ml,0.6713444213444214,Cbvery Silky Smooth Conditioner 500ml,169
+1228,2134,Fiur Shampoo Blond 250ml,0.872208538587849,Fiur Deep Clean Shampoo 250ml,49
+1229,2134,Fiur Shampoo Blond 250ml,0.8428362573099415,Fiur Damage Repair Conditioner 250ml,46
+1230,2134,Fiur Shampoo Blond 250ml,0.8366666666666667,Fiur Smooth Definition Conditioner 250ml,52
+1231,2134,Fiur Shampoo Blond 250ml,0.8273809523809524,Fiur Body Amplify Creation Hairspray 250ml,36
+1232,2136,Fiur Shampoo Anti Dandruff 250ml,0.8530982905982907,Fiur Damage Repair Conditioner 250ml,46
+1233,2136,Fiur Shampoo Anti Dandruff 250ml,0.8501967766116941,Fiur Deep Clean Shampoo 250ml,49
+1234,2136,Fiur Shampoo Anti Dandruff 250ml,0.8463461538461539,Fiur Smooth Definition Conditioner 250ml,52
+1235,2136,Fiur Shampoo Anti Dandruff 250ml,0.8314102564102565,Fiur Volume Addiction Conditioner 250ml,53
+1236,2140,Oddaced Leave in Spray Express Primer 200ml,0.8286452565522334,Oddaced Shine & Hold Hairspray 400ml,130
+1237,2140,Oddaced Leave in Spray Express Primer 200ml,0.8277942212825934,Oddaced Mega Hold Gel Spray 200ml,121
+1238,2140,Oddaced Leave in Spray Express Primer 200ml,0.8277942212825934,Oddaced Refresh Dry Shampoo 250ml,611
+1239,2140,Oddaced Leave in Spray Express Primer 200ml,0.8276009791921665,Oddaced Give Me Moisture Shampoo 250ml,188
+1240,2159,Cbv Soft Styl Aqspry Blow Dry 125ml,0.6627854415088458,Parrot Black Body Spray Deodorant Aerosol 150ml,143
+1241,2159,Cbv Soft Styl Aqspry Blow Dry 125ml,0.6556517556517557,Cbvery Ultimate Hold Hairspray 250ml,103
+1242,2159,Cbv Soft Styl Aqspry Blow Dry 125ml,0.6507936507936507,Cbvery Instant Refresh Dry Shampoo 250ml,650
+1243,2159,Cbv Soft Styl Aqspry Blow Dry 125ml,0.6463203463203463,Cbvery Volumising Dry Shampoo 250ml,210
+1244,2161,Cbv Hs Finishing Spr Sea Salt 200ml,0.708858166922683,Fiur Messy Sea Salt Spray 200ml,148
+1245,2161,Cbv Hs Finishing Spr Sea Salt 200ml,0.6659632034632034,Fiur Finishing Shine Spray 150ml,54
+1246,2161,Cbv Hs Finishing Spr Sea Salt 200ml,0.6646825396825397,Cbvery Instant Refresh Dry Shampoo 250ml,650
+1247,2161,Cbv Hs Finishing Spr Sea Salt 200ml,0.664129366568391,Mexifiz Supreme Fine Silk Bath Soak 500ml,79
+1248,2164,Twicebeaut Shampoo Bar 90g Colour,0.8257269046742731,Twicebeaut Coconut Water & Mimosa Flower Hydro Gel 250 ML,1592
+1249,2164,Twicebeaut Shampoo Bar 90g Colour,0.6866189366189367,Twicebeaut Sugar & Rose Peace And Glow Body Scrub 250 ML,418
+1250,2164,Twicebeaut Shampoo Bar 90g Colour,0.6812823192133536,Twicebeaut  Coconut Water & Mimosa Flower Hydro Gel 250 ML,417
+1251,2164,Twicebeaut Shampoo Bar 90g Colour,0.6800621154069431,Twicebeaut Shea Butter & Sandalwood Happy And Hydrate Conditioner 400 ML,401
+1252,2165,Fiur Shampoo Deep Clean 250ml,0.9379310344827586,Fiur Deep Clean Shampoo 250ml,49
+1253,2165,Fiur Shampoo Deep Clean 250ml,0.8646637931034482,Fiur Damage Repair Shampoo 250ml,45
+1254,2165,Fiur Shampoo Deep Clean 250ml,0.8562293853073463,Fiur Smooth Definition Conditioner 250ml,52
+1255,2165,Fiur Shampoo Deep Clean 250ml,0.8516158587372981,Fiur Smooth Definition Shampoo 250ml,44
+1256,2166,Fiur Co Normal 250ml,0.851947261663286,Fiur Deep Clean Shampoo 250ml,49
+1257,2166,Fiur Co Normal 250ml,0.8466666666666667,Fiur Damage Repair Conditioner 250ml,46
+1258,2166,Fiur Co Normal 250ml,0.835,Fiur Curl Lock Oil 150ml,293
+1259,2166,Fiur Co Normal 250ml,0.8328448275862069,Fiur 3D Volumiser Spray 150ml,97
+1260,2167,Mexifiz Shampoo Strengthening 250ml,0.8700700025926886,Mexifiz Intensive Repair Shampoo 250ml,599
+1261,2167,Mexifiz Shampoo Strengthening 250ml,0.867270935960591,Mexifiz Pro Age Shampoo 250ml,95
+1262,2167,Mexifiz Shampoo Strengthening 250ml,0.8468620268620269,Mexifiz Daily Moisture Shampoo 250ml,223
+1263,2167,Mexifiz Shampoo Strengthening 250ml,0.8409307359307359,Mexifiz Pro Age Conditioner 350ml,350
+1264,2169,Mexifiz Co Pro Age Bot 200ml,0.8971361971361972,Mexifiz Pro Age Conditioner 200ml,85
+1265,2169,Mexifiz Co Pro Age Bot 200ml,0.8707324908974085,Mexifiz Pro Age Shampoo 400ml,351
+1266,2169,Mexifiz Co Pro Age Bot 200ml,0.8707324908974085,Mexifiz Pro Age Shampoo 250ml,95
+1267,2169,Mexifiz Co Pro Age Bot 200ml,0.8668831168831169,Mexifiz Pro Age Conditioner 350ml,350
+1268,2171,Cbvery Shampoo Foam 200ml Instant,0.8327894327894327,Cbvery Translucent Dry Shampoo 250ml,211
+1269,2171,Cbvery Shampoo Foam 200ml Instant,0.8325757575757576,Cbvery Silky Smooth Shampoo 500ml,74
+1270,2171,Cbvery Shampoo Foam 200ml Instant,0.8223722943722944,Cbvery Volumising Dry Shampoo 250ml,210
+1271,2171,Cbvery Shampoo Foam 200ml Instant,0.6973400673400674,Cbvery Volumising Dry Shampoo 250 ml,700
+1272,2179,Fiur Styling Aqspray Spritz 150ml,0.8454545454545456,Fiur Finishing Shine Spray 150ml,54
+1273,2179,Fiur Styling Aqspray Spritz 150ml,0.8396029258098224,Fiur 3D Volumiser Spray 150ml,97
+1274,2179,Fiur Styling Aqspray Spritz 150ml,0.686924186924187,Fiur Body Amplify Creation Hairspray 250ml,36
+1275,2179,Fiur Styling Aqspray Spritz 150ml,0.6818181818181818,Fiur Texturising Fibre 75ml,341
+1276,2180,Fiur Styling Aqspray Spritz 150ml,0.8454545454545456,Fiur Finishing Shine Spray 150ml,54
+1277,2180,Fiur Styling Aqspray Spritz 150ml,0.8396029258098224,Fiur 3D Volumiser Spray 150ml,97
+1278,2180,Fiur Styling Aqspray Spritz 150ml,0.686924186924187,Fiur Body Amplify Creation Hairspray 250ml,36
+1279,2180,Fiur Styling Aqspray Spritz 150ml,0.6818181818181818,Fiur Texturising Fibre 75ml,341
+1280,2183,Baby Mexifiz Shampoo Bot Sens Moistur 200ml,0.8324031007751939,Baby Mexifiz Sensitive Moisture Wipes 50pcs,768
+1281,2183,Baby Mexifiz Shampoo Bot Sens Moistur 200ml,0.8315839094908862,Baby Mexifiz Rich Moisture Wipes 50pc,747
+1282,2183,Baby Mexifiz Shampoo Bot Sens Moistur 200ml,0.7422749784668389,Mexifiz Daily Moisture Shampoo 250ml,223
+1283,2183,Baby Mexifiz Shampoo Bot Sens Moistur 200ml,0.6871134700592064,Cbvery Silky Smooth Conditioner 500ml,169
+1284,2187,Cbv Co Volume Bot 235ml,0.6979018660604338,Cbvery Translucent Dry Shampoo 250ml,211
+1285,2187,Cbv Co Volume Bot 235ml,0.6822909866388128,Cbvery Silky Smooth Conditioner 500ml,169
+1286,2187,Cbv Co Volume Bot 235ml,0.6730388773867034,Cbvery Volumising Dry Shampoo 250ml,210
+1287,2187,Cbv Co Volume Bot 235ml,0.6682769726247987,Cbvery Volumising Dry Shampoo 250 ml,700
+1288,2188,Cbv Co Volume Bot 235ml,0.6979018660604338,Cbvery Translucent Dry Shampoo 250ml,211
+1289,2188,Cbv Co Volume Bot 235ml,0.6822909866388128,Cbvery Silky Smooth Conditioner 500ml,169
+1290,2188,Cbv Co Volume Bot 235ml,0.6730388773867034,Cbvery Volumising Dry Shampoo 250ml,210
+1291,2188,Cbv Co Volume Bot 235ml,0.6682769726247987,Cbvery Volumising Dry Shampoo 250 ml,700
+1292,2191,Fiur Gum Styling Jar 75ml,0.840929219600726,Fiur 3D Volumiser Spray 150ml,97
+1293,2191,Fiur Gum Styling Jar 75ml,0.8401091617933724,Fiur Men Moulding Clay 75ml,342
+1294,2191,Fiur Gum Styling Jar 75ml,0.8383965141612202,Fiur Texturising Fibre 75ml,341
+1295,2191,Fiur Gum Styling Jar 75ml,0.6992592592592591,Fiur Men Mattifying Putty 75ml,347
+1296,2195,Oddaced Gel Spray Natural 150ml,0.8868561545980901,Oddaced Tousled Style Spray 150ml,219
+1297,2195,Oddaced Gel Spray Natural 150ml,0.8679127134724858,Oddaced Gel Wax 75ml,202
+1298,2195,Oddaced Gel Spray Natural 150ml,0.8626137303556659,Oddaced Freeze Hold Styling Spray 150ml,198
+1299,2195,Oddaced Gel Spray Natural 150ml,0.8586265884652982,Oddaced Firm Hold Gel Spray 200ml,110
+1300,2197,Oddaced Dry Shampoo Refresh Me Quick 250ml,0.9025974025974026,Oddaced Refresh Dry Shampoo 250ml,611
+1301,2197,Oddaced Dry Shampoo Refresh Me Quick 250ml,0.8708020050125314,Oddaced Give Me Moisture Shampoo 250ml,188
+1302,2197,Oddaced Dry Shampoo Refresh Me Quick 250ml,0.8591640391300833,Oddaced Nourish My Shine Shampoo 250ml,220
+1303,2197,Oddaced Dry Shampoo Refresh Me Quick 250ml,0.8305627705627705,Oddaced Firm Hold Gel Spray 200ml,110
+1304,2199,Cbv Co Volumising Bot 400ml,0.8020504187170853,Cbvery Remoisturising Conditioner 900ml,94
+1305,2199,Cbv Co Volumising Bot 400ml,0.8020504187170853,Cbvery Remoisturising Conditioner 500ml,134
+1306,2199,Cbv Co Volumising Bot 400ml,0.7916916916916917,Cbvery Silky Smooth Conditioner 900ml,106
+1307,2199,Cbv Co Volumising Bot 400ml,0.7916916916916917,Cbvery Silky Smooth Conditioner 500ml,169
+1308,2201,Cbv Soft Styl Aqspry Botan Nouris 125ml,0.7945868945868946,Cbvery Volumising Dry Shampoo 250 ml,700
+1309,2201,Cbv Soft Styl Aqspry Botan Nouris 125ml,0.6784371184371185,Cbvery Volumising Dry Shampoo 250ml,210
+1310,2201,Cbv Soft Styl Aqspry Botan Nouris 125ml,0.6656457739791074,Cbvery Instant Refresh Dry Shampoo 250ml,650
+1311,2201,Cbv Soft Styl Aqspry Botan Nouris 125ml,0.6491020716372828,Cbvery Expert Selection Botanique Nourish & Replenish Conditioner 500ml,217
+1312,2208,Cbv Shampoo Flawless Curls 900ml,0.6680485878855444,Cbvery Colour Revitalise Shampoo 900 ml,84
+1313,2208,Cbv Shampoo Flawless Curls 900ml,0.6597222222222222,Cbvery Firm Hold Hairspray 400ml,328
+1314,2208,Cbv Shampoo Flawless Curls 900ml,0.6510132058287796,Cbvery Cleanse & Replenish 2in1 Shampoo and Conditioner 900ml,194
+1315,2208,Cbv Shampoo Flawless Curls 900ml,0.6488095238095238,Cbvery Smooth & Silky Shampoo 900ml,112
+1316,2213,Cbv Hairspray Flexible Hold 100ml,0.8260556958473626,Cbvery Firm Hold Hairspray 400ml,328
+1317,2213,Cbv Hairspray Flexible Hold 100ml,0.8211279461279462,Cbvery Ultimate Hold Hairspray 400ml,325
+1318,2213,Cbv Hairspray Flexible Hold 100ml,0.8144748134944214,Cbvery Freeze Hold Hairspray 400ml,334
+1319,2213,Cbv Hairspray Flexible Hold 100ml,0.8041806958473626,Cbvery Ultimate Hold Hairspray 250ml,103
+1320,2214,Cbv Hairspray Flexible Hold 100ml,0.8260556958473626,Cbvery Firm Hold Hairspray 400ml,328
+1321,2214,Cbv Hairspray Flexible Hold 100ml,0.8211279461279462,Cbvery Ultimate Hold Hairspray 400ml,325
+1322,2214,Cbv Hairspray Flexible Hold 100ml,0.8144748134944214,Cbvery Freeze Hold Hairspray 400ml,334
+1323,2214,Cbv Hairspray Flexible Hold 100ml,0.8041806958473626,Cbvery Ultimate Hold Hairspray 250ml,103
+1324,2216,Cbv Hard Styl Gel Tub 195ml Botan Nour,0.6410818713450293,Cbvery Translucent Dry Shampoo 250ml,211
+1325,2216,Cbv Hard Styl Gel Tub 195ml Botan Nour,0.6239588871167818,Cbvery Volumising Dry Shampoo 250 ml,700
+1326,2216,Cbv Hard Styl Gel Tub 195ml Botan Nour,0.6234408865987814,Cbvery Beauty-Full Volume Shampoo 400ml,895
+1327,2216,Cbv Hard Styl Gel Tub 195ml Botan Nour,0.6184533816112764,Cbvery Silky Smooth Conditioner 500ml,169
+1328,2220,Oddaced Mousse Aero 150ml Rework,0.8438512145748989,Oddaced Rework Putty 150ml,9
+1329,2220,Oddaced Mousse Aero 150ml Rework,0.8266304347826087,Oddaced Matt Fibre 75ml,199
+1330,2220,Oddaced Mousse Aero 150ml Rework,0.8253787878787879,Oddaced Tousled Style Spray 150ml,219
+1331,2220,Oddaced Mousse Aero 150ml Rework,0.8238289473684212,Oddaced Give Me Moisture Shampoo 250ml,188
+1332,2233,Cbv Inco Rinse Off Colour 300ml,0.6612843288860119,Cbvery Colour Revitalise Shampoo 900 ml,84
+1333,2233,Cbv Inco Rinse Off Colour 300ml,0.6583461341525858,Cbvery Volumising Dry Shampoo 250 ml,700
+1334,2233,Cbv Inco Rinse Off Colour 300ml,0.6578451708270748,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1335,2233,Cbv Inco Rinse Off Colour 300ml,0.6530908788973305,Cbvery Silky Smooth Conditioner 500ml,169
+1336,2236,Parrot Wax Definer Jar 75ml,0.8649206349206349,Parrot Definition Wax Hair Wax 75ml,126
+1337,2236,Parrot Wax Definer Jar 75ml,0.6914451706608569,Parrot Signature Deo Pump,1255
+1338,2236,Parrot Wax Definer Jar 75ml,0.6797886459820198,Parrot Black Shower Gel 250ml,141
+1339,2236,Parrot Wax Definer Jar 75ml,0.671837327523602,Sinoyez Wax Hair Wax 75ml,120
+1340,2249,Oddaced Shampoo 2in1 Revive Me Daily 250ml,0.8398092004204059,Oddaced Give Me Moisture Shampoo 250ml,188
+1341,2249,Oddaced Shampoo 2in1 Revive Me Daily 250ml,0.8387445887445887,Oddaced Refresh Dry Shampoo 250ml,611
+1342,2249,Oddaced Shampoo 2in1 Revive Me Daily 250ml,0.834126984126984,Oddaced Shine & Hold Hairspray 400ml,130
+1343,2249,Oddaced Shampoo 2in1 Revive Me Daily 250ml,0.8340852130325814,Oddaced Nourish My Shine Shampoo 250ml,220
+1344,2254,Fiur Cream Waves Tube 100ml,0.8401962761309405,Fiur Damage Repair Mask 200ml,51
+1345,2254,Fiur Cream Waves Tube 100ml,0.832171174106658,Fiur Wave Memorising Balm 100ml,78
+1346,2254,Fiur Cream Waves Tube 100ml,0.83174243853361,Fiur Leave In Conditioner 100ml,50
+1347,2254,Fiur Cream Waves Tube 100ml,0.8241379310344827,Fiur 3D Volumiser Spray 150ml,97
+1348,2257,Oddaced Gel Spray Flexible 150ml,0.8702777777777777,Oddaced Gel Wax 75ml,202
+1349,2257,Oddaced Gel Spray Flexible 150ml,0.8543040293040294,Oddaced Freeze Hold Styling Spray 150ml,198
+1350,2257,Oddaced Gel Spray Flexible 150ml,0.8517651515151515,Oddaced Tousled Style Spray 150ml,219
+1351,2257,Oddaced Gel Spray Flexible 150ml,0.8517651515151515,Oddaced Firm Hold Gel Spray 200ml,110
+1352,2258,Fiur Hairspray Firm Hold 250ml,0.8529362591431557,Fiur 3D Volumiser Spray 150ml,97
+1353,2258,Fiur Hairspray Firm Hold 250ml,0.8493121693121694,Fiur Body Amplify Creation Hairspray 250ml,36
+1354,2258,Fiur Hairspray Firm Hold 250ml,0.8217777777777778,Fiur Tousled Texture Creation Hairspray 250ml,37
+1355,2258,Fiur Hairspray Firm Hold 250ml,0.7381944444444445,Cbvery Firm Hold Hairspray 400ml,328
+1356,2267,Oddaced Hairspray Ultimate Hold 100ml,0.9336336336336337,Oddaced Ultimate Hold Hairspray 400ml,203
+1357,2267,Oddaced Hairspray Ultimate Hold 100ml,0.9167310167310166,Oddaced Mini Ultimate Hold Hairspray 100ml,201
+1358,2267,Oddaced Hairspray Ultimate Hold 100ml,0.8710483210483211,Oddaced Firm Hold Gel Spray 200ml,110
+1359,2267,Oddaced Hairspray Ultimate Hold 100ml,0.866924066924067,Oddaced High Volume Hairspray 400ml,195
+1360,2269,Fiur Hairspray Extreme Hold 250ml,0.8458874458874459,Fiur Body Amplify Creation Hairspray 250ml,36
+1361,2269,Fiur Hairspray Extreme Hold 250ml,0.8458407160056336,Fiur 3D Volumiser Spray 150ml,97
+1362,2269,Fiur Hairspray Extreme Hold 250ml,0.8441414141414142,Fiur Tousled Texture Creation Hairspray 250ml,37
+1363,2269,Fiur Hairspray Extreme Hold 250ml,0.8340050753843857,Fiur Deep Clean Shampoo 250ml,49
+1364,2273,Fiur Hairspray Aero Extreme Hold100ml,0.7343697864531199,Cbvery Firm Hold Hairspray 400ml,328
+1365,2273,Fiur Hairspray Aero Extreme Hold100ml,0.7031197864531199,Cbvery Ultimate Hold Hairspray 400ml,325
+1366,2273,Fiur Hairspray Aero Extreme Hold100ml,0.7011557011557011,Cbvery Extra Hold Hairspray 400ml,324
+1367,2273,Fiur Hairspray Aero Extreme Hold100ml,0.6931343107813696,Cbvery Freeze Hold Hairspray 400ml,334
+1368,2280,Cbv Serum Colour Bot 50ml,0.8243751023751024,Cbvery Silky Smooth Conditioner 500ml,169
+1369,2280,Cbv Serum Colour Bot 50ml,0.8062102102102102,Cbvery Silky Smooth Conditioner 900ml,106
+1370,2280,Cbv Serum Colour Bot 50ml,0.6853535353535354,Cbvery Silky Smooth Shampoo 500ml,74
+1371,2280,Cbv Serum Colour Bot 50ml,0.676970926301555,Fiur Deep Clean Shampoo 250ml,49
+1372,2286,Cbv Co Colour Revitalising Bot 100ml,0.8161589008363201,Cbvery Colour Revitalise Conditioner 1.3ml,294
+1373,2286,Cbv Co Colour Revitalising Bot 100ml,0.8156695156695157,Cbvery Colour Revitalise Shampoo 900 ml,84
+1374,2286,Cbv Co Colour Revitalising Bot 100ml,0.8066094896740058,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+1375,2286,Cbv Co Colour Revitalising Bot 100ml,0.6828920853311097,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1376,2287,Cbv Co Colour Revitalising Bot 100ml,0.8161589008363201,Cbvery Colour Revitalise Conditioner 1.3ml,294
+1377,2287,Cbv Co Colour Revitalising Bot 100ml,0.8156695156695157,Cbvery Colour Revitalise Shampoo 900 ml,84
+1378,2287,Cbv Co Colour Revitalising Bot 100ml,0.8066094896740058,Cbvery Pro Collection Biotin+ Repair 7 Mask 300ml,336
+1379,2287,Cbv Co Colour Revitalising Bot 100ml,0.6828920853311097,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1380,2290,Cbv Shampoo Colour Revitalising 100ml,0.8049135342238791,Cbvery Colour Revitalise Conditioner 1.3ml,294
+1381,2290,Cbv Shampoo Colour Revitalising 100ml,0.8012147425940529,Cbvery Colour Revitalise Shampoo 900 ml,84
+1382,2290,Cbv Shampoo Colour Revitalising 100ml,0.7960960960960961,Cbvery Silky Smooth Conditioner 500ml,169
+1383,2290,Cbv Shampoo Colour Revitalising 100ml,0.7960960960960961,Cbvery Silky Smooth Conditioner 900ml,106
+1384,2291,Cbv Shampoo Colour Revitalising 100ml,0.8049135342238791,Cbvery Colour Revitalise Conditioner 1.3ml,294
+1385,2291,Cbv Shampoo Colour Revitalising 100ml,0.8012147425940529,Cbvery Colour Revitalise Shampoo 900 ml,84
+1386,2291,Cbv Shampoo Colour Revitalising 100ml,0.7960960960960961,Cbvery Silky Smooth Conditioner 500ml,169
+1387,2291,Cbv Shampoo Colour Revitalising 100ml,0.7960960960960961,Cbvery Silky Smooth Conditioner 900ml,106
+1388,2292,Cbv Hairspray Instant 100ml,0.6777296777296776,Cbvery Extra Hold Hairspray 400ml,324
+1389,2292,Cbv Hairspray Instant 100ml,0.6722783389450057,Cbvery Ultimate Hold Hairspray 400ml,325
+1390,2292,Cbv Hairspray Instant 100ml,0.6600529100529101,Cbvery Ultimate Hold Hairspray 250ml,103
+1391,2292,Cbv Hairspray Instant 100ml,0.6565113500597372,Fiur Leave In Conditioner 100ml,50
+1392,2307,Cbv Heat Protection Spr Protect 300ml,0.7950375106289085,Cbvery Pro Collection Keratin Smooth Conditioner 400ml,326
+1393,2307,Cbv Heat Protection Spr Protect 300ml,0.6973233395997624,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1394,2307,Cbv Heat Protection Spr Protect 300ml,0.671063921063921,Cbvery Pro Collection Biotin+ Repair 7 Conditioner 700ml,879
+1395,2307,Cbv Heat Protection Spr Protect 300ml,0.6637837837837838,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+1396,2308,Cbv Heat Protection Spr Protect 300ml,0.7950375106289085,Cbvery Pro Collection Keratin Smooth Conditioner 400ml,326
+1397,2308,Cbv Heat Protection Spr Protect 300ml,0.6973233395997624,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1398,2308,Cbv Heat Protection Spr Protect 300ml,0.671063921063921,Cbvery Pro Collection Biotin+ Repair 7 Conditioner 700ml,879
+1399,2308,Cbv Heat Protection Spr Protect 300ml,0.6637837837837838,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+1400,2312,Oddaced Hairspray Extra Firm Hold 250ml,0.8684774104128943,Oddaced Ultimate Hold Hairspray 400ml,203
+1401,2312,Oddaced Hairspray Extra Firm Hold 250ml,0.849000999000999,Oddaced Firm Hold Gel Spray 200ml,110
+1402,2312,Oddaced Hairspray Extra Firm Hold 250ml,0.8477335164835165,Oddaced Mini Ultimate Hold Hairspray 100ml,201
+1403,2312,Oddaced Hairspray Extra Firm Hold 250ml,0.8464468864468865,Oddaced High Volume Hairspray 400ml,195
+1404,2318,Sinoyez Cream 75ml,0.8466666666666667,Sinoyez Wax Hair Wax 75ml,120
+1405,2318,Sinoyez Cream 75ml,0.6334610472541508,Sinoyez Wax MALE GROOMING 20g,393
+1406,2318,Sinoyez Cream 75ml,0.6333333333333333,Fiur Men Mattifying Putty 75ml,347
+1407,2318,Sinoyez Cream 75ml,0.6253387533875339,Sinoyez Frizz Control MALE GROOMING 100ml,396
+1408,2332,Baby Mexifiz Shampoo Bot Sens Moistur 400ml,0.8324031007751939,Baby Mexifiz Sensitive Moisture Wipes 50pcs,768
+1409,2332,Baby Mexifiz Shampoo Bot Sens Moistur 400ml,0.8315839094908862,Baby Mexifiz Rich Moisture Wipes 50pc,747
+1410,2332,Baby Mexifiz Shampoo Bot Sens Moistur 400ml,0.720895501653191,Mexifiz Daily Moisture Shampoo 250ml,223
+1411,2332,Baby Mexifiz Shampoo Bot Sens Moistur 400ml,0.7078214381181502,Mexifiz Pro Age Shampoo 400ml,351
+1412,2335,Fiur Rinse Off Mask 200ml Smoothing,0.6895238095238095,Fiur Intense Softness Shampoo 250ml,71
+1413,2335,Fiur Rinse Off Mask 200ml Smoothing,0.6829100529100529,Fiur Smooth Definition Shampoo 250ml,44
+1414,2335,Fiur Rinse Off Mask 200ml Smoothing,0.6733556765814831,Fiur Wave Memorising Balm 100ml,78
+1415,2335,Fiur Rinse Off Mask 200ml Smoothing,0.6707268170426066,Fiur Instant Refresh Dry Shampoo 250ml,41
+1416,2336,Cbv Inco Leave on Repair+protect 125ml,0.6694235588972429,Cbvery Instant Refresh Dry Shampoo 250ml,650
+1417,2336,Cbv Inco Leave on Repair+protect 125ml,0.6662308435949856,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1418,2336,Cbv Inco Leave on Repair+protect 125ml,0.6652631578947369,Cbvery Moisture Rich Conditioner 1.3ml,295
+1419,2336,Cbv Inco Leave on Repair+protect 125ml,0.6626855600539812,Cbvery Cleanse & Replenish Shampoo 500ml,100
+1420,2337,Cbv Inco Leave on Repair+protect 125ml,0.6694235588972429,Cbvery Instant Refresh Dry Shampoo 250ml,650
+1421,2337,Cbv Inco Leave on Repair+protect 125ml,0.6662308435949856,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1422,2337,Cbv Inco Leave on Repair+protect 125ml,0.6652631578947369,Cbvery Moisture Rich Conditioner 1.3ml,295
+1423,2337,Cbv Inco Leave on Repair+protect 125ml,0.6626855600539812,Cbvery Cleanse & Replenish Shampoo 500ml,100
+1424,2339,Oddaced Oth Hair Styl Bot Tropical 50ml,0.8514652014652014,Oddaced Freeze Hold Styling Spray 150ml,198
+1425,2339,Oddaced Oth Hair Styl Bot Tropical 50ml,0.8449410949410949,Oddaced Ultimate Hold Hairspray 400ml,203
+1426,2339,Oddaced Oth Hair Styl Bot Tropical 50ml,0.8397202797202798,Oddaced Tousled Style Spray 150ml,219
+1427,2339,Oddaced Oth Hair Styl Bot Tropical 50ml,0.8370629370629371,Oddaced Smooth Hair Shampoo 250ml,187
+1428,2341,Fiur Dry Shampoo Volume 250ml,0.890562613430127,Fiur Sky High Volume Dry Shampoo 250ml,146
+1429,2341,Fiur Dry Shampoo Volume 250ml,0.8817279272451686,Fiur Volume Addiction Shampoo 250ml,43
+1430,2341,Fiur Dry Shampoo Volume 250ml,0.8476761619190405,Fiur Deep Clean Shampoo 250ml,49
+1431,2341,Fiur Dry Shampoo Volume 250ml,0.8476761619190405,Fiur 3D Volumiser Spray 150ml,97
+1432,2344,Oddaced Hairspray Ultimate Hold 250ml,0.9212355212355212,Oddaced Ultimate Hold Hairspray 400ml,203
+1433,2344,Oddaced Hairspray Ultimate Hold 250ml,0.892998712998713,Oddaced Mini Ultimate Hold Hairspray 100ml,201
+1434,2344,Oddaced Hairspray Ultimate Hold 250ml,0.8710483210483211,Oddaced Firm Hold Gel Spray 200ml,110
+1435,2344,Oddaced Hairspray Ultimate Hold 250ml,0.8535055252296632,Oddaced High Volume Hairspray 400ml,195
+1436,2349,Twicebeaut Cond 500ml Bot Hydrat,0.6984039961013645,Twicebeaut Coconut Water & Mimosa Flower Hydro Gel 250 ML,1592
+1437,2349,Twicebeaut Cond 500ml Bot Hydrat,0.683335994040017,Twicebeaut  Coconut Water & Mimosa Flower Hydro Gel 250 ML,417
+1438,2349,Twicebeaut Cond 500ml Bot Hydrat,0.6749503430841459,Twicebeaut Coconut Oil & Ylang Ylang Hope And Repair Conditioner 400 ML,409
+1439,2349,Twicebeaut Cond 500ml Bot Hydrat,0.6638736263736263,Twicebeaut Argan Oil and Lavender Soothe And Serene Body Lotion 400 ml,413
+1440,2350,Twicebeaut Cond 500ml Bot Hydrat,0.6984039961013645,Twicebeaut Coconut Water & Mimosa Flower Hydro Gel 250 ML,1592
+1441,2350,Twicebeaut Cond 500ml Bot Hydrat,0.683335994040017,Twicebeaut  Coconut Water & Mimosa Flower Hydro Gel 250 ML,417
+1442,2350,Twicebeaut Cond 500ml Bot Hydrat,0.6749503430841459,Twicebeaut Coconut Oil & Ylang Ylang Hope And Repair Conditioner 400 ML,409
+1443,2350,Twicebeaut Cond 500ml Bot Hydrat,0.6638736263736263,Twicebeaut Argan Oil and Lavender Soothe And Serene Body Lotion 400 ml,413
+1444,2355,Fiur Lotion Volume 236ml,0.8322984749455338,Fiur Shine Gloss Serum 30ml,39
+1445,2355,Fiur Lotion Volume 236ml,0.8283333333333334,Fiur Volume Addiction Shampoo 250ml,43
+1446,2355,Fiur Lotion Volume 236ml,0.8255494505494506,Fiur Volume Addiction Conditioner 250ml,53
+1447,2355,Fiur Lotion Volume 236ml,0.8225146198830409,Fiur Sky High Volume Dry Shampoo 250ml,146
+1448,2362,Cbv Shampoo Colour 700ml,0.6912912912912912,Cbvery Silky Smooth Conditioner 500ml,169
+1449,2362,Cbv Shampoo Colour 700ml,0.6912912912912912,Cbvery Silky Smooth Conditioner 900ml,106
+1450,2362,Cbv Shampoo Colour 700ml,0.6904553049289891,Cbvery Smooth & Silky Shampoo 900ml,112
+1451,2362,Cbv Shampoo Colour 700ml,0.6838782562466773,Cbvery Silky Smooth Shampoo 500ml,74
+1452,2364,6Good Shampoo Scalp Hydration Bot 400ml,0.8414954507857735,6Good Gentle Care Shampoo 400ml,355
+1453,2364,6Good Shampoo Scalp Hydration Bot 400ml,0.6975885225885227,6Good Gentle Care Conditioner 400ml,354
+1454,2364,6Good Shampoo Scalp Hydration Bot 400ml,0.69693313222725,6Good Soothing Anti-perspirant Deodorant Stick 40ml,973
+1455,2364,6Good Shampoo Scalp Hydration Bot 400ml,0.6899281274281274,6Good Gentle Care Handwash 250ml,165
+1456,2366,Cbv Co Colour Bot 700ml,0.6921475250994701,Cbvery Silky Smooth Conditioner 900ml,106
+1457,2366,Cbv Co Colour Bot 700ml,0.6921475250994701,Cbvery Silky Smooth Conditioner 500ml,169
+1458,2366,Cbv Co Colour Bot 700ml,0.6754478986437462,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1459,2366,Cbv Co Colour Bot 700ml,0.6649099692577952,Cbvery Silky Smooth Shampoo 500ml,74
+1460,2376,Oddaced Hairspray Flexible Hold 100ml,0.8706190061028771,Oddaced Ultimate Hold Hairspray 400ml,203
+1461,2376,Oddaced Hairspray Flexible Hold 100ml,0.8628539253539254,Oddaced Mini Ultimate Hold Hairspray 100ml,201
+1462,2376,Oddaced Hairspray Flexible Hold 100ml,0.8621621621621622,Oddaced Shine & Hold Hairspray 400ml,130
+1463,2376,Oddaced Hairspray Flexible Hold 100ml,0.8604020769538011,Oddaced High Volume Hairspray 400ml,195
+1464,2383,Cbv Shampoo Hydrating 700ml,0.6719135802469136,Cbvery Firm Hold Hairspray 400ml,328
+1465,2383,Cbv Shampoo Hydrating 700ml,0.6706706706706705,Cbvery Silky Smooth Conditioner 500ml,169
+1466,2383,Cbv Shampoo Hydrating 700ml,0.6706706706706705,Cbvery Silky Smooth Conditioner 900ml,106
+1467,2383,Cbv Shampoo Hydrating 700ml,0.6680862046715705,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1468,2385,Cbv Co Flawless Curls Bot 900ml,0.6854149434794596,Cbvery Colour Revitalise Shampoo 900 ml,84
+1469,2385,Cbv Co Flawless Curls Bot 900ml,0.6721966205837173,Cbvery Smooth & Silky Shampoo 900ml,112
+1470,2385,Cbv Co Flawless Curls Bot 900ml,0.6612843288860119,Cbvery Beauty-Full Volume Shampoo 400ml,895
+1471,2385,Cbv Co Flawless Curls Bot 900ml,0.6425654032555758,Mexifiz Men+Care Cool Fresh Body wash 400ml,257
+1472,2386,Cbv Co Hydrating Bot 700ml,0.799623405933056,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1473,2386,Cbv Co Hydrating Bot 700ml,0.6965151965151964,Cbvery Biotin+ Repair 7 Shampoo 700ml,887
+1474,2386,Cbv Co Hydrating Bot 700ml,0.6965151965151964,Cbvery Biotin+ Repair 7 Shampoo 400ml,327
+1475,2386,Cbv Co Hydrating Bot 700ml,0.6709401709401709,Cbvery Remoisturising Conditioner 500ml,134
+1476,2398,6Good Co Scalp Hydration Bot 400ml,0.852349146110057,6Good Gentle Care Shampoo 400ml,355
+1477,2398,6Good Co Scalp Hydration Bot 400ml,0.8339159663865546,6Good Gentle Care Conditioner 400ml,354
+1478,2398,6Good Co Scalp Hydration Bot 400ml,0.8259159663865547,6Good Rapid Action Spot Zapper 15ml,598
+1479,2398,6Good Co Scalp Hydration Bot 400ml,0.6936274509803922,Oddaced Shine & Hold Hairspray 400ml,130
+1480,2421,Toz Shampoo Std 89ml Col Assure,0.6420890937019968,6Good Gentle Care Shampoo 400ml,355
+1481,2421,Toz Shampoo Std 89ml Col Assure,0.6066729637156406,6Good Spotless Skin Anti-Blemish Moisturiser 75ml,114
+1482,2421,Toz Shampoo Std 89ml Col Assure,0.5987405416168857,Mexifiz Cool Fresh Deo Aero,1338
+1483,2421,Toz Shampoo Std 89ml Col Assure,0.5957797720106718,6Good Rapid Action Spot Zapper 15ml,598
+1484,2447,Oddaced Oth Hair Styl Bot Rose 50ml,0.8465710002141786,Oddaced SurfStyle Paste 150ml,162
+1485,2447,Oddaced Oth Hair Styl Bot Rose 50ml,0.8391697191697193,Oddaced Shine & Hold Hairspray 400ml,130
+1486,2447,Oddaced Oth Hair Styl Bot Rose 50ml,0.8325974025974026,Oddaced Smooth Hair Shampoo 250ml,187
+1487,2447,Oddaced Oth Hair Styl Bot Rose 50ml,0.8315673799884327,Oddaced Nourish My Shine Shampoo 250ml,220
+1488,2459,Fiur Rinse Off Mask 200ml Ash Plat Blonde,0.64806684733514,Fiur Illuminate Blonde Shampoo 250ml,47
+1489,2459,Fiur Rinse Off Mask 200ml Ash Plat Blonde,0.6459613557174533,Fiur Intense Softness Shampoo 250ml,71
+1490,2459,Fiur Rinse Off Mask 200ml Ash Plat Blonde,0.6426936556755597,Fiur Messy Sea Salt Spray 200ml,148
+1491,2459,Fiur Rinse Off Mask 200ml Ash Plat Blonde,0.6339341928772823,Fiur Flawless Sleek Creation Hairspray 250ml,38
+1492,2462,Oddaced Hairspray Mega Hold 250ml,0.8704453669970912,Oddaced Ultimate Hold Hairspray 400ml,203
+1493,2462,Oddaced Hairspray Mega Hold 250ml,0.8681096681096682,Oddaced Shine & Hold Hairspray 400ml,130
+1494,2462,Oddaced Hairspray Mega Hold 250ml,0.865909090909091,Oddaced Refresh Dry Shampoo 250ml,611
+1495,2462,Oddaced Hairspray Mega Hold 250ml,0.8654112554112554,Oddaced High Volume Hairspray 400ml,195
+1496,2468,Mexifiz Shampoo Restorative 400ml,0.8759289446185997,Mexifiz Pro Age Shampoo 400ml,351
+1497,2468,Mexifiz Shampoo Restorative 400ml,0.8663201891877028,Mexifiz Intensive Repair Shampoo 250ml,599
+1498,2468,Mexifiz Shampoo Restorative 400ml,0.8543771043771045,Mexifiz Daily Moisture Shampoo 250ml,223
+1499,2468,Mexifiz Shampoo Restorative 400ml,0.8463722943722944,Mexifiz Intensive Body Lotion 400ml,1379
+1500,2478,Fiur Co Blond 250ml,0.828765880217786,Fiur Deep Clean Shampoo 250ml,49
+1501,2478,Fiur Co Blond 250ml,0.8280022637238258,Fiur Leave In Conditioner 100ml,50
+1502,2478,Fiur Co Blond 250ml,0.8211779448621555,Fiur Curl Lock Oil 150ml,293
+1503,2478,Fiur Co Blond 250ml,0.6954444935869084,Fiur Volume Addiction Shampoo 250ml,43
+1504,2480,Cbv Co Colour Bot 290ml,0.6746036654503474,Cbvery Silky Smooth Conditioner 900ml,106
+1505,2480,Cbv Co Colour Bot 290ml,0.6637724681202942,Cbvery Silky Smooth Conditioner 500ml,169
+1506,2480,Cbv Co Colour Bot 290ml,0.6570598058012246,Mexifiz Colour Care Conditioner 200ml,221
+1507,2480,Cbv Co Colour Bot 290ml,0.6482817970232158,Cbvery Colour Revitalise Shampoo 900 ml,84
+1508,2580,Mexifiz Co Restorative Bot 350ml,0.8837651515151516,Mexifiz Pro Age Conditioner 350ml,350
+1509,2580,Mexifiz Co Restorative Bot 350ml,0.868482905982906,Mexifiz  Intensive Body Lotion 250ml,607
+1510,2580,Mexifiz Co Restorative Bot 350ml,0.8649175824175824,Mexifiz Intensive Body Lotion 250ml,1202
+1511,2580,Mexifiz Co Restorative Bot 350ml,0.8570569828722003,Mexifiz Pro Age Conditioner 200ml,85
+1512,2586,Fiur Rinse Off Mask 200ml Medium Blonde,0.6845204178537512,Fiur Shine Gloss Serum 30ml,39
+1513,2586,Fiur Rinse Off Mask 200ml Medium Blonde,0.6683146192950115,Oddaced Curl Defining Mousse 200ml,688
+1514,2586,Fiur Rinse Off Mask 200ml Medium Blonde,0.6612843288860119,Fiur Wave Memorising Balm 100ml,78
+1515,2586,Fiur Rinse Off Mask 200ml Medium Blonde,0.6530289633737909,Fiur Damage Repair Mask 200ml,51
+1516,2587,Fiur Rinse Off Mask 200ml Dark Brown,0.6686984790433067,Fiur Damage Repair Mask 200ml,51
+1517,2587,Fiur Rinse Off Mask 200ml Dark Brown,0.6641130604288499,Fiur Instant Refresh Dry Shampoo 250ml,41
+1518,2587,Fiur Rinse Off Mask 200ml Dark Brown,0.6424731182795699,Fiur Messy Sea Salt Spray 200ml,148
+1519,2587,Fiur Rinse Off Mask 200ml Dark Brown,0.6424731182795699,Fiur Wave Memorising Balm 100ml,78
+1520,2588,Cbv Ro Mask Pump 200ml Ash Plat Blonde,0.642600089968511,Cbvery Colour Revitalise Shampoo 900 ml,84
+1521,2588,Cbv Ro Mask Pump 200ml Ash Plat Blonde,0.6409649122807018,Cbvery Cleanse & Replenish Shampoo 500ml,100
+1522,2588,Cbv Ro Mask Pump 200ml Ash Plat Blonde,0.6240956163994893,Mexifiz Purely Pampering Almond Cream Bath Soak 500ml,113
+1523,2588,Cbv Ro Mask Pump 200ml Ash Plat Blonde,0.6139816003423192,Mexifiz Supreme Fine Silk Bath Soak 500ml,79
+1524,2589,Cbv Ro Mask Pump 200ml Dark Brown,0.6531986531986531,Cbvery Translucent Dry Shampoo 250ml,211
+1525,2589,Cbv Ro Mask Pump 200ml Dark Brown,0.638047138047138,Cbvery Volumising Dry Shampoo 250 ml,700
+1526,2589,Cbv Ro Mask Pump 200ml Dark Brown,0.617906034024455,Cbvery Firm Hold Hairspray 400ml,328
+1527,2589,Cbv Ro Mask Pump 200ml Dark Brown,0.6176767676767677,Cbvery Instant Refresh Dry Shampoo 250ml,650
+1528,2590,Cbv Ro Mask Pump 200ml Light Blonde,0.6591269841269841,Cbvery Volumising Dry Shampoo 250 ml,700
+1529,2590,Cbv Ro Mask Pump 200ml Light Blonde,0.6517704517704518,Cbvery Colour Revitalise Shampoo 900 ml,84
+1530,2590,Cbv Ro Mask Pump 200ml Light Blonde,0.6463203463203463,Cbvery Volumising Dry Shampoo 250ml,210
+1531,2590,Cbv Ro Mask Pump 200ml Light Blonde,0.634994734994735,Cbvery Silky Smooth Conditioner 900ml,106
+1532,2591,Cbv Ro Mask Pump 200ml Red,0.644017094017094,Cbvery Colour Revitalise Shampoo 900 ml,84
+1533,2591,Cbv Ro Mask Pump 200ml Red,0.6381766381766382,Cbvery Ultimate Hold Hairspray 250ml,103
+1534,2591,Cbv Ro Mask Pump 200ml Red,0.6381766381766382,Cbvery Ultimate Hold Hairspray 400ml,325
+1535,2591,Cbv Ro Mask Pump 200ml Red,0.6294620412267471,Cbvery Moisture Rich Shampoo 1.3ml,252
+1536,2608,Cbv Inco Rinse Off Scrub 300ml,0.6309941520467836,Cbvery Moisture Rich Conditioner 1.3ml,295
+1537,2608,Cbv Inco Rinse Off Scrub 300ml,0.6287405505634004,Cbvery Biotin+ Repair 7 Conditioner 400ml,330
+1538,2608,Cbv Inco Rinse Off Scrub 300ml,0.6259259259259259,Mexifiz  Intensive Body Lotion 400ml,780
+1539,2608,Cbv Inco Rinse Off Scrub 300ml,0.6191183085919928,Cbvery Remoisturising Conditioner 900ml,94
+1540,2644,Fiur Gum Stick Tin 75ml,0.8384578952353887,Fiur Texturising Fibre 75ml,341
+1541,2644,Fiur Gum Stick Tin 75ml,0.8207971014492753,Fiur Men Mattifying Putty 75ml,347
+1542,2644,Fiur Gum Stick Tin 75ml,0.6979699488491048,Fiur Radiating Tropical Oil 50ml,96
+1543,2644,Fiur Gum Stick Tin 75ml,0.6739749783228044,Fiur Volume Addiction Conditioner 250ml,53
